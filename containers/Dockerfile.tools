@@ -1,0 +1,11 @@
+# BASE_IMAGE must be a verified mambaorg/micromamba content digest.
+ARG BASE_IMAGE
+FROM ${BASE_IMAGE}
+ARG ENVIRONMENT_FILE=containers/tools.yaml
+COPY --chown=$MAMBA_USER:$MAMBA_USER ${ENVIRONMENT_FILE} /tmp/environment.yaml
+RUN micromamba config set channel_priority strict && \
+    micromamba install --yes --name base --file /tmp/environment.yaml && \
+    micromamba list --name base --explicit > /opt/conda/explicit-packages.txt
+ENV PATH=/opt/conda/bin:$PATH
+ENV LC_ALL=C.UTF-8
+WORKDIR /work

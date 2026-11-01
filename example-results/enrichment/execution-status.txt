@@ -1,0 +1,5 @@
+Executed gene-level GO over-representation.
+BH correction spans all size-eligible terms across BP/CC/MF within each day and direction.
+GO-derived associations include ancestor propagation (GOALL); genes are counted once per term.
+Separate day/direction/family families do not provide study-wide FDR control.
+Enrichment is exploratory and does not demonstrate pathway activation or causality.

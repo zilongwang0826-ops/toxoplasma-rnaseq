@@ -1,0 +1,6 @@
+*
+!containers/
+!containers/*.yaml
+!containers/Dockerfile.*
+!containers/locks/
+!containers/locks/*.explicit.txt

@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-10-27T22:03:21.594095+00:00",
+  "decoy_sequences": 66,
+  "duplicate_identical_transcripts_removed": 0,
+  "genes": 53028,
+  "gentrome_sha256": "45fb1d6cf637f8badacf9ab6220daab418100fe8d775d59a0a567f4dff682de7",
+  "input_sha256": {
+    "resources/ensembl100/source/cdna.gz": "2947b18c23ca387ca5509a298c8feaa09b719c0110852851892e973da60ff655",
+    "resources/ensembl100/source/genome.gz": "285bc481d583ab65b13d91853bf743acf950710afb3302264a4b4f116b6049c1",
+    "resources/ensembl100/source/gtf.gz": "5858fe80186a545865e3d9360db30c4cf178328eecb36a53376293b804400c4d",
+    "resources/ensembl100/source/ncrna.gz": "73da1c71a2bd19ea831faa08eb2f4fa64b3e757e8c48a5684944976a2d98a006"
+  },
+  "transcripts": 141450,
+  "tx2gene_sha256": "dd1f002131dc1dd096b3ce8b6947e7a339c47245ec640edf61ead1de685cd691"
+}

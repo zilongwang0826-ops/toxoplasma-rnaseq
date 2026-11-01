@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507" height="288" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 288" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507" height="288"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-288)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="143.448" y="279" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,558) scale(1,-1)">Snakemake orchestration  |  Locked Docker images</text>
+			<rect x="3" y="225" width="238" height="35" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="83.9606" y="245.5" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,491) scale(1,-1)">ENA paired FASTQ</text>
+			<text x="75.52625" y="233.5" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,467) scale(1,-1)">Archive checks and FastQC</text>
+			<rect x="266" y="225" width="238" height="35" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="332.01279999999997" y="245.5" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,491) scale(1,-1)">Ensembl 100 / GRCm38.p6</text>
+			<text x="312.0475" y="233.5" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,467) scale(1,-1)">Transcripts, annotation and genome decoys</text>
+			<rect x="134" y="172" width="239" height="35" rx="3" ry="3" style="stroke: rgb(9%,20%,25%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(9%,20%,25%); fill-rule: evenodd;"/>
+			<text x="198.53879999999998" y="192.5" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,385) scale(1,-1)">Salmon quantification + QC</text>
+			<text x="194.94" y="180.5" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,361) scale(1,-1)">Decoy-aware index; bias correction</text>
+			<path d="M 122,225 L 122,216 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 122,216 L 204,216 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 204,216 L 204,207 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="204 207, 201.5 212, 206.5 212" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+			<path d="M 385,225 L 385,216 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 385,216 L 303,216 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 303,216 L 303,207 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="303 207, 300.5 212, 305.5 212" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+			<rect x="134" y="121" width="239" height="33" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="236.7" y="140.5" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,281) scale(1,-1)">tximport</text>
+			<text x="188.05124999999998" y="128.5" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,257) scale(1,-1)">Separate gene and transcript estimates</text>
+			<path d="M 253.5,172 L 253.5,154 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="253.5 154, 251 159, 256 159" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+			<rect x="3" y="65" width="238" height="38" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="78.5846" y="87.0" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,174) scale(1,-1)">Gene DESeq2 models</text>
+			<text x="58.730000000000004" y="75.0" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,150) scale(1,-1)">Counts + length offsets; 11 and 33 dpi</text>
+			<rect x="266" y="65" width="238" height="38" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="331.5508" y="87.0" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,174) scale(1,-1)">Transcript DESeq2 models</text>
+			<text x="318.505" y="75.0" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,150) scale(1,-1)">lengthScaledTPM counts; 11 and 33 dpi</text>
+			<path d="M 253.5,121 L 253.5,113 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 253.5,113 L 122,113 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 122,113 L 122,103 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="122 103, 119.5 108, 124.5 108" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+			<path d="M 253.5,113 L 385,113 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<path d="M 385,113 L 385,103 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="385 103, 382.5 108, 387.5 108" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+			<rect x="3" y="10" width="238" height="38" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="91.6592" y="32.0" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,64) scale(1,-1)">GO enrichment</text>
+			<text x="46.55749999999999" y="20.0" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,40) scale(1,-1)">Tested universe; overlapping-locus sensitivity</text>
+			<rect x="266" y="10" width="238" height="38" rx="3" ry="3" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(92%,94%,95%); fill-rule: evenodd;"/>
+			<text x="319.41700000000003" y="32.0" style="font-family: Helvetica-Bold; font-size: 8.4px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,64) scale(1,-1)">Published transcript comparison</text>
+			<text x="312.6775" y="20.0" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(9%,20%,25%); stroke:none;" transform="translate(0,40) scale(1,-1)">Selected-list recovery and effect agreement</text>
+			<path d="M 122,65 L 122,48 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="122 48, 119.5 53, 124.5 53" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+			<path d="M 385,65 L 385,48 Z" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<polygon points="385 48, 382.5 53, 387.5 53" style="stroke: rgb(47%,56%,62%); stroke-linecap: butt; stroke-width: 0.5; fill: rgb(47%,56%,62%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

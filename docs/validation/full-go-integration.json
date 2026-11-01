@@ -1,0 +1,1 @@
+{"status":"PASS","data_type":"synthetic_labels_with_real_GO_annotations","checks":["annotation_join","eligible_background","mapping_loss","BH","tables","plots"]}

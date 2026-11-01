@@ -1,0 +1,39 @@
+from pathlib import Path
+import sys
+import json
+import shlex
+from snakemake.utils import min_version
+min_version('9.27.1')
+configfile: 'config/config.yaml'
+sys.path.insert(0, str(Path('workflow/scripts').resolve()))
+from common import read_samples
+SAMPLES = read_samples(config['samples'])
+BY_ID = {row['sample_id']: row for row in SAMPLES}
+IDS = list(BY_ID)
+OUT = config['output']
+RAW = config['raw']
+REF = config['reference_dir']
+CFG = config
+if any(Path(x).is_absolute() or '..' in Path(x).parts for x in (OUT,RAW,REF,config['samples'])):
+    raise ValueError('Paths must remain inside the mounted project directory')
+if config['quantification']['trim'] and not config['quantification']['trimming_reason'].strip():
+    raise ValueError('Trimming requires a documented QC justification in config')
+RUN = 'python3 workflow/scripts/container_exec.py'
+LOCK_PATH = Path('containers/images.lock.json')
+IMAGES = json.loads(LOCK_PATH.read_text())['images'] if LOCK_PATH.exists() else {}
+def image_identity(key):
+    return IMAGES.get(key, {}).get('id', 'UNBUILT-' + key)
+
+def fastq(w, mate):
+    folder = OUT + '/trimmed' if CFG['quantification']['trim'] else RAW
+    return f'{folder}/{w.sample}_{mate}.fastq.gz'
+
+rule all:
+    input:
+        OUT + '/report/index.html',
+        OUT + '/provenance/run.json',
+        OUT + '/qc/multiqc_report.html'
+
+include: 'rules/acquisition.smk'
+include: 'rules/processing.smk'
+include: 'rules/analysis.smk'

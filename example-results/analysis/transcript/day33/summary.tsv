@@ -1,0 +1,2 @@
+level	day	contrast	n_control	n_infected	features_input	features_filter_pass	features_eligible	significant_up	significant_down	nominal_sensitivity	alpha	lfc_cutoff	counts_from_abundance
+transcript	33	infected_vs_control	3	3	141450	47529	47404	1804	101	2506	0.05	1.5	lengthScaledTPM

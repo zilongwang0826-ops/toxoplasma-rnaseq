@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "data_type": "synthetic",
+  "assigned_pairs": 10000.0,
+  "counts": {
+    "synthetic_tx1": 9000.0,
+    "synthetic_tx2": 800.0,
+    "synthetic_tx3": 200.0
+  }
+}

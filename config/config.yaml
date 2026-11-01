@@ -1,0 +1,45 @@
+project: toxoplasma-brain-hu2020
+samples: metadata/samples.tsv
+output: results
+raw: data/fastq
+reference_dir: resources/ensembl100
+reference:
+  assembly: GRCm38.p6
+  annotation_release: 100
+  cdna_url: https://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/cdna/Mus_musculus.GRCm38.cdna.all.fa.gz
+  ncrna_url: https://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/ncrna/Mus_musculus.GRCm38.ncrna.fa.gz
+  genome_url: https://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/dna/Mus_musculus.GRCm38.dna.primary_assembly.fa.gz
+  gtf_url: https://ftp.ensembl.org/pub/release-100/gtf/mus_musculus/Mus_musculus.GRCm38.100.chr_patch_hapl_scaff.gtf.gz
+  decoys: true
+  kmer: 31
+quantification:
+  library_type: A
+  seq_bias: true
+  gc_bias: true
+  min_mapping_percent: 50
+  min_assigned_fragments: 1000000
+  trim: false
+  # Archived reads match the paper's clean-read totals. Enable only after QC review.
+  trimming_reason: ''
+  trim_quality: 20
+  trim_min_length: 50
+analysis:
+  alpha: 0.05
+  abs_log2fc: 1.5
+  min_count: 10
+  min_samples: 3
+  interaction: true
+  # Per-day BH-adjusted primary results; raw-P sensitivity columns are retained.
+enrichment:
+  # Optional frozen, licensed KEGG gene sets: term_id,term_name,gene_id (Ensembl).
+  kegg_tsv: ''
+resources:
+  threads: 2
+  # Docker m units are MiB: 22,888 MiB = 23,999,807,488 bytes (<24 GB).
+  index_mem_mb: 22888
+  # Completed full-genome-decoy index exceeds the initial 8,000 MiB load budget.
+  quant_mem_mb: 16000
+  analysis_mem_mb: 8000
+  download_slots: 1
+  min_free_gib: 140
+  download_limit_gib: 80

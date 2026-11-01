@@ -1,0 +1,10 @@
+# Docker-capable Linux allocation only; scheduler submission is site-specific.
+cores: 8
+jobs: 2
+scheduler: greedy
+printshellcmds: true
+rerun-incomplete: true
+latency-wait: 60
+resources:
+  mem_mb: 48000
+  download_slots: 1

@@ -1,0 +1,24 @@
+{
+  "built_at": "2026-10-27T20:35:20.108543+00:00",
+  "base_image": "mambaorg/micromamba@sha256:10bd2dd2e7bfae77e529c76a71f4126c222d74e99b908abc6e210da9eda0f6af",
+  "images": {
+    "tools": {
+      "tag": "projet2-tools:2026.1",
+      "id": "sha256:ab96a08b7ee5aadab6b329cd658e8cd60776ca5da3ffa67e7437c922e32e4710",
+      "architecture": "amd64",
+      "recipe_sha256": {
+        "containers/Dockerfile.tools": "8cfe02eae1a0f63c6d41e3fe0591280e3277fc6fb45b3ea736f6b40ca6a312d0",
+        "containers/tools.yaml": "c5d64103c28418e45a255b36a09bcfd784ee7706aec9871c88ae7cd686868b03"
+      }
+    },
+    "statistics": {
+      "tag": "projet2-statistics:2026.1",
+      "id": "sha256:52ccc5c2e434ae7bb02526cf576030cebef6f73c760240bff9208507f2626b45",
+      "architecture": "amd64",
+      "recipe_sha256": {
+        "containers/Dockerfile.statistics": "515be9de35645c70e5fa729d2ac52cbf90d6b1e222a95c1df94d47dce862203f",
+        "containers/statistics.yaml": "db1d9bcbde8e053465023765e57e22c746a5a167c1e8c14798f0bd1c0c32ba49"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+"day"	"counting"	"terms"	"significant"	"minimum_fdr"	"selected_genes"	"universe"	"row"	"detail"
+11	"primary"	8035	0	0.278525160267325	39	15619	"11 dpi | primary"	"0 / 8035 significant GO terms
+39 selected genes / 15619 universe genes; minimum FDR = 0.279"
+33	"primary"	8112	0	0.852187175422131	17	15976	"33 dpi | primary"	"0 / 8112 significant GO terms
+17 selected genes / 15976 universe genes; minimum FDR = 0.852"
+11	"collapsed"	8032	0	0.278503937416686	39	15618	"11 dpi | collapsed"	"0 / 8032 significant GO terms
+39 selected genes / 15618 universe genes; minimum FDR = 0.279"
+33	"collapsed"	8099	0	0.85092724964667	17	15975	"33 dpi | collapsed"	"0 / 8099 significant GO terms
+17 selected genes / 15975 universe genes; minimum FDR = 0.851"

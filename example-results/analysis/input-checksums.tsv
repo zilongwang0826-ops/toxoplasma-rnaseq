@@ -1,0 +1,15 @@
+path	md5
+metadata/samples.tsv	a87915b6cfa4170cc544fbbecbc42b04
+resources/ensembl100/prepared/tx2gene.tsv	df5e4739ed3e5477189cbcbd0261a9d6
+results/salmon/C111/quant.sf	e580ecac4ac14f251f853873eea28a86
+results/salmon/C112/quant.sf	ac5fa52f4b2ceb651fd3cec587d052ba
+results/salmon/C113/quant.sf	ab75550c98939d2c22f9d0700de59bdf
+results/salmon/T111/quant.sf	d288dbf95e2aea8995702fe7e53c9f3d
+results/salmon/T112/quant.sf	452d75734718d0c671ac27df6f843c25
+results/salmon/T113/quant.sf	bcafededab4c2ca620dee196ae4e4299
+results/salmon/C331/quant.sf	4a7d1f75afa46f7b136618121d3e0638
+results/salmon/C332/quant.sf	8e9b06dab5f2b5e33b102d54007c45b7
+results/salmon/C333/quant.sf	0a7875ec37fd4194cc7352ba3179a118
+results/salmon/T331/quant.sf	105ad78efe44e123c6fb93d05cc68358
+results/salmon/T332/quant.sf	6e4c920fe6ce3fe3332912ee29bd6c4e
+results/salmon/T333/quant.sf	9bb9a6b3b55307bdd751d2ff2d06135a

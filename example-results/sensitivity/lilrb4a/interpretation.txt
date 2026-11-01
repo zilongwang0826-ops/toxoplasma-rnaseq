@@ -1,0 +1,6 @@
+Completed counting sensitivity for one documented overlapping Ensembl locus.
+Primary DE estimates and P values are unchanged. Selected locus membership is the union of originally selected member IDs within each direction.
+This is not a locus-level differential-expression test; union selection does not provide new locus-level FDR control.
+Frozen GO term sets identical: TRUE ; union annotations used when collapsing.
+Term-size eligibility and BH correction were recomputed for all four day/direction families, including zero-overlap terms.
+Other aliases are not automatically merged.

@@ -1,0 +1,22 @@
+{
+  "python": "3.12.16",
+  "platform": "macOS-26.6-arm64-arm-64bit",
+  "machine": "arm64",
+  "packages": {
+    "reportlab": "5.1.0",
+    "Pillow": "13.0.0",
+    "pypdf": "6.21.4",
+    "PyMuPDF": "1.28.2",
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1"
+  },
+  "R_session": "report/figures/redesigned/session-info.txt",
+  "svg_qa_renderer": {
+    "sharp": "0.35.5",
+    "librsvg": "2.63.2",
+    "rendered_offline": true
+  },
+  "validation_date": "2026-10-31",
+  "environment_scope": "Existing compatible native ARM64 plotting runtimes reused read-only; no installation or production-environment validation."
+}

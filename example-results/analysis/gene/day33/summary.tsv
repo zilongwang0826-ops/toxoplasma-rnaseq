@@ -1,0 +1,2 @@
+level	day	contrast	n_control	n_infected	features_input	features_filter_pass	features_eligible	significant_up	significant_down	nominal_sensitivity	alpha	lfc_cutoff	counts_from_abundance
+gene	33	infected_vs_control	3	3	53028	18024	17990	1173	18	1285	0.05	1.5	no

@@ -1,0 +1,30 @@
+name	value
+DBSCHEMAVERSION	2.1
+Db type	OrgDb
+Supporting package	AnnotationDbi
+DBSCHEMA	MOUSE_DB
+ORGANISM	Mus musculus
+SPECIES	Mouse
+EGSOURCEDATE	2024-Sep20
+EGSOURCENAME	Entrez Gene
+EGSOURCEURL	ftp://ftp.ncbi.nlm.nih.gov/gene/DATA
+CENTRALID	EG
+TAXID	10090
+GOSOURCENAME	
+GOSOURCEURL	
+GOSOURCEDATE	
+GOEGSOURCEDATE	2024-Sep20
+GOEGSOURCENAME	Entrez Gene
+GOEGSOURCEURL	ftp://ftp.ncbi.nlm.nih.gov/gene/DATA
+KEGGSOURCENAME	KEGG GENOME
+KEGGSOURCEURL	ftp://ftp.genome.jp/pub/kegg/genomes
+KEGGSOURCEDATE	2011-Mar15
+GPSOURCENAME	UCSC Genome Bioinformatics (Mus musculus)
+GPSOURCEURL	ftp://hgdownload.cse.ucsc.edu/goldenPath/mm39/database
+GPSOURCEDATE	2024-Sep22
+ENSOURCEDATE	2024-May14
+ENSOURCENAME	Ensembl
+ENSOURCEURL	ftp://ftp.ensembl.org/pub/current_fasta
+UPSOURCENAME	Uniprot
+UPSOURCEURL	http://www.UniProt.org/
+UPSOURCEDATE	Mon Sep 23 16:04:35 2024

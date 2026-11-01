@@ -1,0 +1,21 @@
+{
+  "status": "metadata_cross_checked",
+  "samples": 12,
+  "groups": 4,
+  "replicates_per_group": 3,
+  "archived_fastq_bytes": 70322230064,
+  "archived_read_pairs": 409862759,
+  "archived_bases": 122958827700,
+  "all_archive_read_counts_match_published_clean_counts": true,
+  "unresolved": [
+    "pooling language",
+    "sequencer model discrepancy",
+    "batch information",
+    "library strandedness"
+  ],
+  "source_sha256": {
+    "ena_runs.tsv": "bf4c672a1255265d30ad75b6fbdb87baf2bfc507b07afa388743c823c70f2b34",
+    "biosamples.xml": "99cdf6da3eecae7b791c6955b9960cb995f55261e8d789b723e23f692ab61a6b",
+    "epmc_article.xml": "3458920842402fbc21bee0502610b9820a36213e1ab4536d569c562521ef0472"
+  }
+}

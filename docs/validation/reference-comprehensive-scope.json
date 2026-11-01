@@ -1,0 +1,16 @@
+{
+  "gene_mismatches_or_missing_header": 0,
+  "gtf_regions": 118,
+  "gtf_transcripts": 144778,
+  "inputs_sha256": {
+    "resources/ensembl100/source/cdna.gz": "2947b18c23ca387ca5509a298c8feaa09b719c0110852851892e973da60ff655",
+    "resources/ensembl100/source/gtf.gz": "5858fe80186a545865e3d9360db30c4cf178328eecb36a53376293b804400c4d",
+    "resources/ensembl100/source/ncrna.gz": "73da1c71a2bd19ea831faa08eb2f4fa64b3e757e8c48a5684944976a2d98a006"
+  },
+  "missing_by_fasta": {},
+  "missing_by_region": {},
+  "missing_in_all_features": 0,
+  "missing_targets": 0,
+  "targets": 141450,
+  "unique_targets": 141450
+}

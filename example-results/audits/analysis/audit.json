@@ -1,0 +1,2724 @@
+{
+  "artifacts": [
+    {
+      "bytes": 3042941709,
+      "path": "data/fastq/C111_1.fastq.gz"
+    },
+    {
+      "bytes": 389,
+      "path": "data/fastq/C111_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3359193762,
+      "path": "data/fastq/C111_2.fastq.gz"
+    },
+    {
+      "bytes": 389,
+      "path": "data/fastq/C111_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2745608069,
+      "path": "data/fastq/C112_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C112_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3080546270,
+      "path": "data/fastq/C112_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C112_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2689676949,
+      "path": "data/fastq/C113_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C113_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3008289903,
+      "path": "data/fastq/C113_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C113_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2350700162,
+      "path": "data/fastq/C331_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C331_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2697775876,
+      "path": "data/fastq/C331_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C331_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3312506242,
+      "path": "data/fastq/C332_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C332_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3788604619,
+      "path": "data/fastq/C332_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C332_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2694272447,
+      "path": "data/fastq/C333_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C333_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3089849175,
+      "path": "data/fastq/C333_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/C333_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2653270663,
+      "path": "data/fastq/T111_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T111_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2965467366,
+      "path": "data/fastq/T111_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T111_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2718206890,
+      "path": "data/fastq/T112_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T112_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3029940866,
+      "path": "data/fastq/T112_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T112_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2673315472,
+      "path": "data/fastq/T113_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T113_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2977043267,
+      "path": "data/fastq/T113_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T113_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2598313464,
+      "path": "data/fastq/T331_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T331_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3000225677,
+      "path": "data/fastq/T331_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T331_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2942203219,
+      "path": "data/fastq/T332_1.fastq.gz"
+    },
+    {
+      "bytes": 389,
+      "path": "data/fastq/T332_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3339038092,
+      "path": "data/fastq/T332_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T332_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 2523351606,
+      "path": "data/fastq/T333_1.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T333_1.fastq.gz.source.json"
+    },
+    {
+      "bytes": 3041888299,
+      "path": "data/fastq/T333_2.fastq.gz"
+    },
+    {
+      "bytes": 431,
+      "path": "data/fastq/T333_2.fastq.gz.source.json"
+    },
+    {
+      "bytes": 539,
+      "path": "resources/ensembl100/prepared/decoys.txt"
+    },
+    {
+      "bytes": 3018491507,
+      "path": "resources/ensembl100/prepared/gentrome.fa"
+    },
+    {
+      "bytes": 818,
+      "path": "resources/ensembl100/prepared/reference.json"
+    },
+    {
+      "bytes": 6815777,
+      "path": "resources/ensembl100/prepared/tx2gene.tsv"
+    },
+    {
+      "bytes": null,
+      "path": "resources/ensembl100/salmon_index"
+    },
+    {
+      "bytes": 52200594,
+      "path": "resources/ensembl100/source/cdna.gz"
+    },
+    {
+      "bytes": 398,
+      "path": "resources/ensembl100/source/cdna.gz.source.json"
+    },
+    {
+      "bytes": 805984352,
+      "path": "resources/ensembl100/source/genome.gz"
+    },
+    {
+      "bytes": 410,
+      "path": "resources/ensembl100/source/genome.gz.source.json"
+    },
+    {
+      "bytes": 33835343,
+      "path": "resources/ensembl100/source/gtf.gz"
+    },
+    {
+      "bytes": 408,
+      "path": "resources/ensembl100/source/gtf.gz.source.json"
+    },
+    {
+      "bytes": 6437901,
+      "path": "resources/ensembl100/source/ncrna.gz"
+    },
+    {
+      "bytes": 395,
+      "path": "resources/ensembl100/source/ncrna.gz.source.json"
+    },
+    {
+      "bytes": null,
+      "path": "results/analysis"
+    },
+    {
+      "bytes": 270,
+      "path": "results/analysis/execution-status.txt"
+    },
+    {
+      "bytes": 63301512,
+      "path": "results/analysis/gene/day11/deseq2.rds"
+    },
+    {
+      "bytes": 1414259,
+      "path": "results/analysis/gene/day11/feature-filter.tsv"
+    },
+    {
+      "bytes": 1013216,
+      "path": "results/analysis/gene/day11/figures/ma.pdf"
+    },
+    {
+      "bytes": 104905,
+      "path": "results/analysis/gene/day11/figures/ma.png"
+    },
+    {
+      "bytes": 5393,
+      "path": "results/analysis/gene/day11/figures/pca.pdf"
+    },
+    {
+      "bytes": 93549,
+      "path": "results/analysis/gene/day11/figures/pca.png"
+    },
+    {
+      "bytes": 5083,
+      "path": "results/analysis/gene/day11/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 61628,
+      "path": "results/analysis/gene/day11/figures/sample-distances.png"
+    },
+    {
+      "bytes": 7684,
+      "path": "results/analysis/gene/day11/figures/variable-features-heatmap.pdf"
+    },
+    {
+      "bytes": 287276,
+      "path": "results/analysis/gene/day11/figures/variable-features-heatmap.png"
+    },
+    {
+      "bytes": 926218,
+      "path": "results/analysis/gene/day11/figures/volcano.pdf"
+    },
+    {
+      "bytes": 106686,
+      "path": "results/analysis/gene/day11/figures/volcano.png"
+    },
+    {
+      "bytes": 2108095,
+      "path": "results/analysis/gene/day11/normalized-counts.tsv"
+    },
+    {
+      "bytes": 2760,
+      "path": "results/analysis/gene/day11/result-metadata.txt"
+    },
+    {
+      "bytes": 5792831,
+      "path": "results/analysis/gene/day11/results.tsv"
+    },
+    {
+      "bytes": 82875,
+      "path": "results/analysis/gene/day11/significant.tsv"
+    },
+    {
+      "bytes": 258,
+      "path": "results/analysis/gene/day11/summary.tsv"
+    },
+    {
+      "bytes": 86692601,
+      "path": "results/analysis/gene/day33/deseq2.rds"
+    },
+    {
+      "bytes": 1413776,
+      "path": "results/analysis/gene/day33/feature-filter.tsv"
+    },
+    {
+      "bytes": 1038505,
+      "path": "results/analysis/gene/day33/figures/ma.pdf"
+    },
+    {
+      "bytes": 115948,
+      "path": "results/analysis/gene/day33/figures/ma.png"
+    },
+    {
+      "bytes": 4943,
+      "path": "results/analysis/gene/day33/figures/pca.pdf"
+    },
+    {
+      "bytes": 98764,
+      "path": "results/analysis/gene/day33/figures/pca.png"
+    },
+    {
+      "bytes": 5066,
+      "path": "results/analysis/gene/day33/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 74409,
+      "path": "results/analysis/gene/day33/figures/sample-distances.png"
+    },
+    {
+      "bytes": 7678,
+      "path": "results/analysis/gene/day33/figures/variable-features-heatmap.pdf"
+    },
+    {
+      "bytes": 300597,
+      "path": "results/analysis/gene/day33/figures/variable-features-heatmap.png"
+    },
+    {
+      "bytes": 959070,
+      "path": "results/analysis/gene/day33/figures/volcano.pdf"
+    },
+    {
+      "bytes": 115781,
+      "path": "results/analysis/gene/day33/figures/volcano.png"
+    },
+    {
+      "bytes": 2157140,
+      "path": "results/analysis/gene/day33/normalized-counts.tsv"
+    },
+    {
+      "bytes": 2705,
+      "path": "results/analysis/gene/day33/result-metadata.txt"
+    },
+    {
+      "bytes": 5825849,
+      "path": "results/analysis/gene/day33/results.tsv"
+    },
+    {
+      "bytes": 183487,
+      "path": "results/analysis/gene/day33/significant.tsv"
+    },
+    {
+      "bytes": 260,
+      "path": "results/analysis/gene/day33/summary.tsv"
+    },
+    {
+      "bytes": 34747569,
+      "path": "results/analysis/gene/interaction/deseq2.rds"
+    },
+    {
+      "bytes": 172,
+      "path": "results/analysis/gene/interaction/interpretation.txt"
+    },
+    {
+      "bytes": 2346766,
+      "path": "results/analysis/gene/interaction/results.tsv"
+    },
+    {
+      "bytes": 5799,
+      "path": "results/analysis/gene/qc/pca.pdf"
+    },
+    {
+      "bytes": 128560,
+      "path": "results/analysis/gene/qc/pca.png"
+    },
+    {
+      "bytes": 6258,
+      "path": "results/analysis/gene/qc/sample-distances.pdf"
+    },
+    {
+      "bytes": 78937,
+      "path": "results/analysis/gene/qc/sample-distances.png"
+    },
+    {
+      "bytes": 8975,
+      "path": "results/analysis/gene/qc/variable-features-heatmap.pdf"
+    },
+    {
+      "bytes": 302042,
+      "path": "results/analysis/gene/qc/variable-features-heatmap.png"
+    },
+    {
+      "bytes": 882,
+      "path": "results/analysis/input-checksums.tsv"
+    },
+    {
+      "bytes": 208,
+      "path": "results/analysis/parameters.tsv"
+    },
+    {
+      "bytes": 6588,
+      "path": "results/analysis/samples-used.tsv"
+    },
+    {
+      "bytes": 2109,
+      "path": "results/analysis/session-info.txt"
+    },
+    {
+      "bytes": 524,
+      "path": "results/analysis/summary.tsv"
+    },
+    {
+      "bytes": 126409951,
+      "path": "results/analysis/transcript/day11/deseq2.rds"
+    },
+    {
+      "bytes": 4063636,
+      "path": "results/analysis/transcript/day11/feature-filter.tsv"
+    },
+    {
+      "bytes": 2646198,
+      "path": "results/analysis/transcript/day11/figures/ma.pdf"
+    },
+    {
+      "bytes": 123552,
+      "path": "results/analysis/transcript/day11/figures/ma.png"
+    },
+    {
+      "bytes": 5380,
+      "path": "results/analysis/transcript/day11/figures/pca.pdf"
+    },
+    {
+      "bytes": 91178,
+      "path": "results/analysis/transcript/day11/figures/pca.png"
+    },
+    {
+      "bytes": 5060,
+      "path": "results/analysis/transcript/day11/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 61222,
+      "path": "results/analysis/transcript/day11/figures/sample-distances.png"
+    },
+    {
+      "bytes": 7774,
+      "path": "results/analysis/transcript/day11/figures/variable-features-heatmap.pdf"
+    },
+    {
+      "bytes": 278890,
+      "path": "results/analysis/transcript/day11/figures/variable-features-heatmap.png"
+    },
+    {
+      "bytes": 2107590,
+      "path": "results/analysis/transcript/day11/figures/volcano.pdf"
+    },
+    {
+      "bytes": 109342,
+      "path": "results/analysis/transcript/day11/figures/volcano.png"
+    },
+    {
+      "bytes": 5543844,
+      "path": "results/analysis/transcript/day11/normalized-counts.tsv"
+    },
+    {
+      "bytes": 2760,
+      "path": "results/analysis/transcript/day11/result-metadata.txt"
+    },
+    {
+      "bytes": 15689796,
+      "path": "results/analysis/transcript/day11/results.tsv"
+    },
+    {
+      "bytes": 133600,
+      "path": "results/analysis/transcript/day11/significant.tsv"
+    },
+    {
+      "bytes": 280,
+      "path": "results/analysis/transcript/day11/summary.tsv"
+    },
+    {
+      "bytes": 155457482,
+      "path": "results/analysis/transcript/day33/deseq2.rds"
+    },
+    {
+      "bytes": 4062349,
+      "path": "results/analysis/transcript/day33/feature-filter.tsv"
+    },
+    {
+      "bytes": 2717645,
+      "path": "results/analysis/transcript/day33/figures/ma.pdf"
+    },
+    {
+      "bytes": 139395,
+      "path": "results/analysis/transcript/day33/figures/ma.png"
+    },
+    {
+      "bytes": 4956,
+      "path": "results/analysis/transcript/day33/figures/pca.pdf"
+    },
+    {
+      "bytes": 102274,
+      "path": "results/analysis/transcript/day33/figures/pca.png"
+    },
+    {
+      "bytes": 5078,
+      "path": "results/analysis/transcript/day33/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 74320,
+      "path": "results/analysis/transcript/day33/figures/sample-distances.png"
+    },
+    {
+      "bytes": 7756,
+      "path": "results/analysis/transcript/day33/figures/variable-features-heatmap.pdf"
+    },
+    {
+      "bytes": 289967,
+      "path": "results/analysis/transcript/day33/figures/variable-features-heatmap.png"
+    },
+    {
+      "bytes": 2455606,
+      "path": "results/analysis/transcript/day33/figures/volcano.pdf"
+    },
+    {
+      "bytes": 112090,
+      "path": "results/analysis/transcript/day33/figures/volcano.png"
+    },
+    {
+      "bytes": 5683711,
+      "path": "results/analysis/transcript/day33/normalized-counts.tsv"
+    },
+    {
+      "bytes": 2705,
+      "path": "results/analysis/transcript/day33/result-metadata.txt"
+    },
+    {
+      "bytes": 15777993,
+      "path": "results/analysis/transcript/day33/results.tsv"
+    },
+    {
+      "bytes": 296979,
+      "path": "results/analysis/transcript/day33/significant.tsv"
+    },
+    {
+      "bytes": 281,
+      "path": "results/analysis/transcript/day33/summary.tsv"
+    },
+    {
+      "bytes": 82259325,
+      "path": "results/analysis/transcript/interaction/deseq2.rds"
+    },
+    {
+      "bytes": 172,
+      "path": "results/analysis/transcript/interaction/interpretation.txt"
+    },
+    {
+      "bytes": 6767898,
+      "path": "results/analysis/transcript/interaction/results.tsv"
+    },
+    {
+      "bytes": 5724,
+      "path": "results/analysis/transcript/qc/pca.pdf"
+    },
+    {
+      "bytes": 129073,
+      "path": "results/analysis/transcript/qc/pca.png"
+    },
+    {
+      "bytes": 6230,
+      "path": "results/analysis/transcript/qc/sample-distances.pdf"
+    },
+    {
+      "bytes": 79399,
+      "path": "results/analysis/transcript/qc/sample-distances.png"
+    },
+    {
+      "bytes": 9042,
+      "path": "results/analysis/transcript/qc/variable-features-heatmap.pdf"
+    },
+    {
+      "bytes": 295665,
+      "path": "results/analysis/transcript/qc/variable-features-heatmap.png"
+    },
+    {
+      "bytes": null,
+      "path": "results/comparison"
+    },
+    {
+      "bytes": 48878,
+      "path": "results/comparison/day11-effect-comparison.pdf"
+    },
+    {
+      "bytes": 116386,
+      "path": "results/comparison/day11-effect-comparison.png"
+    },
+    {
+      "bytes": 221140,
+      "path": "results/comparison/day11-published-transcript-comparison.tsv"
+    },
+    {
+      "bytes": 104262,
+      "path": "results/comparison/day33-effect-comparison.pdf"
+    },
+    {
+      "bytes": 127349,
+      "path": "results/comparison/day33-effect-comparison.png"
+    },
+    {
+      "bytes": 494830,
+      "path": "results/comparison/day33-published-transcript-comparison.tsv"
+    },
+    {
+      "bytes": 228,
+      "path": "results/comparison/input-checksums.tsv"
+    },
+    {
+      "bytes": 591,
+      "path": "results/comparison/interpretation.txt"
+    },
+    {
+      "bytes": 740,
+      "path": "results/comparison/session-info.txt"
+    },
+    {
+      "bytes": 764,
+      "path": "results/comparison/summary.tsv"
+    },
+    {
+      "bytes": null,
+      "path": "results/enrichment"
+    },
+    {
+      "bytes": 4277,
+      "path": "results/enrichment/day11/GO/down-enrichment.pdf"
+    },
+    {
+      "bytes": 23113,
+      "path": "results/enrichment/day11/GO/down-enrichment.png"
+    },
+    {
+      "bytes": 688740,
+      "path": "results/enrichment/day11/GO/down.tsv"
+    },
+    {
+      "bytes": 422606,
+      "path": "results/enrichment/day11/GO/universe.tsv"
+    },
+    {
+      "bytes": 6075,
+      "path": "results/enrichment/day11/GO/up-enrichment.pdf"
+    },
+    {
+      "bytes": 175644,
+      "path": "results/enrichment/day11/GO/up-enrichment.png"
+    },
+    {
+      "bytes": 1256512,
+      "path": "results/enrichment/day11/GO/up.tsv"
+    },
+    {
+      "bytes": 4276,
+      "path": "results/enrichment/day33/GO/down-enrichment.pdf"
+    },
+    {
+      "bytes": 23502,
+      "path": "results/enrichment/day33/GO/down-enrichment.png"
+    },
+    {
+      "bytes": 653811,
+      "path": "results/enrichment/day33/GO/down.tsv"
+    },
+    {
+      "bytes": 433799,
+      "path": "results/enrichment/day33/GO/universe.tsv"
+    },
+    {
+      "bytes": 6084,
+      "path": "results/enrichment/day33/GO/up-enrichment.pdf"
+    },
+    {
+      "bytes": 182369,
+      "path": "results/enrichment/day33/GO/up-enrichment.png"
+    },
+    {
+      "bytes": 1794791,
+      "path": "results/enrichment/day33/GO/up.tsv"
+    },
+    {
+      "bytes": 392,
+      "path": "results/enrichment/execution-status.txt"
+    },
+    {
+      "bytes": 108459297,
+      "path": "results/enrichment/go-annotation-snapshot.tsv"
+    },
+    {
+      "bytes": 842,
+      "path": "results/enrichment/go-database-metadata.tsv"
+    },
+    {
+      "bytes": 230,
+      "path": "results/enrichment/input-checksums.tsv"
+    },
+    {
+      "bytes": 109,
+      "path": "results/enrichment/kegg-status.txt"
+    },
+    {
+      "bytes": 164,
+      "path": "results/enrichment/parameters.tsv"
+    },
+    {
+      "bytes": 1582,
+      "path": "results/enrichment/session-info.txt"
+    },
+    {
+      "bytes": 326,
+      "path": "results/enrichment/summary.tsv"
+    },
+    {
+      "bytes": null,
+      "path": "results/figures"
+    },
+    {
+      "bytes": 5391,
+      "path": "results/figures/gene/day11/figures/pca.pdf"
+    },
+    {
+      "bytes": 86383,
+      "path": "results/figures/gene/day11/figures/pca.png"
+    },
+    {
+      "bytes": 6095,
+      "path": "results/figures/gene/day11/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 85945,
+      "path": "results/figures/gene/day11/figures/sample-distances.png"
+    },
+    {
+      "bytes": 5005,
+      "path": "results/figures/gene/day33/figures/pca.pdf"
+    },
+    {
+      "bytes": 86660,
+      "path": "results/figures/gene/day33/figures/pca.png"
+    },
+    {
+      "bytes": 6067,
+      "path": "results/figures/gene/day33/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 90485,
+      "path": "results/figures/gene/day33/figures/sample-distances.png"
+    },
+    {
+      "bytes": 5694,
+      "path": "results/figures/gene/qc/pca.pdf"
+    },
+    {
+      "bytes": 107906,
+      "path": "results/figures/gene/qc/pca.png"
+    },
+    {
+      "bytes": 6827,
+      "path": "results/figures/gene/qc/sample-distances.pdf"
+    },
+    {
+      "bytes": 108840,
+      "path": "results/figures/gene/qc/sample-distances.png"
+    },
+    {
+      "bytes": 1587,
+      "path": "results/figures/input-checksums.tsv"
+    },
+    {
+      "bytes": 149,
+      "path": "results/figures/interpretation.txt"
+    },
+    {
+      "bytes": 5372,
+      "path": "results/figures/transcript/day11/figures/pca.pdf"
+    },
+    {
+      "bytes": 86963,
+      "path": "results/figures/transcript/day11/figures/pca.png"
+    },
+    {
+      "bytes": 6104,
+      "path": "results/figures/transcript/day11/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 85208,
+      "path": "results/figures/transcript/day11/figures/sample-distances.png"
+    },
+    {
+      "bytes": 5092,
+      "path": "results/figures/transcript/day33/figures/pca.pdf"
+    },
+    {
+      "bytes": 96122,
+      "path": "results/figures/transcript/day33/figures/pca.png"
+    },
+    {
+      "bytes": 6070,
+      "path": "results/figures/transcript/day33/figures/sample-distances.pdf"
+    },
+    {
+      "bytes": 89910,
+      "path": "results/figures/transcript/day33/figures/sample-distances.png"
+    },
+    {
+      "bytes": 5795,
+      "path": "results/figures/transcript/qc/pca.pdf"
+    },
+    {
+      "bytes": 115434,
+      "path": "results/figures/transcript/qc/pca.png"
+    },
+    {
+      "bytes": 6818,
+      "path": "results/figures/transcript/qc/sample-distances.pdf"
+    },
+    {
+      "bytes": 108449,
+      "path": "results/figures/transcript/qc/sample-distances.png"
+    },
+    {
+      "bytes": 2,
+      "path": "results/launch/study.exit"
+    },
+    {
+      "bytes": 27587,
+      "path": "results/provenance/run.json"
+    },
+    {
+      "bytes": 5309283,
+      "path": "results/qc/multiqc_report.html"
+    },
+    {
+      "bytes": 3166,
+      "path": "results/qc/quantification.json"
+    },
+    {
+      "bytes": 939,
+      "path": "results/qc/quantification.json.tsv"
+    },
+    {
+      "bytes": 577260,
+      "path": "results/qc/raw/C111_1_fastqc.html"
+    },
+    {
+      "bytes": 347670,
+      "path": "results/qc/raw/C111_1_fastqc.zip"
+    },
+    {
+      "bytes": 579016,
+      "path": "results/qc/raw/C111_2_fastqc.html"
+    },
+    {
+      "bytes": 349833,
+      "path": "results/qc/raw/C111_2_fastqc.zip"
+    },
+    {
+      "bytes": 577480,
+      "path": "results/qc/raw/C112_1_fastqc.html"
+    },
+    {
+      "bytes": 346310,
+      "path": "results/qc/raw/C112_1_fastqc.zip"
+    },
+    {
+      "bytes": 578304,
+      "path": "results/qc/raw/C112_2_fastqc.html"
+    },
+    {
+      "bytes": 353154,
+      "path": "results/qc/raw/C112_2_fastqc.zip"
+    },
+    {
+      "bytes": 578148,
+      "path": "results/qc/raw/C113_1_fastqc.html"
+    },
+    {
+      "bytes": 347262,
+      "path": "results/qc/raw/C113_1_fastqc.zip"
+    },
+    {
+      "bytes": 578128,
+      "path": "results/qc/raw/C113_2_fastqc.html"
+    },
+    {
+      "bytes": 352179,
+      "path": "results/qc/raw/C113_2_fastqc.zip"
+    },
+    {
+      "bytes": 575332,
+      "path": "results/qc/raw/C331_1_fastqc.html"
+    },
+    {
+      "bytes": 342373,
+      "path": "results/qc/raw/C331_1_fastqc.zip"
+    },
+    {
+      "bytes": 578548,
+      "path": "results/qc/raw/C331_2_fastqc.html"
+    },
+    {
+      "bytes": 351382,
+      "path": "results/qc/raw/C331_2_fastqc.zip"
+    },
+    {
+      "bytes": 578156,
+      "path": "results/qc/raw/C332_1_fastqc.html"
+    },
+    {
+      "bytes": 346910,
+      "path": "results/qc/raw/C332_1_fastqc.zip"
+    },
+    {
+      "bytes": 580492,
+      "path": "results/qc/raw/C332_2_fastqc.html"
+    },
+    {
+      "bytes": 356077,
+      "path": "results/qc/raw/C332_2_fastqc.zip"
+    },
+    {
+      "bytes": 571685,
+      "path": "results/qc/raw/C333_1_fastqc.html"
+    },
+    {
+      "bytes": 339023,
+      "path": "results/qc/raw/C333_1_fastqc.zip"
+    },
+    {
+      "bytes": 575048,
+      "path": "results/qc/raw/C333_2_fastqc.html"
+    },
+    {
+      "bytes": 348033,
+      "path": "results/qc/raw/C333_2_fastqc.zip"
+    },
+    {
+      "bytes": 577672,
+      "path": "results/qc/raw/T111_1_fastqc.html"
+    },
+    {
+      "bytes": 345569,
+      "path": "results/qc/raw/T111_1_fastqc.zip"
+    },
+    {
+      "bytes": 578996,
+      "path": "results/qc/raw/T111_2_fastqc.html"
+    },
+    {
+      "bytes": 353852,
+      "path": "results/qc/raw/T111_2_fastqc.zip"
+    },
+    {
+      "bytes": 578182,
+      "path": "results/qc/raw/T112_1_fastqc.html"
+    },
+    {
+      "bytes": 346539,
+      "path": "results/qc/raw/T112_1_fastqc.zip"
+    },
+    {
+      "bytes": 579054,
+      "path": "results/qc/raw/T112_2_fastqc.html"
+    },
+    {
+      "bytes": 354448,
+      "path": "results/qc/raw/T112_2_fastqc.zip"
+    },
+    {
+      "bytes": 573604,
+      "path": "results/qc/raw/T113_1_fastqc.html"
+    },
+    {
+      "bytes": 341630,
+      "path": "results/qc/raw/T113_1_fastqc.zip"
+    },
+    {
+      "bytes": 572808,
+      "path": "results/qc/raw/T113_2_fastqc.html"
+    },
+    {
+      "bytes": 346964,
+      "path": "results/qc/raw/T113_2_fastqc.zip"
+    },
+    {
+      "bytes": 568978,
+      "path": "results/qc/raw/T331_1_fastqc.html"
+    },
+    {
+      "bytes": 338220,
+      "path": "results/qc/raw/T331_1_fastqc.zip"
+    },
+    {
+      "bytes": 576438,
+      "path": "results/qc/raw/T331_2_fastqc.html"
+    },
+    {
+      "bytes": 348401,
+      "path": "results/qc/raw/T331_2_fastqc.zip"
+    },
+    {
+      "bytes": 572144,
+      "path": "results/qc/raw/T332_1_fastqc.html"
+    },
+    {
+      "bytes": 344265,
+      "path": "results/qc/raw/T332_1_fastqc.zip"
+    },
+    {
+      "bytes": 573804,
+      "path": "results/qc/raw/T332_2_fastqc.html"
+    },
+    {
+      "bytes": 349014,
+      "path": "results/qc/raw/T332_2_fastqc.zip"
+    },
+    {
+      "bytes": 572540,
+      "path": "results/qc/raw/T333_1_fastqc.html"
+    },
+    {
+      "bytes": 338671,
+      "path": "results/qc/raw/T333_1_fastqc.zip"
+    },
+    {
+      "bytes": 575560,
+      "path": "results/qc/raw/T333_2_fastqc.html"
+    },
+    {
+      "bytes": 347307,
+      "path": "results/qc/raw/T333_2_fastqc.zip"
+    },
+    {
+      "bytes": 11686,
+      "path": "results/report/index.html"
+    },
+    {
+      "bytes": 1857,
+      "path": "results/salmon/C111/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/C111/lib_format_counts.json"
+    },
+    {
+      "bytes": 7001465,
+      "path": "results/salmon/C111/quant.sf"
+    },
+    {
+      "bytes": 1854,
+      "path": "results/salmon/C112/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/C112/lib_format_counts.json"
+    },
+    {
+      "bytes": 6994907,
+      "path": "results/salmon/C112/quant.sf"
+    },
+    {
+      "bytes": 1856,
+      "path": "results/salmon/C113/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/C113/lib_format_counts.json"
+    },
+    {
+      "bytes": 6997432,
+      "path": "results/salmon/C113/quant.sf"
+    },
+    {
+      "bytes": 1856,
+      "path": "results/salmon/C331/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/C331/lib_format_counts.json"
+    },
+    {
+      "bytes": 6993181,
+      "path": "results/salmon/C331/quant.sf"
+    },
+    {
+      "bytes": 1856,
+      "path": "results/salmon/C332/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 586,
+      "path": "results/salmon/C332/lib_format_counts.json"
+    },
+    {
+      "bytes": 7002944,
+      "path": "results/salmon/C332/quant.sf"
+    },
+    {
+      "bytes": 1854,
+      "path": "results/salmon/C333/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 586,
+      "path": "results/salmon/C333/lib_format_counts.json"
+    },
+    {
+      "bytes": 6995045,
+      "path": "results/salmon/C333/quant.sf"
+    },
+    {
+      "bytes": 1857,
+      "path": "results/salmon/T111/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/T111/lib_format_counts.json"
+    },
+    {
+      "bytes": 6993727,
+      "path": "results/salmon/T111/quant.sf"
+    },
+    {
+      "bytes": 1854,
+      "path": "results/salmon/T112/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/T112/lib_format_counts.json"
+    },
+    {
+      "bytes": 6998102,
+      "path": "results/salmon/T112/quant.sf"
+    },
+    {
+      "bytes": 1857,
+      "path": "results/salmon/T113/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/T113/lib_format_counts.json"
+    },
+    {
+      "bytes": 6996652,
+      "path": "results/salmon/T113/quant.sf"
+    },
+    {
+      "bytes": 1855,
+      "path": "results/salmon/T331/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 587,
+      "path": "results/salmon/T331/lib_format_counts.json"
+    },
+    {
+      "bytes": 6998019,
+      "path": "results/salmon/T331/quant.sf"
+    },
+    {
+      "bytes": 1855,
+      "path": "results/salmon/T332/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 588,
+      "path": "results/salmon/T332/lib_format_counts.json"
+    },
+    {
+      "bytes": 6999594,
+      "path": "results/salmon/T332/quant.sf"
+    },
+    {
+      "bytes": 1856,
+      "path": "results/salmon/T333/aux_info/meta_info.json"
+    },
+    {
+      "bytes": 588,
+      "path": "results/salmon/T333/lib_format_counts.json"
+    },
+    {
+      "bytes": 7001993,
+      "path": "results/salmon/T333/quant.sf"
+    },
+    {
+      "bytes": null,
+      "path": "results/sensitivity/lilrb4a"
+    },
+    {
+      "bytes": 301,
+      "path": "results/sensitivity/lilrb4a/input-checksums.tsv"
+    },
+    {
+      "bytes": 585,
+      "path": "results/sensitivity/lilrb4a/interpretation.txt"
+    },
+    {
+      "bytes": 163,
+      "path": "results/sensitivity/lilrb4a/locus-definition.tsv"
+    },
+    {
+      "bytes": 379,
+      "path": "results/sensitivity/lilrb4a/pair-de-status.tsv"
+    },
+    {
+      "bytes": 427,
+      "path": "results/sensitivity/lilrb4a/summary.tsv"
+    },
+    {
+      "bytes": 617,
+      "path": "results/validation/metadata.json"
+    },
+    {
+      "bytes": null,
+      "path": "results/validation/models"
+    },
+    {
+      "bytes": 218129,
+      "path": "results/validation/models/diagnostics.json"
+    },
+    {
+      "bytes": 1006,
+      "path": "results/validation/models/input-checksums.tsv"
+    },
+    {
+      "bytes": 1115,
+      "path": "results/validation/models/models.tsv"
+    }
+  ],
+  "audit_host_head": "259b563360bc24e5022bc71eaa48e8f179627aea",
+  "audit_script_sha256": "1f94625b261b7246ba60556c082a9080e27e63a6f6fb478a6bd9348aa1228020",
+  "completed_utc": "2026-10-28T23:32:59.806443+00:00",
+  "errors": [],
+  "fastqc": [
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C111_1",
+      "total_sequences": 37526096
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C111_2",
+      "total_sequences": 37526096
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C112_1",
+      "total_sequences": 34013002
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C112_2",
+      "total_sequences": 34013002
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C113_1",
+      "total_sequences": 33190710
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C113_2",
+      "total_sequences": 33190710
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T111_1",
+      "total_sequences": 32816042
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T111_2",
+      "total_sequences": 32816042
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T112_1",
+      "total_sequences": 33537239
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T112_2",
+      "total_sequences": 33537239
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T113_1",
+      "total_sequences": 32924361
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T113_2",
+      "total_sequences": 32924361
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C331_1",
+      "total_sequences": 30120695
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C331_2",
+      "total_sequences": 30120695
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C332_1",
+      "total_sequences": 41207357
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C332_2",
+      "total_sequences": 41207357
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "FAIL",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C333_1",
+      "total_sequences": 34530837
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "C333_2",
+      "total_sequences": 34530837
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T331_1",
+      "total_sequences": 33359721
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T331_2",
+      "total_sequences": 33359721
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T332_1",
+      "total_sequences": 34616097
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T332_2",
+      "total_sequences": 34616097
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T333_1",
+      "total_sequences": 32020602
+    },
+    {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "sample_mate": "T333_2",
+      "total_sequences": 32020602
+    }
+  ],
+  "fingerprints": {
+    "metadata/published_dets.tsv": {
+      "bytes": 357813,
+      "md5": "5e7600485e3abfccaed407a8c5eb8089",
+      "sha256": "39b58b871086400ceea1a76850b6ce2dd2cb5c82220e36a2b81054d0c61958a0"
+    },
+    "metadata/samples.tsv": {
+      "bytes": 6588,
+      "md5": "a87915b6cfa4170cc544fbbecbc42b04",
+      "sha256": "12090b453fe2882745ed0f7facf94150a800c7096cd22846f7bbedb676228967"
+    },
+    "resources/ensembl100/prepared/reference.json": {
+      "bytes": 818,
+      "md5": "04fe67d7dd1331e4422e06274ce941fa",
+      "sha256": "05810f9a17aeb4584e9826c9cff9c1d8a50f1e751b0a85283ccf93514c5d123b"
+    },
+    "resources/ensembl100/prepared/tx2gene.tsv": {
+      "bytes": 6815777,
+      "md5": "df5e4739ed3e5477189cbcbd0261a9d6",
+      "sha256": "dd1f002131dc1dd096b3ce8b6947e7a339c47245ec640edf61ead1de685cd691"
+    },
+    "resources/ensembl100/salmon_index/info.json": {
+      "bytes": 1098,
+      "md5": "51f0426e1b0a64d51c88118e74d91bfe",
+      "sha256": "2298053c28228e18bedef3749520c0ee44de301d3de4a73a1fbebebce998ca13"
+    },
+    "results/analysis/gene/day11/deseq2.rds": {
+      "bytes": 63301512,
+      "md5": "4c1415e72bd31e4206961f335bb3d784",
+      "sha256": "d98d2b1dc805927ba6520b1c24a6149b12321cc4d84c58309c27564c6908dde5"
+    },
+    "results/analysis/gene/day11/figures/pca-coordinates.tsv": {
+      "bytes": 340,
+      "md5": "a6df9a2330d99217979f66cd7e43e158",
+      "sha256": "619f411a6392a541a6cbb758f37724f4498603e340debc32416eae537954735d"
+    },
+    "results/analysis/gene/day11/figures/pca-variance.tsv": {
+      "bytes": 153,
+      "md5": "76efb2e227b9e5f78590fa8fe2ed9728",
+      "sha256": "e2a6f750a1f963bb167b7c8bf104e9bd624ca8cb7ae1b503ad6e20a4443c2ce7"
+    },
+    "results/analysis/gene/day11/figures/sample-distances.tsv": {
+      "bytes": 588,
+      "md5": "ab1f119effbcdab144d1a6a02676daf8",
+      "sha256": "0281865cbedbc47f1a0bd3fa7f7491c09d0d98a84ea94271a3b535cd29ae5179"
+    },
+    "results/analysis/gene/day11/results.tsv": {
+      "bytes": 5792831,
+      "md5": "1e5440934db45d7e54367da469b1d6c8",
+      "sha256": "b32a8a7ae65423d0ffde89867334cb2a77234c0b2ff51879e9bb293fef7c2a8e"
+    },
+    "results/analysis/gene/day33/deseq2.rds": {
+      "bytes": 86692601,
+      "md5": "a41a84f54c7607f544ecf493d39afbf3",
+      "sha256": "35f9eb864d1609bfafd920917c1003a87c7fe4f63a066586023f93453c5e7a3c"
+    },
+    "results/analysis/gene/day33/figures/pca-coordinates.tsv": {
+      "bytes": 342,
+      "md5": "88f9f51320bbb36188fcfe4cf7349013",
+      "sha256": "e689be6ad7b7242aa4f1fe061bacd4030993e6232c624a29577a403237e3057b"
+    },
+    "results/analysis/gene/day33/figures/pca-variance.tsv": {
+      "bytes": 156,
+      "md5": "3abd692487b280530819c3c452020bfc",
+      "sha256": "ddc4201c27c40016ba7a8ca4818e8f129866220e096302db8192d0335f9491eb"
+    },
+    "results/analysis/gene/day33/figures/sample-distances.tsv": {
+      "bytes": 586,
+      "md5": "524332900c5aa7302e6b5ec4562102c3",
+      "sha256": "1d406238deeaec860f8e9e70a02007b123a43367ecece98ee0c9da978da8c24e"
+    },
+    "results/analysis/gene/day33/results.tsv": {
+      "bytes": 5825849,
+      "md5": "bf16b00de1b1ce9597251d5403846b33",
+      "sha256": "cbb04afc07458e62bbbe97a3c0864150e02e15e60a39bf86debdb719fedf841b"
+    },
+    "results/analysis/gene/interaction/deseq2.rds": {
+      "bytes": 34747569,
+      "md5": "313ed83d3341cf00ff70fe35cd3187e9",
+      "sha256": "799e81a644e4292d1b25fecf1b59e46ef3f807f23a5e242b4a0b98d6dff60f2c"
+    },
+    "results/analysis/gene/interaction/results.tsv": {
+      "bytes": 2346766,
+      "md5": "3956dd6f9fca5f979213e17fe673ec8a",
+      "sha256": "a2e1b0466c795592ce65a852f080e177cfac39c32c40e275194ea382a542466b"
+    },
+    "results/analysis/gene/qc/pca-coordinates.tsv": {
+      "bytes": 648,
+      "md5": "5ed644a35f2f95edb3f88e5a9fe0cdef",
+      "sha256": "42c4bb257ede88145d05f1eb7268c97e7c2aa50b35c6816fa64d10b30d83e5bd"
+    },
+    "results/analysis/gene/qc/pca-variance.tsv": {
+      "bytes": 289,
+      "md5": "ba27200d5704f44868f34702ece1a1f3",
+      "sha256": "a82bc0149b1cfdd0d7411a3253c55d0202f51bda2b78acea57c6e85b6e44738a"
+    },
+    "results/analysis/gene/qc/sample-distances.tsv": {
+      "bytes": 2386,
+      "md5": "1653f0c7c656db7bd3274c07b7f3367b",
+      "sha256": "183034a2651d165276d7b48acfecd8d46b169411ebacd09c674a1c1ca6507402"
+    },
+    "results/analysis/samples-used.tsv": {
+      "bytes": 6588,
+      "md5": "a87915b6cfa4170cc544fbbecbc42b04",
+      "sha256": "12090b453fe2882745ed0f7facf94150a800c7096cd22846f7bbedb676228967"
+    },
+    "results/analysis/summary.tsv": {
+      "bytes": 524,
+      "md5": "f002a2d9ffe6568e88b199401793b9fa",
+      "sha256": "d14babe2cd6e07a657bd5235c43c6564d4e59baaf7ffddb2d19f62465c60f0fa"
+    },
+    "results/analysis/transcript/day11/deseq2.rds": {
+      "bytes": 126409951,
+      "md5": "c8b664d1c70bc9650c916ea2f109d869",
+      "sha256": "8a0780b350080774f72d7f233486595d535d970b31c4718562daf8dec5f53bc4"
+    },
+    "results/analysis/transcript/day11/figures/pca-coordinates.tsv": {
+      "bytes": 343,
+      "md5": "352855f0feb66a4a0bc02018121d6502",
+      "sha256": "bf7a3ef1c9c1ca4ef5d92b18d91b0fab3639bd5a45b300ca3c55d14c7e53a9eb"
+    },
+    "results/analysis/transcript/day11/figures/pca-variance.tsv": {
+      "bytes": 154,
+      "md5": "373319a7e97ab872c8f9a727c90a470b",
+      "sha256": "48dc2c3f43587c5451ea616cb15156a48b640fc8fefbebd20218923894d0f272"
+    },
+    "results/analysis/transcript/day11/figures/sample-distances.tsv": {
+      "bytes": 588,
+      "md5": "b7b9db5d6bc8b91fafb31a529791df7a",
+      "sha256": "71d8990017c0510b639d8f4ee2e21c66ce225b597816b694bd34ef6722cebbb0"
+    },
+    "results/analysis/transcript/day11/results.tsv": {
+      "bytes": 15689796,
+      "md5": "2576c23fdbc74b17de5cd661b5034977",
+      "sha256": "dc0ee716fc6a51e034d09da481618ad9ecdbf20e883a9dfc762ad2ab58439a78"
+    },
+    "results/analysis/transcript/day33/deseq2.rds": {
+      "bytes": 155457482,
+      "md5": "9406ca58151ffd53a2b948487b3220e2",
+      "sha256": "792db049a4e77336b4bedda329787cce57c7d9e4428d5c4380a92297b295aa9e"
+    },
+    "results/analysis/transcript/day33/figures/pca-coordinates.tsv": {
+      "bytes": 341,
+      "md5": "2febbf678fc44798a661ca204d0ba60f",
+      "sha256": "b34940a9b6f14aaba2af04ab622ec9cc4a5f168b78e75b52daef215f876bf71d"
+    },
+    "results/analysis/transcript/day33/figures/pca-variance.tsv": {
+      "bytes": 155,
+      "md5": "beb01a3a9bbf03cdfff7753f9e820b58",
+      "sha256": "88516b640d4d5d7ce58a6cb018aafd18ecb722bceeba072ba6a703ac3df5356d"
+    },
+    "results/analysis/transcript/day33/figures/sample-distances.tsv": {
+      "bytes": 586,
+      "md5": "d1485e2798d10f02069641da685c92b7",
+      "sha256": "bf3d6955482c2b1a0bee573cb5b729d44f1ba5cec526bdf7b77e9047758f866e"
+    },
+    "results/analysis/transcript/day33/results.tsv": {
+      "bytes": 15777993,
+      "md5": "4a6b14f9a26ec58fcf4c257894703f42",
+      "sha256": "a406661b1c58c2133ef52daf280c71777b5727f4b124fdee1fc1b1ff13e56256"
+    },
+    "results/analysis/transcript/interaction/deseq2.rds": {
+      "bytes": 82259325,
+      "md5": "2f20a3f9037463e6bbbb84d7f4667914",
+      "sha256": "745981d7d24e14ad2a86a849e15f98f5e1832953cc5ad58d1fa7c9e44a42f849"
+    },
+    "results/analysis/transcript/interaction/results.tsv": {
+      "bytes": 6767898,
+      "md5": "34c1965eac33c3d3b0cc5c0cfcce7550",
+      "sha256": "4e131fb5a0cfe20f7571a5724273c2b04f545de0f62fc7fbad11cbb48f0910ce"
+    },
+    "results/analysis/transcript/qc/pca-coordinates.tsv": {
+      "bytes": 648,
+      "md5": "0087dbf1d9bb88bd6383b871da9618ac",
+      "sha256": "2f02af5e3de7b67d4124c242ec3cc867f900d95a8faba3a411ba94baa045cb4a"
+    },
+    "results/analysis/transcript/qc/pca-variance.tsv": {
+      "bytes": 282,
+      "md5": "6b4cf456b2893e97bad4b15cd524427e",
+      "sha256": "bfbfa9c92dc2de732414ec706592b87aabb9b2f6f043e45b2433261b0ee23c47"
+    },
+    "results/analysis/transcript/qc/sample-distances.tsv": {
+      "bytes": 2386,
+      "md5": "4a5bec059fde11f829d7ada4f12b960e",
+      "sha256": "c924302c1412ca70b82e5c23b24dfee80702c80d094371dd86dbdb434f053b28"
+    },
+    "results/comparison/summary.tsv": {
+      "bytes": 764,
+      "md5": "6c8017234fb23fd206238e4ca19b98d0",
+      "sha256": "7571a8efe4a0754a860b2bdbce044c6b6e373c5426a13833d9eab093186f5b0f"
+    },
+    "results/enrichment/go-annotation-snapshot.tsv": {
+      "bytes": 108459297,
+      "md5": "210ffce02e74f7ed9b6f0a3ff92f3fe6",
+      "sha256": "ebbd12bb7f33ef8ac4151c517c715b31e7927bebcfcf3c6917559efa88ee6c43"
+    },
+    "results/enrichment/parameters.tsv": {
+      "bytes": 164,
+      "md5": "6d4c341cb12af5024b5d688cdec3d1aa",
+      "sha256": "6a088046fdaaf237049565c0d86dab159e6b103c06dbf16119232806c5bfefe5"
+    },
+    "results/enrichment/summary.tsv": {
+      "bytes": 326,
+      "md5": "aaf33972839432c39a50f724278615ce",
+      "sha256": "3290425de13c7fa00a6fbf80f9658aae25667f814f6d899c3e06e70b3e0d2f6d"
+    },
+    "results/provenance/run.json": {
+      "bytes": 27587,
+      "md5": "ac3bace8cf4d0d8c4a8960cf71dd3d20",
+      "sha256": "86d17e5c4fa08cddbeea1f9c371c3024c55a02a94682a8b8cc475af93f03e11f"
+    },
+    "results/qc/quantification.json": {
+      "bytes": 3166,
+      "md5": "236463cec5b242ffe4151dba51c5edf6",
+      "sha256": "87cae1022413dd9ee8abeffeb78c1a19f784f6a1acf4914305c1b68634340780"
+    },
+    "results/report/index.html": {
+      "bytes": 11686,
+      "md5": "177bec5e5eb6307181d9c496072a587b",
+      "sha256": "b6c085e01c60a9a2ae260825b07b9f4885c1b8041dc857bc04c18d00d5b07004"
+    },
+    "results/salmon/C111/quant.sf": {
+      "md5": "e580ecac4ac14f251f853873eea28a86",
+      "sha256": "96ea2b583f9902faee049a195f3248c58b48142f48d32c165dc888642e9d5f99"
+    },
+    "results/salmon/C112/quant.sf": {
+      "md5": "ac5fa52f4b2ceb651fd3cec587d052ba",
+      "sha256": "9e6c94c531b26f3376a31614bd2a12594c6a14a94038c65f1be77ab22e750ce0"
+    },
+    "results/salmon/C113/quant.sf": {
+      "md5": "ab75550c98939d2c22f9d0700de59bdf",
+      "sha256": "50042407b0b2018a17baf4ac24fec2300347e7f927f3a13826be874205ba34d2"
+    },
+    "results/salmon/C331/quant.sf": {
+      "md5": "4a7d1f75afa46f7b136618121d3e0638",
+      "sha256": "7d144ec82434e5f8f7e83908c86de72b8f2e70952e11efc6dd7ee3aa5e0b16fb"
+    },
+    "results/salmon/C332/quant.sf": {
+      "md5": "8e9b06dab5f2b5e33b102d54007c45b7",
+      "sha256": "0b72534a4512e88f8a48ef47dd6d105850bfc07deeafceb0b01d3a13c3f49fff"
+    },
+    "results/salmon/C333/quant.sf": {
+      "md5": "0a7875ec37fd4194cc7352ba3179a118",
+      "sha256": "c5d35b062595657a939580a22fd971e6ee9f2b17ea5c9ab7f91cd61282d5e4b1"
+    },
+    "results/salmon/T111/quant.sf": {
+      "md5": "d288dbf95e2aea8995702fe7e53c9f3d",
+      "sha256": "6bdb833fec072786e5e42118df2b39486dd4379447223b46d0ac47b464641a1b"
+    },
+    "results/salmon/T112/quant.sf": {
+      "md5": "452d75734718d0c671ac27df6f843c25",
+      "sha256": "5feb25630707064f70e340f7cb6560bd70e17907484ad28830f7d7fe1177cba4"
+    },
+    "results/salmon/T113/quant.sf": {
+      "md5": "bcafededab4c2ca620dee196ae4e4299",
+      "sha256": "2abaa240c7498206034e97593615f92f39dc31532ff47778de69fd68fbc580e1"
+    },
+    "results/salmon/T331/quant.sf": {
+      "md5": "105ad78efe44e123c6fb93d05cc68358",
+      "sha256": "89137725f3b079b9825a79feeede42e3f2f1a62446f5d666bc0f24d5ee619a83"
+    },
+    "results/salmon/T332/quant.sf": {
+      "md5": "6e4c920fe6ce3fe3332912ee29bd6c4e",
+      "sha256": "3654f6f46a7564f49245dfe9f8a709b73d52633503ee668232d1a5b0d7405ba6"
+    },
+    "results/salmon/T333/quant.sf": {
+      "md5": "9bb9a6b3b55307bdd751d2ff2d06135a",
+      "sha256": "6e4a88065824007fcbc755fbff82362ed294e996644041083916c5b9df6d0c0e"
+    }
+  },
+  "incomplete_markers": [],
+  "launch_records": [
+    {
+      "path": "results/launch/20261027T205508Z.txt",
+      "recorded_command": "./run.sh run results/salmon/C111/quant.sf ",
+      "revision": "0731b6cfc8bb29142e20ae3d6d9219b654b48e95",
+      "sha256": "cad38e28c75ced81a6cef628ffcb8697a4acdda76c689bed17e671b9f796f059",
+      "timestamp": 1793134508.0
+    },
+    {
+      "path": "results/launch/20261027T215944Z.txt",
+      "recorded_command": "./run.sh run resources/ensembl100/source/gtf.gz ",
+      "revision": "807a371f92afcdf274123441deaf61e9d503a895",
+      "sha256": "83e480e9aee99739e715ee88b416db3a3989a42ade59df201174703e8821cfd2",
+      "timestamp": 1793138384.0
+    },
+    {
+      "path": "results/launch/20261027T220220Z.txt",
+      "recorded_command": "./run.sh run resources/ensembl100/prepared/reference.json ",
+      "revision": "807a371f92afcdf274123441deaf61e9d503a895",
+      "sha256": "0c4f59a9f14292d121aed3c75d41802091c83cb172ae17a9d61196d9bc30cae9",
+      "timestamp": 1793138540.0
+    },
+    {
+      "path": "results/launch/20261027T220918Z.txt",
+      "recorded_command": "./run.sh run results/salmon/C111/quant.sf ",
+      "revision": "e6df6a484896918fb17d98038326ede5733cedb8",
+      "sha256": "55b69eabcc30dc79618d1f59cd842cc17c6604ad21cf8bd3e9eaabaf41baaa12",
+      "timestamp": 1793138958.0
+    },
+    {
+      "path": "results/launch/20261028T010814Z.txt",
+      "recorded_command": "./run.sh run results/salmon/C111/quant.sf ",
+      "revision": "7a0592f7a9cd6aeff2355cbd47452f46e8ac470d",
+      "sha256": "d3a6b871411524bc657359648002bf527eeb66a961cacbaa2821158c82a0e693",
+      "timestamp": 1793149694.0
+    },
+    {
+      "path": "results/launch/20261028T051630Z.txt",
+      "recorded_command": "./run.sh run results/salmon/C111/quant.sf ",
+      "revision": "b018e137816033148575ed67bfb2b2c37e9a50d6",
+      "sha256": "464d1049336212ef970cf58f41431fc5ff9438298368680f509b6dc6222d6d09",
+      "timestamp": 1793164590.0
+    },
+    {
+      "path": "results/launch/20261028T061110Z.txt",
+      "recorded_command": "./run.sh run ",
+      "revision": "1d829004518985cde20a38d09868a496b0403840",
+      "sha256": "bfac00bc5cd51f2722df1f0dcd38255e4574676c4f8f6e71224d0587b37a74c0",
+      "timestamp": 1793167870.0
+    },
+    {
+      "path": "results/launch/20261028T070657Z.txt",
+      "recorded_command": "./run.sh run ",
+      "revision": "feb8fe71b4987a2d53a6a1500333cf75245e9eb2",
+      "sha256": "a8287cf09c4c0b9a11f6d45bce5f36df530fe658179306f5b973344475cbfdb0",
+      "timestamp": 1793171217.0
+    },
+    {
+      "path": "results/launch/20261028T113109Z.txt",
+      "recorded_command": "./run.sh run ",
+      "revision": "572f8921bf571b2823459dd9da6566b00c2f87fa",
+      "sha256": "6bc74266d846839cd686d6159c9cb103e0fd07af0ebf73b6bb2e9b91212ba00a",
+      "timestamp": 1793187069.0
+    },
+    {
+      "path": "results/launch/20261028T145722Z.txt",
+      "recorded_command": "./run.sh run ",
+      "revision": "572f8921bf571b2823459dd9da6566b00c2f87fa",
+      "sha256": "6bc74266d846839cd686d6159c9cb103e0fd07af0ebf73b6bb2e9b91212ba00a",
+      "timestamp": 1793199442.0
+    },
+    {
+      "path": "results/launch/20261028T231956Z.txt",
+      "recorded_command": "./run.sh run ",
+      "revision": "945c3c37661f42daa18b3e9feccab4123819c0a2",
+      "sha256": "fa2e93fe70f031fbceb9e04d7aa31fe000312d2898bc1d725d996bc38f2a20e9",
+      "timestamp": 1793229596.0
+    }
+  ],
+  "limitations": [
+    "No scientific interpretation or independent reproduction claim",
+    "No workflow rerun, browser rendering, container execution or external requests",
+    "Raw hashes verified at audit time; subsequent mutations are not monitored"
+  ],
+  "provenance_recorded_end_commit": "945c3c37661f42daa18b3e9feccab4123819c0a2",
+  "quantifications": [
+    {
+      "assigned_fragments": 31339012.006999675,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 31339012,
+      "md5": "e580ecac4ac14f251f853873eea28a86",
+      "processed_pairs": 37526096,
+      "salmon_version": "1.10.3",
+      "sample_id": "C111",
+      "sha256": "96ea2b583f9902faee049a195f3248c58b48142f48d32c165dc888642e9d5f99",
+      "targets": 141450,
+      "tpm_sum": 1000000.0000099892
+    },
+    {
+      "assigned_fragments": 29296457.068000007,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 29296457,
+      "md5": "ac5fa52f4b2ceb651fd3cec587d052ba",
+      "processed_pairs": 34013002,
+      "salmon_version": "1.10.3",
+      "sample_id": "C112",
+      "sha256": "9e6c94c531b26f3376a31614bd2a12594c6a14a94038c65f1be77ab22e750ce0",
+      "targets": 141450,
+      "tpm_sum": 999999.999941993
+    },
+    {
+      "assigned_fragments": 27816729.06899967,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 27816729,
+      "md5": "ab75550c98939d2c22f9d0700de59bdf",
+      "processed_pairs": 33190710,
+      "salmon_version": "1.10.3",
+      "sample_id": "C113",
+      "sha256": "50042407b0b2018a17baf4ac24fec2300347e7f927f3a13826be874205ba34d2",
+      "targets": 141450,
+      "tpm_sum": 1000000.000046994
+    },
+    {
+      "assigned_fragments": 28215623.020999733,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 28215623,
+      "md5": "d288dbf95e2aea8995702fe7e53c9f3d",
+      "processed_pairs": 32816042,
+      "salmon_version": "1.10.3",
+      "sample_id": "T111",
+      "sha256": "6bdb833fec072786e5e42118df2b39486dd4379447223b46d0ac47b464641a1b",
+      "targets": 141450,
+      "tpm_sum": 999999.9998919962
+    },
+    {
+      "assigned_fragments": 27749475.917999964,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 27749476,
+      "md5": "452d75734718d0c671ac27df6f843c25",
+      "processed_pairs": 33537239,
+      "salmon_version": "1.10.3",
+      "sample_id": "T112",
+      "sha256": "5feb25630707064f70e340f7cb6560bd70e17907484ad28830f7d7fe1177cba4",
+      "targets": 141450,
+      "tpm_sum": 999999.9999069966
+    },
+    {
+      "assigned_fragments": 27365867.978999715,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 27365868,
+      "md5": "bcafededab4c2ca620dee196ae4e4299",
+      "processed_pairs": 32924361,
+      "salmon_version": "1.10.3",
+      "sample_id": "T113",
+      "sha256": "2abaa240c7498206034e97593615f92f39dc31532ff47778de69fd68fbc580e1",
+      "targets": 141450,
+      "tpm_sum": 1000000.0000719961
+    },
+    {
+      "assigned_fragments": 26004897.933,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 26004898,
+      "md5": "4a7d1f75afa46f7b136618121d3e0638",
+      "processed_pairs": 30120695,
+      "salmon_version": "1.10.3",
+      "sample_id": "C331",
+      "sha256": "7d144ec82434e5f8f7e83908c86de72b8f2e70952e11efc6dd7ee3aa5e0b16fb",
+      "targets": 141450,
+      "tpm_sum": 999999.9998550019
+    },
+    {
+      "assigned_fragments": 34616884.06100039,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 34616884,
+      "md5": "8e9b06dab5f2b5e33b102d54007c45b7",
+      "processed_pairs": 41207357,
+      "salmon_version": "1.10.3",
+      "sample_id": "C332",
+      "sha256": "0b72534a4512e88f8a48ef47dd6d105850bfc07deeafceb0b01d3a13c3f49fff",
+      "targets": 141450,
+      "tpm_sum": 1000000.0000159997
+    },
+    {
+      "assigned_fragments": 30537558.971999947,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 30537559,
+      "md5": "0a7875ec37fd4194cc7352ba3179a118",
+      "processed_pairs": 34530837,
+      "salmon_version": "1.10.3",
+      "sample_id": "C333",
+      "sha256": "c5d35b062595657a939580a22fd971e6ee9f2b17ea5c9ab7f91cd61282d5e4b1",
+      "targets": 141450,
+      "tpm_sum": 999999.9999489926
+    },
+    {
+      "assigned_fragments": 24504981.98400007,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 24504982,
+      "md5": "105ad78efe44e123c6fb93d05cc68358",
+      "processed_pairs": 33359721,
+      "salmon_version": "1.10.3",
+      "sample_id": "T331",
+      "sha256": "89137725f3b079b9825a79feeede42e3f2f1a62446f5d666bc0f24d5ee619a83",
+      "targets": 141450,
+      "tpm_sum": 999999.9999069966
+    },
+    {
+      "assigned_fragments": 29150523.124999758,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 29150523,
+      "md5": "6e4c920fe6ce3fe3332912ee29bd6c4e",
+      "processed_pairs": 34616097,
+      "salmon_version": "1.10.3",
+      "sample_id": "T332",
+      "sha256": "3654f6f46a7564f49245dfe9f8a709b73d52633503ee668232d1a5b0d7405ba6",
+      "targets": 141450,
+      "tpm_sum": 999999.9999590097
+    },
+    {
+      "assigned_fragments": 26386484.9789996,
+      "count_rounding_tolerance": 70.725001,
+      "library_type": "IU",
+      "mapped_pairs": 26386485,
+      "md5": "9bb9a6b3b55307bdd751d2ff2d06135a",
+      "processed_pairs": 32020602,
+      "salmon_version": "1.10.3",
+      "sample_id": "T333",
+      "sha256": "6e4a88065824007fcbc755fbff82362ed294e996644041083916c5b9df6d0c0e",
+      "targets": 141450,
+      "tpm_sum": 1000000.0000840037
+    }
+  ],
+  "raw_files": [
+    {
+      "bytes": 3042941709,
+      "computed": {
+        "md5": "9869f203d9fd6ef2d0e3713b25c73d2c",
+        "sha256": "02439d2a2140dc47a040f3fe1f5cba7eb63893709c09cc799a81ecc6dae85ad6"
+      },
+      "mate": 1,
+      "receipt_md5": "9869f203d9fd6ef2d0e3713b25c73d2c",
+      "receipt_sha256": "02439d2a2140dc47a040f3fe1f5cba7eb63893709c09cc799a81ecc6dae85ad6",
+      "rehash_performed": true,
+      "sample_id": "C111",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/007/SRR7657877/SRR7657877_1.fastq.gz"
+    },
+    {
+      "bytes": 3359193762,
+      "computed": {
+        "md5": "6d63ddb6087225ea7807b452cd2b1f95",
+        "sha256": "a290768729345a68e0085c88bbfb687d07db67ef829a33b0bdf5fb5cdc6b8df3"
+      },
+      "mate": 2,
+      "receipt_md5": "6d63ddb6087225ea7807b452cd2b1f95",
+      "receipt_sha256": "a290768729345a68e0085c88bbfb687d07db67ef829a33b0bdf5fb5cdc6b8df3",
+      "rehash_performed": true,
+      "sample_id": "C111",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/007/SRR7657877/SRR7657877_2.fastq.gz"
+    },
+    {
+      "bytes": 2745608069,
+      "computed": {
+        "md5": "d7dab67c7e87ba436b76bb48e65f7272",
+        "sha256": "0d8dbb935acf5a3f999997b39833faa64a812ace19d36e99518dd9f929e22a28"
+      },
+      "mate": 1,
+      "receipt_md5": "d7dab67c7e87ba436b76bb48e65f7272",
+      "receipt_sha256": "0d8dbb935acf5a3f999997b39833faa64a812ace19d36e99518dd9f929e22a28",
+      "rehash_performed": true,
+      "sample_id": "C112",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/006/SRR7657876/SRR7657876_1.fastq.gz"
+    },
+    {
+      "bytes": 3080546270,
+      "computed": {
+        "md5": "9cdee5c4ab7159af3cd3fae98e5dca5b",
+        "sha256": "e13d38be989afaf274d06da1bc7ee9abf389bc581141926c026ac20f65f4470a"
+      },
+      "mate": 2,
+      "receipt_md5": "9cdee5c4ab7159af3cd3fae98e5dca5b",
+      "receipt_sha256": "e13d38be989afaf274d06da1bc7ee9abf389bc581141926c026ac20f65f4470a",
+      "rehash_performed": true,
+      "sample_id": "C112",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/006/SRR7657876/SRR7657876_2.fastq.gz"
+    },
+    {
+      "bytes": 2689676949,
+      "computed": {
+        "md5": "648cd7a1495317897a3c4b1698c79dba",
+        "sha256": "cd953af387463ae373f5a0ae81971d8fba3c18dfc86e6afa1f111c1e465693fb"
+      },
+      "mate": 1,
+      "receipt_md5": "648cd7a1495317897a3c4b1698c79dba",
+      "receipt_sha256": "cd953af387463ae373f5a0ae81971d8fba3c18dfc86e6afa1f111c1e465693fb",
+      "rehash_performed": true,
+      "sample_id": "C113",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/009/SRR7657879/SRR7657879_1.fastq.gz"
+    },
+    {
+      "bytes": 3008289903,
+      "computed": {
+        "md5": "459d049bfe739e1534d73c7458936923",
+        "sha256": "043521862d39de8527b9d18807c7335f451c89fb383a92cf5f755829027d2274"
+      },
+      "mate": 2,
+      "receipt_md5": "459d049bfe739e1534d73c7458936923",
+      "receipt_sha256": "043521862d39de8527b9d18807c7335f451c89fb383a92cf5f755829027d2274",
+      "rehash_performed": true,
+      "sample_id": "C113",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/009/SRR7657879/SRR7657879_2.fastq.gz"
+    },
+    {
+      "bytes": 2653270663,
+      "computed": {
+        "md5": "c0b9ddad95ff72de63971dd9af857dff",
+        "sha256": "622dc38b46d2e02234c44c5ffec62c9a55c625ab399f62b535a9a5241a39f423"
+      },
+      "mate": 1,
+      "receipt_md5": "c0b9ddad95ff72de63971dd9af857dff",
+      "receipt_sha256": "622dc38b46d2e02234c44c5ffec62c9a55c625ab399f62b535a9a5241a39f423",
+      "rehash_performed": true,
+      "sample_id": "T111",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/008/SRR7657878/SRR7657878_1.fastq.gz"
+    },
+    {
+      "bytes": 2965467366,
+      "computed": {
+        "md5": "29c749f1743c5ce4bb01a7316b82c5e8",
+        "sha256": "6e5b16f87e97ce777e7a1f54db3118bb595288c648beefb56b6b71bffc72c284"
+      },
+      "mate": 2,
+      "receipt_md5": "29c749f1743c5ce4bb01a7316b82c5e8",
+      "receipt_sha256": "6e5b16f87e97ce777e7a1f54db3118bb595288c648beefb56b6b71bffc72c284",
+      "rehash_performed": true,
+      "sample_id": "T111",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/008/SRR7657878/SRR7657878_2.fastq.gz"
+    },
+    {
+      "bytes": 2718206890,
+      "computed": {
+        "md5": "3f7592954fc8e116d5d3900a038ef4e5",
+        "sha256": "253dd5be814cac84ba4ba680bb232fee21c85e0ec49ec0528c2b43a5cbc8acf9"
+      },
+      "mate": 1,
+      "receipt_md5": "3f7592954fc8e116d5d3900a038ef4e5",
+      "receipt_sha256": "253dd5be814cac84ba4ba680bb232fee21c85e0ec49ec0528c2b43a5cbc8acf9",
+      "rehash_performed": true,
+      "sample_id": "T112",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/001/SRR7657881/SRR7657881_1.fastq.gz"
+    },
+    {
+      "bytes": 3029940866,
+      "computed": {
+        "md5": "d5043bd577c4439df34e44a12debe74e",
+        "sha256": "6db9c10e091b9f7a2de6d889d1ded14640bb887aea66d33e466e5828c3fd8cc8"
+      },
+      "mate": 2,
+      "receipt_md5": "d5043bd577c4439df34e44a12debe74e",
+      "receipt_sha256": "6db9c10e091b9f7a2de6d889d1ded14640bb887aea66d33e466e5828c3fd8cc8",
+      "rehash_performed": true,
+      "sample_id": "T112",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/001/SRR7657881/SRR7657881_2.fastq.gz"
+    },
+    {
+      "bytes": 2673315472,
+      "computed": {
+        "md5": "8b6c1c975360ff4df2b889c0f8b32cad",
+        "sha256": "6fc9ac755d183c45ca44b57b74adf00cb69fa547af6f64a9f8f86c74d4da5ddd"
+      },
+      "mate": 1,
+      "receipt_md5": "8b6c1c975360ff4df2b889c0f8b32cad",
+      "receipt_sha256": "6fc9ac755d183c45ca44b57b74adf00cb69fa547af6f64a9f8f86c74d4da5ddd",
+      "rehash_performed": true,
+      "sample_id": "T113",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/000/SRR7657880/SRR7657880_1.fastq.gz"
+    },
+    {
+      "bytes": 2977043267,
+      "computed": {
+        "md5": "b81742edde7efa825e6ca71e8a4d18a5",
+        "sha256": "05641a6e60ae555af07317955291f9ff8d1568225abb17aa8b3f43a3a7d5963b"
+      },
+      "mate": 2,
+      "receipt_md5": "b81742edde7efa825e6ca71e8a4d18a5",
+      "receipt_sha256": "05641a6e60ae555af07317955291f9ff8d1568225abb17aa8b3f43a3a7d5963b",
+      "rehash_performed": true,
+      "sample_id": "T113",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/000/SRR7657880/SRR7657880_2.fastq.gz"
+    },
+    {
+      "bytes": 2350700162,
+      "computed": {
+        "md5": "75bb1bad8edf425eb800ceefdef75eeb",
+        "sha256": "9a99c5bbc7b96834caaa940427848b1c43229729f3989fa9a1521cf88042dc3e"
+      },
+      "mate": 1,
+      "receipt_md5": "75bb1bad8edf425eb800ceefdef75eeb",
+      "receipt_sha256": "9a99c5bbc7b96834caaa940427848b1c43229729f3989fa9a1521cf88042dc3e",
+      "rehash_performed": true,
+      "sample_id": "C331",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657883/SRR7657883_1.fastq.gz"
+    },
+    {
+      "bytes": 2697775876,
+      "computed": {
+        "md5": "266bdd18d7fdac6f2a93abf060846f2c",
+        "sha256": "dd85dd183c6e15149e40d1c11aa41454ca2bae691b226f1047ca96d2aebb40a0"
+      },
+      "mate": 2,
+      "receipt_md5": "266bdd18d7fdac6f2a93abf060846f2c",
+      "receipt_sha256": "dd85dd183c6e15149e40d1c11aa41454ca2bae691b226f1047ca96d2aebb40a0",
+      "rehash_performed": true,
+      "sample_id": "C331",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657883/SRR7657883_2.fastq.gz"
+    },
+    {
+      "bytes": 3312506242,
+      "computed": {
+        "md5": "c3df55ce77bd18fa916ba5d7cdf524b5",
+        "sha256": "18606f4b23ba2ab1cb7eddd831a4cb125e066664e34a18a7bafa0cbd413f72b9"
+      },
+      "mate": 1,
+      "receipt_md5": "c3df55ce77bd18fa916ba5d7cdf524b5",
+      "receipt_sha256": "18606f4b23ba2ab1cb7eddd831a4cb125e066664e34a18a7bafa0cbd413f72b9",
+      "rehash_performed": true,
+      "sample_id": "C332",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657882/SRR7657882_1.fastq.gz"
+    },
+    {
+      "bytes": 3788604619,
+      "computed": {
+        "md5": "3db66d33319b23e9e05805d279f7a973",
+        "sha256": "21b9997d1c0c6d82d41507be662fa2428b70af34d302dfc786601ae904e019f2"
+      },
+      "mate": 2,
+      "receipt_md5": "3db66d33319b23e9e05805d279f7a973",
+      "receipt_sha256": "21b9997d1c0c6d82d41507be662fa2428b70af34d302dfc786601ae904e019f2",
+      "rehash_performed": true,
+      "sample_id": "C332",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657882/SRR7657882_2.fastq.gz"
+    },
+    {
+      "bytes": 2694272447,
+      "computed": {
+        "md5": "32c2413b6278bc944250ac5b8f747d37",
+        "sha256": "a623f32931946064cc2869dde74164523368fb6ba80d4ac3d8bc20ef368d33de"
+      },
+      "mate": 1,
+      "receipt_md5": "32c2413b6278bc944250ac5b8f747d37",
+      "receipt_sha256": "a623f32931946064cc2869dde74164523368fb6ba80d4ac3d8bc20ef368d33de",
+      "rehash_performed": true,
+      "sample_id": "C333",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/005/SRR7657875/SRR7657875_1.fastq.gz"
+    },
+    {
+      "bytes": 3089849175,
+      "computed": {
+        "md5": "57f07bd4bb74e8d5191554ed9f4aad97",
+        "sha256": "a2c4dfceb9e70811fad4cab667ad17ec37b70ad3a1f07392fd21cd9ed8c9d2db"
+      },
+      "mate": 2,
+      "receipt_md5": "57f07bd4bb74e8d5191554ed9f4aad97",
+      "receipt_sha256": "a2c4dfceb9e70811fad4cab667ad17ec37b70ad3a1f07392fd21cd9ed8c9d2db",
+      "rehash_performed": true,
+      "sample_id": "C333",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/005/SRR7657875/SRR7657875_2.fastq.gz"
+    },
+    {
+      "bytes": 2598313464,
+      "computed": {
+        "md5": "62d634dfe758350ae86135829ea9a6b1",
+        "sha256": "b56d66655cc91dd251c631e1aade753c59305064c255d1fe94a6d33c3003a8d1"
+      },
+      "mate": 1,
+      "receipt_md5": "62d634dfe758350ae86135829ea9a6b1",
+      "receipt_sha256": "b56d66655cc91dd251c631e1aade753c59305064c255d1fe94a6d33c3003a8d1",
+      "rehash_performed": true,
+      "sample_id": "T331",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/004/SRR7657874/SRR7657874_1.fastq.gz"
+    },
+    {
+      "bytes": 3000225677,
+      "computed": {
+        "md5": "a5eb825e01b17f94afa42cbd955a7e27",
+        "sha256": "30f3bb72fb3103d60e5382e50b04d5e81f05fc16e0ef7d21b23c2cb691fcdc27"
+      },
+      "mate": 2,
+      "receipt_md5": "a5eb825e01b17f94afa42cbd955a7e27",
+      "receipt_sha256": "30f3bb72fb3103d60e5382e50b04d5e81f05fc16e0ef7d21b23c2cb691fcdc27",
+      "rehash_performed": true,
+      "sample_id": "T331",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/004/SRR7657874/SRR7657874_2.fastq.gz"
+    },
+    {
+      "bytes": 2942203219,
+      "computed": {
+        "md5": "c4f68b47a0195473eecad1be876ce8a2",
+        "sha256": "8d43f032093ff152e3825173704cbbc328b7802d40554a51f69a8d88ef412384"
+      },
+      "mate": 1,
+      "receipt_md5": "c4f68b47a0195473eecad1be876ce8a2",
+      "receipt_sha256": "8d43f032093ff152e3825173704cbbc328b7802d40554a51f69a8d88ef412384",
+      "rehash_performed": true,
+      "sample_id": "T332",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657873/SRR7657873_1.fastq.gz"
+    },
+    {
+      "bytes": 3339038092,
+      "computed": {
+        "md5": "cd8e7011652af8acb5ecb870cf678440",
+        "sha256": "32fd2b0226f095f7d5916c2075f92033cfb46ae056d41c1da63c5db5324f191b"
+      },
+      "mate": 2,
+      "receipt_md5": "cd8e7011652af8acb5ecb870cf678440",
+      "receipt_sha256": "32fd2b0226f095f7d5916c2075f92033cfb46ae056d41c1da63c5db5324f191b",
+      "rehash_performed": true,
+      "sample_id": "T332",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657873/SRR7657873_2.fastq.gz"
+    },
+    {
+      "bytes": 2523351606,
+      "computed": {
+        "md5": "7c7d087027c257ece8aca697f35da7d4",
+        "sha256": "af17486b5c083cf1930a350543839dfac7697bc532bc6b4d850bd342d474b2e0"
+      },
+      "mate": 1,
+      "receipt_md5": "7c7d087027c257ece8aca697f35da7d4",
+      "receipt_sha256": "af17486b5c083cf1930a350543839dfac7697bc532bc6b4d850bd342d474b2e0",
+      "rehash_performed": true,
+      "sample_id": "T333",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657872/SRR7657872_1.fastq.gz"
+    },
+    {
+      "bytes": 3041888299,
+      "computed": {
+        "md5": "17c661992af689224b94dc2665fbd329",
+        "sha256": "f4043488789cfc9f6feb55352f00872a16bf6e40675a62d8557b9a67773efd5d"
+      },
+      "mate": 2,
+      "receipt_md5": "17c661992af689224b94dc2665fbd329",
+      "receipt_sha256": "f4043488789cfc9f6feb55352f00872a16bf6e40675a62d8557b9a67773efd5d",
+      "rehash_performed": true,
+      "sample_id": "T333",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657872/SRR7657872_2.fastq.gz"
+    }
+  ],
+  "raw_verification_level": "streaming_md5_sha256_and_receipts",
+  "report_links": {
+    "external_urls_not_requested": [
+      "https://doi.org/10.3389/fmicb.2020.570903"
+    ],
+    "local_targets": [
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/day11/figures/ma.png",
+        "url": "../analysis/gene/day11/figures/ma.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/gene/day11/figures/pca.png",
+        "url": "../figures/gene/day11/figures/pca.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/gene/day11/figures/sample-distances.png",
+        "url": "../figures/gene/day11/figures/sample-distances.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/day11/figures/variable-features-heatmap.png",
+        "url": "../analysis/gene/day11/figures/variable-features-heatmap.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/day11/figures/volcano.png",
+        "url": "../analysis/gene/day11/figures/volcano.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/day33/figures/ma.png",
+        "url": "../analysis/gene/day33/figures/ma.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/gene/day33/figures/pca.png",
+        "url": "../figures/gene/day33/figures/pca.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/gene/day33/figures/sample-distances.png",
+        "url": "../figures/gene/day33/figures/sample-distances.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/day33/figures/variable-features-heatmap.png",
+        "url": "../analysis/gene/day33/figures/variable-features-heatmap.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/day33/figures/volcano.png",
+        "url": "../analysis/gene/day33/figures/volcano.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/gene/qc/pca.png",
+        "url": "../figures/gene/qc/pca.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/gene/qc/sample-distances.png",
+        "url": "../figures/gene/qc/sample-distances.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/gene/qc/variable-features-heatmap.png",
+        "url": "../analysis/gene/qc/variable-features-heatmap.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/day11/figures/ma.png",
+        "url": "../analysis/transcript/day11/figures/ma.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/transcript/day11/figures/pca.png",
+        "url": "../figures/transcript/day11/figures/pca.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/transcript/day11/figures/sample-distances.png",
+        "url": "../figures/transcript/day11/figures/sample-distances.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/day11/figures/variable-features-heatmap.png",
+        "url": "../analysis/transcript/day11/figures/variable-features-heatmap.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/day11/figures/volcano.png",
+        "url": "../analysis/transcript/day11/figures/volcano.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/day33/figures/ma.png",
+        "url": "../analysis/transcript/day33/figures/ma.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/transcript/day33/figures/pca.png",
+        "url": "../figures/transcript/day33/figures/pca.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/transcript/day33/figures/sample-distances.png",
+        "url": "../figures/transcript/day33/figures/sample-distances.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/day33/figures/variable-features-heatmap.png",
+        "url": "../analysis/transcript/day33/figures/variable-features-heatmap.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/day33/figures/volcano.png",
+        "url": "../analysis/transcript/day33/figures/volcano.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/transcript/qc/pca.png",
+        "url": "../figures/transcript/qc/pca.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "figures/transcript/qc/sample-distances.png",
+        "url": "../figures/transcript/qc/sample-distances.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "analysis/transcript/qc/variable-features-heatmap.png",
+        "url": "../analysis/transcript/qc/variable-features-heatmap.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "enrichment/day11/GO/down-enrichment.png",
+        "url": "../enrichment/day11/GO/down-enrichment.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "enrichment/day11/GO/up-enrichment.png",
+        "url": "../enrichment/day11/GO/up-enrichment.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "enrichment/day33/GO/down-enrichment.png",
+        "url": "../enrichment/day33/GO/down-enrichment.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "enrichment/day33/GO/up-enrichment.png",
+        "url": "../enrichment/day33/GO/up-enrichment.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "comparison/day11-effect-comparison.png",
+        "url": "../comparison/day11-effect-comparison.png"
+      },
+      {
+        "kind": "file",
+        "tag": "img",
+        "target": "comparison/day33-effect-comparison.png",
+        "url": "../comparison/day33-effect-comparison.png"
+      },
+      {
+        "kind": "file",
+        "tag": "a",
+        "target": "qc/multiqc_report.html",
+        "url": "../qc/multiqc_report.html"
+      },
+      {
+        "kind": "file",
+        "tag": "a",
+        "target": "provenance/run.json",
+        "url": "../provenance/run.json"
+      },
+      {
+        "kind": "directory",
+        "tag": "a",
+        "target": "validation/models",
+        "url": "../validation/models/"
+      },
+      {
+        "kind": "directory",
+        "tag": "a",
+        "target": "sensitivity/lilrb4a",
+        "url": "../sensitivity/lilrb4a/"
+      }
+    ],
+    "scope": "Local target existence only; no browser rendering or external URL checks"
+  },
+  "revision_interpretation": "End commit is a provenance snapshot. Stage revisions are associated with actual launch records by time, not assumed equal to the end commit.",
+  "schema_version": 1,
+  "stage_execution_sha256": "017402625a84441646a8b0a3d35e27b3db61cd47e74cdfbb230367c0fb9f6adc",
+  "started_utc": "2026-10-28T23:24:01.318044+00:00",
+  "status": "PASS",
+  "study_driver_exit": {
+    "code": 0,
+    "mtime_epoch": 1793228343.438,
+    "scope": "Original driver completion; supplementary stages may run later"
+  },
+  "warnings": [
+    "Completed supplementary stages postdate the original study.exit marker; their completion is attested by the individual stage records, not that earlier exit file."
+  ]
+}

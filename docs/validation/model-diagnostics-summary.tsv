@@ -1,0 +1,7 @@
+model	design	n_samples	n_features	model_rank	model_columns	all_checks_pass	failed_checks	beta_nonconverged	beta_missing	dispersion_nonfinite	dispersion_nonpositive	dispersion_min	dispersion_median	dispersion_max	cooks_cutoff	cooks_flagged	missing_pvalue	missing_pvalue_without_saved_cook_flag	saved_cook_flag_with_defined_pvalue	replacement_assay_present
+gene/day11	~condition	6	17541	2	2	TRUE		0	0	0	0	0.00414919808372246	0.0228991471264109	10	18	13	13	0	0	FALSE
+gene/day33	~condition	6	18024	2	2	TRUE		0	0	0	0	0.00651389304466061	0.0289561114158575	10	18	35	34	0	1	FALSE
+gene/interaction	~day + condition + day:condition	12	18571	4	4	TRUE		0	0	0	0	0.00156719391626608	0.0259752028741187	12	7.00607662295559	36	36	0	0	FALSE
+transcript/day11	~condition	6	46242	2	2	TRUE		0	0	0	0	0.00242685434994256	0.109657744807341	10	18	85	69	0	16	FALSE
+transcript/day33	~condition	6	47529	2	2	TRUE		0	0	0	0	0.00341986628714437	0.122265889868849	10	18	136	125	0	11	FALSE
+transcript/interaction	~day + condition + day:condition	12	52893	4	4	TRUE		0	0	0	0	0.00102186834906129	0.11748799771652	12	7.00607662295559	306	306	0	0	FALSE

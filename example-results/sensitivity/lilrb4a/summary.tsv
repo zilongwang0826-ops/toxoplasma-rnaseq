@@ -1,0 +1,5 @@
+day	direction	primary_universe	collapsed_universe	primary_selected	collapsed_selected	primary_terms	collapsed_terms	terms_added	terms_removed	primary_significant	collapsed_significant	significant_lost	significant_gained
+11	up	15619	15618	447	447	8035	8032	0	3	929	929	1	1
+11	down	15619	15618	39	39	8035	8032	0	3	0	0	0	0
+33	up	15976	15975	1028	1027	8112	8099	0	13	1129	1116	13	0
+33	down	15976	15975	17	17	8112	8099	0	13	0	0	0	0

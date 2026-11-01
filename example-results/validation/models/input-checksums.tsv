@@ -1,0 +1,14 @@
+path	md5
+results/analysis/samples-used.tsv	a87915b6cfa4170cc544fbbecbc42b04
+results/analysis/gene/day11/deseq2.rds	4c1415e72bd31e4206961f335bb3d784
+results/analysis/gene/day11/results.tsv	1e5440934db45d7e54367da469b1d6c8
+results/analysis/gene/day33/deseq2.rds	a41a84f54c7607f544ecf493d39afbf3
+results/analysis/gene/day33/results.tsv	bf16b00de1b1ce9597251d5403846b33
+results/analysis/gene/interaction/deseq2.rds	313ed83d3341cf00ff70fe35cd3187e9
+results/analysis/gene/interaction/results.tsv	3956dd6f9fca5f979213e17fe673ec8a
+results/analysis/transcript/day11/deseq2.rds	c8b664d1c70bc9650c916ea2f109d869
+results/analysis/transcript/day11/results.tsv	2576c23fdbc74b17de5cd661b5034977
+results/analysis/transcript/day33/deseq2.rds	9406ca58151ffd53a2b948487b3220e2
+results/analysis/transcript/day33/results.tsv	4a6b14f9a26ec58fcf4c257894703f42
+results/analysis/transcript/interaction/deseq2.rds	2f20a3f9037463e6bbbb84d7f4667914
+results/analysis/transcript/interaction/results.tsv	34c1965eac33c3d3b0cc5c0cfcce7550

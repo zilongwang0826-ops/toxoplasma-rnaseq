@@ -1,0 +1,34 @@
+# Raw inputs, reproducible derived products, caches and machine-specific state
+/data/
+/resources/
+/results/
+/logs/
+/.snakemake/
+/.cache/
+/containers/*.sif
+/containers/*.tar
+/containers/*.tar.gz
+*.part
+*.tmp
+*.RData
+*.Rhistory
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+# Private development records belong outside this repository.
+Projet2-Development-Records/
+/.workflow-env/
+/.transfer/
+
+# Optional document-build environment
+/.report-venv/
+
+# Large original vectors are distributed separately; retain restored local copies.
+/report/figures/redesigned/S_MA_transcript.svg
+/report/figures/redesigned/S_transcript_differential_expression.svg

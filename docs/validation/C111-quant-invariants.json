@@ -1,0 +1,11 @@
+{
+  "sample": "C111",
+  "status": "PASS",
+  "transcripts": 141450,
+  "short_targets": 46,
+  "short_targets_zero_counts": true,
+  "sum_numreads": 31339012.006999675,
+  "sum_tpm": 1000000.0000099892,
+  "quant_sha256": "96ea2b583f9902faee049a195f3248c58b48142f48d32c165dc888642e9d5f99",
+  "interpretation": "Completed single-library technical validation; no differential-expression inference."
+}

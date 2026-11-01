@@ -1,0 +1,5 @@
+day	family	direction	eligible_genes	annotated_universe	selected_genes	selected_annotated	selected_unmapped	tested_terms	significant_terms	alpha
+11	GO	up	17528	15619	496	447	49	8035	929	0.05
+11	GO	down	17528	15619	41	39	2	8035	0	0.05
+33	GO	up	17990	15976	1173	1028	145	8112	1129	0.05
+33	GO	down	17990	15976	18	17	1	8112	0	0.05

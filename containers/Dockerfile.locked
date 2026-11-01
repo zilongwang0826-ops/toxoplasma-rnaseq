@@ -1,0 +1,9 @@
+# Reconstruct an environment from a manager-generated explicit URL/hash lock.
+ARG BASE_IMAGE
+FROM ${BASE_IMAGE}
+ARG LOCK_FILE
+COPY --chown=$MAMBA_USER:$MAMBA_USER ${LOCK_FILE} /tmp/packages.explicit
+RUN micromamba install --yes --name base --file /tmp/packages.explicit
+ENV PATH=/opt/conda/bin:$PATH
+ENV LC_ALL=C.UTF-8
+WORKDIR /work

@@ -1,0 +1,612 @@
+[
+  {
+    "path": "docs/figures/comparison-day33.pdf",
+    "sha256": "04127dc332c4689f609df822dbf6e9ed69527ca1edf9ee0e1e9746e5344aa5ea",
+    "bytes": 104262
+  },
+  {
+    "path": "docs/figures/comparison-day33.png",
+    "sha256": "0bca687f7920ae97c13869b3a126414bdd36ea0c7d3454d85c3d720814e6d522",
+    "bytes": 127349
+  },
+  {
+    "path": "docs/figures/gene-all-pca.pdf",
+    "sha256": "1d62315aedbe09eab299ccc26e629db2256053e4bd882999a82c1ab4a6c9ad94",
+    "bytes": 5694
+  },
+  {
+    "path": "docs/figures/gene-all-pca.png",
+    "sha256": "922dc3e93b4dbe8c60d60b2a25e6ff18440bf726c3c04b9cf25ad90b10c71027",
+    "bytes": 107906
+  },
+  {
+    "path": "docs/figures/gene-day33-volcano.pdf",
+    "sha256": "55a3d4b469e09d4eb0e9b9105bc06e220b36bf4f4c7afef686db667f0297bea5",
+    "bytes": 959070
+  },
+  {
+    "path": "docs/figures/gene-day33-volcano.png",
+    "sha256": "e9bce9cb75326387c1f7756e29bf2c99ea2ceab44842c55abaac0404822a3dbb",
+    "bytes": 115781
+  },
+  {
+    "path": "docs/figures/go-day33-up.pdf",
+    "sha256": "13c326da0fd2981d3670c529c34b71fab8feac4ddf3b51eb5ae86259f1b330b4",
+    "bytes": 6308
+  },
+  {
+    "path": "docs/figures/go-day33-up.png",
+    "sha256": "f9f3036a3d742bb91a3e8cd2ea4df86460e8a5da679cd6941727b2a448ce1bde",
+    "bytes": 327544
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/ma.pdf",
+    "sha256": "424ca8146cecf66a046114964c4943528186071e1a4bf84e1a8a6cbddb7a7327",
+    "bytes": 1013216
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/ma.png",
+    "sha256": "b4518c5c7d614eb7b43f5a28434c730cec167d6a3d9f073b897acbc324684ecc",
+    "bytes": 104905
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/pca.pdf",
+    "sha256": "5a8f04b5a94ae5cb78b3fdebd4ec2b276efa859e378c25e61ae2230dcbe76558",
+    "bytes": 5393
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/pca.png",
+    "sha256": "795fb2190b14ad1b0e7bc1fabf6bd333c2fbbc1991de87d9718000fb7ce9e0e0",
+    "bytes": 93549
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/sample-distances.pdf",
+    "sha256": "6e865e1d8576aec5247b38d896bd398bb68f79b0640156e93aeaadbe3e5be9c9",
+    "bytes": 5083
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/sample-distances.png",
+    "sha256": "1dbf599b385c1dd2457844e569679f194a94d7674c01d7f5602645c07d8016b9",
+    "bytes": 61628
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/variable-features-heatmap.pdf",
+    "sha256": "3e3c945866ac19855ac337a74a7612de6eb0046509df4fc92ed49b185a72be24",
+    "bytes": 7684
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/variable-features-heatmap.png",
+    "sha256": "423e24d9186e015c0a38a74ed71b54c4b2c99d2190f668152f2b06fc988ada8a",
+    "bytes": 287276
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/volcano.pdf",
+    "sha256": "f38a3b4ed1e4381536b07357c1c5e234a14bc14e010bf8f3753c659ad23f23d6",
+    "bytes": 926218
+  },
+  {
+    "path": "example-results/analysis/gene/day11/figures/volcano.png",
+    "sha256": "babccbea621f3458c6f32db31db05eabd7495b6c36d6bb5038c8734ca477d004",
+    "bytes": 106686
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/ma.pdf",
+    "sha256": "4bd821977355d2bbe26211f1cc1a9e10fac8cd1203d2b02b48362cd4a6409b8a",
+    "bytes": 1038505
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/ma.png",
+    "sha256": "249e0a1ad9e9c75dc667f5fcb9b8ca6ebb87a141ce455e627cd5cf3f941a813c",
+    "bytes": 115948
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/pca.pdf",
+    "sha256": "2a5f2aa233e6ae42ac47b98957ffad64ab094d508529e88a27a2e11840d28953",
+    "bytes": 4943
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/pca.png",
+    "sha256": "bb4e5852824c5ed7c04109c26a1c6d01dfda3e62fef5a158825154ca43e1586a",
+    "bytes": 98764
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/sample-distances.pdf",
+    "sha256": "180c413475f1e8d67f1e48fdf1246bbc9803b8ab7a16334de85d00d311826491",
+    "bytes": 5066
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/sample-distances.png",
+    "sha256": "59ca6ee15d4f89be227e60f52be74f20acef5668d0897fae2feb4a8bf7fc9406",
+    "bytes": 74409
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/variable-features-heatmap.pdf",
+    "sha256": "4cfa852b66a957aa34af1287cf937121496e4d083d868883776f437312880688",
+    "bytes": 7678
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/variable-features-heatmap.png",
+    "sha256": "e4d5a633d759386454562b3f9a01f17d61d43af69f90eddeb2a34df55fd2998c",
+    "bytes": 300597
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/volcano.pdf",
+    "sha256": "55a3d4b469e09d4eb0e9b9105bc06e220b36bf4f4c7afef686db667f0297bea5",
+    "bytes": 959070
+  },
+  {
+    "path": "example-results/analysis/gene/day33/figures/volcano.png",
+    "sha256": "e9bce9cb75326387c1f7756e29bf2c99ea2ceab44842c55abaac0404822a3dbb",
+    "bytes": 115781
+  },
+  {
+    "path": "example-results/analysis/gene/qc/pca.pdf",
+    "sha256": "cd7efe21ee016dfb47ece2207f6822c94663e03637a7a3f43b531fdb9c0f78b7",
+    "bytes": 5799
+  },
+  {
+    "path": "example-results/analysis/gene/qc/pca.png",
+    "sha256": "f8457d1ecc010824cac4d20430e8b74f0779240ee5dc43f92490772c5218686c",
+    "bytes": 128560
+  },
+  {
+    "path": "example-results/analysis/gene/qc/sample-distances.pdf",
+    "sha256": "be393b1946a71ec8bac76c087bba63eabf2a8036678c2a9b492ed2c256cd9e8b",
+    "bytes": 6258
+  },
+  {
+    "path": "example-results/analysis/gene/qc/sample-distances.png",
+    "sha256": "83eb2f2bbeea645ee6843f077a050a5159715b2a852a3feab2c28de453e27b09",
+    "bytes": 78937
+  },
+  {
+    "path": "example-results/analysis/gene/qc/variable-features-heatmap.pdf",
+    "sha256": "ffeebb08f16ccfc3433807d05949d4a612dfb0c5b144e75b14e107349180c783",
+    "bytes": 8975
+  },
+  {
+    "path": "example-results/analysis/gene/qc/variable-features-heatmap.png",
+    "sha256": "f56fb077d6be05f95f288aef53ac0f72a6e155dad3870c5bb9a500ce69e2ca12",
+    "bytes": 302042
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/ma.pdf",
+    "sha256": "8921ba52639336d2264a1215480fa62ec997b3dd9ae2414852fe206e23198e44",
+    "bytes": 2646198
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/ma.png",
+    "sha256": "5f75b64654bdd076d6955783a5c41a6ba433fdfbaac84ac1a9b1514596657360",
+    "bytes": 123552
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/pca.pdf",
+    "sha256": "2f3eb7aa2087b1d9433be579a2cd20d7612a771c431ef0b4b61241e5e3aecc24",
+    "bytes": 5380
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/pca.png",
+    "sha256": "2acf0a4a447d7e697fdc0054b2ca1fc13a557d99f2206b851817db44e30326e2",
+    "bytes": 91178
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/sample-distances.pdf",
+    "sha256": "f003c9b81ab794bc381a677dccf5772b25b7b0d4837331fe7e7092577bd12392",
+    "bytes": 5060
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/sample-distances.png",
+    "sha256": "a79f78cf9742c76eeb2bd36224907e0fd5f3a451aa7c1e0ffd930a3ebc28aa89",
+    "bytes": 61222
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/variable-features-heatmap.pdf",
+    "sha256": "c84e261b64b6a9b8dbfc131a566679473148bf7d9d1917db6e34ae9f59dda97d",
+    "bytes": 7774
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/variable-features-heatmap.png",
+    "sha256": "a9e334fafb6227e73e21ec8f4dd84601deb60384edf177edfa45b994d35a9907",
+    "bytes": 278890
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/volcano.pdf",
+    "sha256": "a818fcd6f526076a504edcaae2a99a07b22fa13ff5d82c624ef361067f56dd2c",
+    "bytes": 2107590
+  },
+  {
+    "path": "example-results/analysis/transcript/day11/figures/volcano.png",
+    "sha256": "2dcf198548a4c4993f5ead1d9dd746ade995593c6dfec7363c23beb6207e8e53",
+    "bytes": 109342
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/ma.pdf",
+    "sha256": "d478fac9a335d96d73edd190dc398920cd6d050c6317f4ec2e0eb62543745ee3",
+    "bytes": 2717645
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/ma.png",
+    "sha256": "dbee4c24017017b14e45a25cb9159b9c43f094b31b32a88ae1d357cad8223f68",
+    "bytes": 139395
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/pca.pdf",
+    "sha256": "51c094e9e4f54c2a88023f965bb990d97f7797e67df94af8e137ad20a93709fd",
+    "bytes": 4956
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/pca.png",
+    "sha256": "46bfce9d1c515f39469cf04108d7a8f2c59760b272c667ae9d1a8ec3c87b216c",
+    "bytes": 102274
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/sample-distances.pdf",
+    "sha256": "a8dc154c648e7f4f5846bc698887cfddb1899b99587a150bcff0403783d06e84",
+    "bytes": 5078
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/sample-distances.png",
+    "sha256": "9c87df9d2ce7f942988e0c2a5b505a195e4899dee36ce6d5982597d82abb7429",
+    "bytes": 74320
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/variable-features-heatmap.pdf",
+    "sha256": "731a77adc3c6cd4f201099f5c2e0e595bb826952dc778ee00aefc1bb8a1040ab",
+    "bytes": 7756
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/variable-features-heatmap.png",
+    "sha256": "18e2a2d315deef3a2eb916b87f984cbe1a123b03b4ad6154781e2331f0f99b96",
+    "bytes": 289967
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/volcano.pdf",
+    "sha256": "93f4a1c093344ff3b14ba32a2b948a66102f86fbd1beabef8ad36bfcfc0ca5d3",
+    "bytes": 2455606
+  },
+  {
+    "path": "example-results/analysis/transcript/day33/figures/volcano.png",
+    "sha256": "c2e67a6813a353eae08dd3b1e3ec5e0da935daa661a0f83ce76e266d99791a25",
+    "bytes": 112090
+  },
+  {
+    "path": "example-results/analysis/transcript/qc/pca.pdf",
+    "sha256": "beaa8979a60feda12f7504a303995090c1dde1db1de7074b54110be4d4520777",
+    "bytes": 5724
+  },
+  {
+    "path": "example-results/analysis/transcript/qc/pca.png",
+    "sha256": "39bc989ce5a1e812213dae5f0c3132fda81d13de4cd06e1be5bb4a1d9cb6b989",
+    "bytes": 129073
+  },
+  {
+    "path": "example-results/analysis/transcript/qc/sample-distances.pdf",
+    "sha256": "ccac8bafd0a027ac94f6fa52e2bbf847c1f58fd5fc8c988f6a3ba9fa56f2b060",
+    "bytes": 6230
+  },
+  {
+    "path": "example-results/analysis/transcript/qc/sample-distances.png",
+    "sha256": "e1d7bed7acfa76c7b668ea0d9f4711f7be5e85c9c33f965c15aa05e8800a4645",
+    "bytes": 79399
+  },
+  {
+    "path": "example-results/analysis/transcript/qc/variable-features-heatmap.pdf",
+    "sha256": "7a2054eb3a0c3a1066fb7156510e8bb49f24683cc0e44d605ee37d5d458fd54c",
+    "bytes": 9042
+  },
+  {
+    "path": "example-results/analysis/transcript/qc/variable-features-heatmap.png",
+    "sha256": "bbe5fe06e82191f25b31a6a8613fa5dd3590b47d6f691b17c1095ed3e02a372f",
+    "bytes": 295665
+  },
+  {
+    "path": "example-results/comparison/day11-effect-comparison.pdf",
+    "sha256": "a36750f3bd0abb5b294edddb8264d2682bafb9dd257afea83503e5d19b1bc220",
+    "bytes": 48878
+  },
+  {
+    "path": "example-results/comparison/day11-effect-comparison.png",
+    "sha256": "03f6ef73860b4badc0c354d051ff192fd3e76283a654914d259edbcb20c50e15",
+    "bytes": 116386
+  },
+  {
+    "path": "example-results/comparison/day33-effect-comparison.pdf",
+    "sha256": "04127dc332c4689f609df822dbf6e9ed69527ca1edf9ee0e1e9746e5344aa5ea",
+    "bytes": 104262
+  },
+  {
+    "path": "example-results/comparison/day33-effect-comparison.png",
+    "sha256": "0bca687f7920ae97c13869b3a126414bdd36ea0c7d3454d85c3d720814e6d522",
+    "bytes": 127349
+  },
+  {
+    "path": "example-results/enrichment/day11/GO/down-enrichment.pdf",
+    "sha256": "a424d40d4a36cab3343ab980e86a65ed83cdf72bed437656f2281bc70285ebab",
+    "bytes": 4277
+  },
+  {
+    "path": "example-results/enrichment/day11/GO/down-enrichment.png",
+    "sha256": "9fd1fb21f6996724fd71244c490b89f204ef79e94c5dfc1f0942d7bb525cdf05",
+    "bytes": 23113
+  },
+  {
+    "path": "example-results/enrichment/day11/GO/up-enrichment.pdf",
+    "sha256": "1b381b08cf7236979eaba3091704128c577c93ab6ece1ad97ab47980a79e98bf",
+    "bytes": 6075
+  },
+  {
+    "path": "example-results/enrichment/day11/GO/up-enrichment.png",
+    "sha256": "84b88d64e6edb5752c0a7d26218fc280dd220a95c0da917ddba4633c3cf07f13",
+    "bytes": 175644
+  },
+  {
+    "path": "example-results/enrichment/day33/GO/down-enrichment.pdf",
+    "sha256": "b4d6b213d949209a323bb2c57c3c438088b97299cfc2b01d26e17344ca2a716a",
+    "bytes": 4276
+  },
+  {
+    "path": "example-results/enrichment/day33/GO/down-enrichment.png",
+    "sha256": "1e5e95fb239417bb63732ca429db193ab57114307244cd1d3c040bf0d0232a9b",
+    "bytes": 23502
+  },
+  {
+    "path": "example-results/enrichment/day33/GO/up-enrichment.pdf",
+    "sha256": "7b36134a6b40c0f9a1782ac86bbfa88f44623007c88f9ac3929013128af0213b",
+    "bytes": 6084
+  },
+  {
+    "path": "example-results/enrichment/day33/GO/up-enrichment.png",
+    "sha256": "b2bf9a9f035c360a2d0b057645ae60e818890480a9ff3ec3335cb17b1e08e0d5",
+    "bytes": 182369
+  },
+  {
+    "path": "example-results/figures/enrichment/day11/GO/down-enrichment.pdf",
+    "sha256": "d00ffa2a412cefaf39a29ec1a1df17d64923a930840401e7165caa720794f906",
+    "bytes": 4278
+  },
+  {
+    "path": "example-results/figures/enrichment/day11/GO/down-enrichment.png",
+    "sha256": "74b512af8af374334576d78ecbb16bd8edea1481861241137ec61cba51ef8fc6",
+    "bytes": 28826
+  },
+  {
+    "path": "example-results/figures/enrichment/day11/GO/up-enrichment.pdf",
+    "sha256": "55876adc8c55aaedbfc276fe682b5130eacb87597248d59bed868742252d1688",
+    "bytes": 6271
+  },
+  {
+    "path": "example-results/figures/enrichment/day11/GO/up-enrichment.png",
+    "sha256": "8590be5fae2d778bf6d8993024b93c253caf41ca772b56f0b2974acfe9199c93",
+    "bytes": 314716
+  },
+  {
+    "path": "example-results/figures/enrichment/day33/GO/down-enrichment.pdf",
+    "sha256": "94be38a88fa268f5f02f3d15e15e9f8789f3c5cfea55eb87f6410509c93865ac",
+    "bytes": 4277
+  },
+  {
+    "path": "example-results/figures/enrichment/day33/GO/down-enrichment.png",
+    "sha256": "c1c19c31dd1b9d497d1683bfc52b47f0c89906cc738003dd6355ab95a299d8f0",
+    "bytes": 29197
+  },
+  {
+    "path": "example-results/figures/enrichment/day33/GO/up-enrichment.pdf",
+    "sha256": "13c326da0fd2981d3670c529c34b71fab8feac4ddf3b51eb5ae86259f1b330b4",
+    "bytes": 6308
+  },
+  {
+    "path": "example-results/figures/enrichment/day33/GO/up-enrichment.png",
+    "sha256": "f9f3036a3d742bb91a3e8cd2ea4df86460e8a5da679cd6941727b2a448ce1bde",
+    "bytes": 327544
+  },
+  {
+    "path": "example-results/figures/gene/day11/figures/pca.pdf",
+    "sha256": "b381f63729cf9db4cb10b1e3596c41fed0b41a67be5dc3c8d5294c14837967a1",
+    "bytes": 5391
+  },
+  {
+    "path": "example-results/figures/gene/day11/figures/pca.png",
+    "sha256": "eaf56c49ae164d1c2958904cb7ff2ef2853c4d678f8185851218767ec3ce3c00",
+    "bytes": 86383
+  },
+  {
+    "path": "example-results/figures/gene/day11/figures/sample-distances.pdf",
+    "sha256": "4c59a461d22830a250ce9a747118d7639696399d33ab02e01cd7d93e0144e7ac",
+    "bytes": 6095
+  },
+  {
+    "path": "example-results/figures/gene/day11/figures/sample-distances.png",
+    "sha256": "49f953cb7bd0fff9ad05a191a8db8f93a5f905c3ed94deb9a0307a7308a2cdf7",
+    "bytes": 85945
+  },
+  {
+    "path": "example-results/figures/gene/day33/figures/pca.pdf",
+    "sha256": "e61156fefa1558eb1b772246a7218c2d907e387a404d925e43285de94dab96d5",
+    "bytes": 5005
+  },
+  {
+    "path": "example-results/figures/gene/day33/figures/pca.png",
+    "sha256": "11129908f55e8b2f3e396a20796b84ce2fcc585cbd3dd1af919b6c7144b84f90",
+    "bytes": 86660
+  },
+  {
+    "path": "example-results/figures/gene/day33/figures/sample-distances.pdf",
+    "sha256": "2634b9ccb8a1dc54a8da50f1ad8379133905ffd0f70267f639a81761e232fb40",
+    "bytes": 6067
+  },
+  {
+    "path": "example-results/figures/gene/day33/figures/sample-distances.png",
+    "sha256": "dd6e5eb7718b06cd87f2dbba52dd2e9d6a0827c1f2f44a9b1368148f363ca805",
+    "bytes": 90485
+  },
+  {
+    "path": "example-results/figures/gene/qc/pca.pdf",
+    "sha256": "8b6ff8978e57f1aeebc09c7f01d80defe660868214708e501b7cb395740849aa",
+    "bytes": 5694
+  },
+  {
+    "path": "example-results/figures/gene/qc/pca.png",
+    "sha256": "922dc3e93b4dbe8c60d60b2a25e6ff18440bf726c3c04b9cf25ad90b10c71027",
+    "bytes": 107906
+  },
+  {
+    "path": "example-results/figures/gene/qc/sample-distances.pdf",
+    "sha256": "986a494bd655a922c45466d5233b925f0dacf99eab25642b4a81b92b10824c13",
+    "bytes": 6827
+  },
+  {
+    "path": "example-results/figures/gene/qc/sample-distances.png",
+    "sha256": "c0a808ed6aeb62ce012e9891c5c1faecf6c50bd637b7f86e1b28513f942e917d",
+    "bytes": 108840
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day11/down/enrichment.pdf",
+    "sha256": "6af9b03582912a56392edd3da274480e6040b5f000a9ed7e40026ea315db7f88",
+    "bytes": 4292
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day11/down/enrichment.png",
+    "sha256": "4287d18c4db773cdf7ca19c0af20a8aefb9bc58f3de34894c991facbf356a7dd",
+    "bytes": 32322
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day11/up/enrichment.pdf",
+    "sha256": "157ba0bc4e2f6e308d4d1653bf2a9a4a936f6c84b149811b40f9b26a00ec5615",
+    "bytes": 6280
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day11/up/enrichment.png",
+    "sha256": "a92f14b7bba0e178ffaf1dd4cb7f87177e5bea9c30b7ae7443e2f0073ee71aa9",
+    "bytes": 321995
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day33/down/enrichment.pdf",
+    "sha256": "1a731e32d665d5f63be62048f36d855300e5cc6894afd658fbf190ef7040d5b2",
+    "bytes": 4291
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day33/down/enrichment.png",
+    "sha256": "48aed88682e40d61138614c82b95119098f115f2cb3b797380e44051dd132c18",
+    "bytes": 32676
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day33/up/enrichment.pdf",
+    "sha256": "6d345346b89e31bb55a86e0b6f959e1b0c386c90846923f499d514705d4fe951",
+    "bytes": 6336
+  },
+  {
+    "path": "example-results/figures/sensitivity/lilrb4a/day33/up/enrichment.png",
+    "sha256": "230e474c6c42683e9690fcead8fd82715514ff8c806d787c60b1d80da8867c3f",
+    "bytes": 335130
+  },
+  {
+    "path": "example-results/figures/transcript/day11/figures/pca.pdf",
+    "sha256": "37b84208ca57054ce7f7fd9d2cf330539bed1136c266cfe0cab8b78edc52d15a",
+    "bytes": 5372
+  },
+  {
+    "path": "example-results/figures/transcript/day11/figures/pca.png",
+    "sha256": "a2a488484b4f5080cd20ad0850aa8e8b47dcd77c57fff34fca2bb55594345c2b",
+    "bytes": 86963
+  },
+  {
+    "path": "example-results/figures/transcript/day11/figures/sample-distances.pdf",
+    "sha256": "7de9d98338d31e9a476dbe149956ee300e3d4be8fdc3f43e9a0fd4bacb1193e6",
+    "bytes": 6104
+  },
+  {
+    "path": "example-results/figures/transcript/day11/figures/sample-distances.png",
+    "sha256": "d65d64e83d982c139ac78634f7ce9f1b960e85cbcd18d4f65559873693bbd8ba",
+    "bytes": 85208
+  },
+  {
+    "path": "example-results/figures/transcript/day33/figures/pca.pdf",
+    "sha256": "a4b2a0c5a6730f1f58f431e5890d0f852b784369fe4cdd38d8b287c0cc2738ab",
+    "bytes": 5092
+  },
+  {
+    "path": "example-results/figures/transcript/day33/figures/pca.png",
+    "sha256": "efa845537c61e7c10a43e2f7488401b9626ffcaa6db307a0d3e357124ca3bbdc",
+    "bytes": 96122
+  },
+  {
+    "path": "example-results/figures/transcript/day33/figures/sample-distances.pdf",
+    "sha256": "250c68be33ddcd907ddc90ed2a1f51920df1478960f46d2a67a6395f9a2c05fd",
+    "bytes": 6070
+  },
+  {
+    "path": "example-results/figures/transcript/day33/figures/sample-distances.png",
+    "sha256": "ed98006941d5dab55bd8272b9148ccdd8419a02a6b5c117ad5cf12350c8f2820",
+    "bytes": 89910
+  },
+  {
+    "path": "example-results/figures/transcript/qc/pca.pdf",
+    "sha256": "395f96178e7b3003d08f3f17b05b714bd5164148d6202747fe903223fcdc1bf2",
+    "bytes": 5795
+  },
+  {
+    "path": "example-results/figures/transcript/qc/pca.png",
+    "sha256": "069c732cfe367e19866bed872b6b1253f886e083bf0256ea1105128eaeb71961",
+    "bytes": 115434
+  },
+  {
+    "path": "example-results/figures/transcript/qc/sample-distances.pdf",
+    "sha256": "58935d8cb08c56215fd468ce04a883dcd8beead6dda90129285e828655db6a21",
+    "bytes": 6818
+  },
+  {
+    "path": "example-results/figures/transcript/qc/sample-distances.png",
+    "sha256": "31339a1fbd641d9f6707abd2894905309dbaf4740d254855c6a3320dd3486b0e",
+    "bytes": 108449
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day11/down/enrichment.pdf",
+    "sha256": "a821c7acb25897fdcc66e814b1b70a87673a6b155b84fc3f0e25908dd5bd1ad9",
+    "bytes": 4291
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day11/down/enrichment.png",
+    "sha256": "f5cc742d994e304eb2078436dc1c29c89a6eb36cf6ac7171704d753b447d2a29",
+    "bytes": 26623
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day11/up/enrichment.pdf",
+    "sha256": "bce8ec64821fe6d0042b4149e33ad48f8fd796cd69da15c6ff455d352fe2a854",
+    "bytes": 6092
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day11/up/enrichment.png",
+    "sha256": "09c0d5819d9c7ebf06521b5441cb2d9b88326eb363cb0cb07aa42069a91fdfb8",
+    "bytes": 182724
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day33/down/enrichment.pdf",
+    "sha256": "c859ab4949fda4211d8c0fe06fa7184959775d3bea054b900c8b44922223b883",
+    "bytes": 4291
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day33/down/enrichment.png",
+    "sha256": "6ffb0cac77df15a680a89ff50a8b077d67f47474ef8f861d633569c5c0cc7d0b",
+    "bytes": 26974
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day33/up/enrichment.pdf",
+    "sha256": "2839734ab95929a299ddedab97c21775af56e758063f54f9451bc9fc47286432",
+    "bytes": 6079
+  },
+  {
+    "path": "example-results/sensitivity/lilrb4a/day33/up/enrichment.png",
+    "sha256": "c33cf4eda4bd83a3410a94ec72e50bc04cb40c5da549c146cd7a334b4ff4fb81",
+    "bytes": 189287
+  },
+  {
+    "path": "report/figures/analysis_workflow.svg",
+    "sha256": "32164f621f27d95e11366d366846f42722da4992edec8f73f1eb67e09edf0e81",
+    "bytes": 8255
+  },
+  {
+    "path": "report/report.pdf",
+    "sha256": "e3ce370bfd4f79619c943a49c59ea547df0a0f4fe852795a85df391d5e00ccbd",
+    "bytes": 739823
+  }
+]

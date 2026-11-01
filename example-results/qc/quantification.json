@@ -1,0 +1,115 @@
+{
+  "checked_at": "2026-10-28T22:47:05.920826+00:00",
+  "errors": [],
+  "passed": true,
+  "samples": [
+    {
+      "assigned_fragments": 31339012.006999675,
+      "library_types": "IU",
+      "mapped_pairs": 31339012,
+      "mapping_percent": 83.51258281703484,
+      "processed_pairs": 37526096,
+      "sample_id": "C111",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 29296457.068000007,
+      "library_types": "IU",
+      "mapped_pairs": 29296457,
+      "mapping_percent": 86.13311168476102,
+      "processed_pairs": 34013002,
+      "sample_id": "C112",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 27816729.06899967,
+      "library_types": "IU",
+      "mapped_pairs": 27816729,
+      "mapping_percent": 83.80877962538312,
+      "processed_pairs": 33190710,
+      "sample_id": "C113",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 28215623.020999733,
+      "library_types": "IU",
+      "mapped_pairs": 28215623,
+      "mapping_percent": 85.98118871252053,
+      "processed_pairs": 32816042,
+      "sample_id": "T111",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 27749475.917999964,
+      "library_types": "IU",
+      "mapped_pairs": 27749476,
+      "mapping_percent": 82.7422794106575,
+      "processed_pairs": 33537239,
+      "sample_id": "T112",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 27365867.978999715,
+      "library_types": "IU",
+      "mapped_pairs": 27365868,
+      "mapping_percent": 83.11738533057635,
+      "processed_pairs": 32924361,
+      "sample_id": "T113",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 26004897.933,
+      "library_types": "IU",
+      "mapped_pairs": 26004898,
+      "mapping_percent": 86.3356506216075,
+      "processed_pairs": 30120695,
+      "sample_id": "C331",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 34616884.06100039,
+      "library_types": "IU",
+      "mapped_pairs": 34616884,
+      "mapping_percent": 84.00656222625489,
+      "processed_pairs": 41207357,
+      "sample_id": "C332",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 30537558.971999947,
+      "library_types": "IU",
+      "mapped_pairs": 30537559,
+      "mapping_percent": 88.4356177059942,
+      "processed_pairs": 34530837,
+      "sample_id": "C333",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 24504981.98400007,
+      "library_types": "IU",
+      "mapped_pairs": 24504982,
+      "mapping_percent": 73.45679539705982,
+      "processed_pairs": 33359721,
+      "sample_id": "T331",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 29150523.124999758,
+      "library_types": "IU",
+      "mapped_pairs": 29150523,
+      "mapping_percent": 84.21088893990562,
+      "processed_pairs": 34616097,
+      "sample_id": "T332",
+      "transcripts": 141450
+    },
+    {
+      "assigned_fragments": 26386484.9789996,
+      "library_types": "IU",
+      "mapped_pairs": 26386485,
+      "mapping_percent": 82.40471244107154,
+      "processed_pairs": 32020602,
+      "sample_id": "T333",
+      "transcripts": 141450
+    }
+  ]
+}

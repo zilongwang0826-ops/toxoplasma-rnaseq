@@ -1,0 +1,10 @@
+parameter	value
+alpha	0.05
+lfc	1.5
+min-count	10
+min-samples	3
+interaction	true
+samples	metadata/samples.tsv
+quant-root	results/salmon
+tx2gene	resources/ensembl100/prepared/tx2gene.tsv
+outdir	results/analysis

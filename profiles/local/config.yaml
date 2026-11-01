@@ -1,0 +1,10 @@
+cores: 2
+jobs: 1
+scheduler: greedy
+printshellcmds: true
+rerun-incomplete: true
+keep-incomplete: true
+latency-wait: 10
+resources:
+  mem_mb: 24000
+  download_slots: 1

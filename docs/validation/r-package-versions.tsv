@@ -1,0 +1,6 @@
+package	version
+DESeq2	1.46.0
+tximport	1.34.0
+AnnotationDbi	1.68.0
+org.Mm.eg.db	3.20.0
+GO.db	3.20.0

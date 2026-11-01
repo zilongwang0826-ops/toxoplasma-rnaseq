@@ -1,0 +1,147 @@
+[
+  {
+    "file": "ena_runs.tsv",
+    "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA483261&result=read_run&fields=run_accession,experiment_accession,sample_accession,secondary_sample_accession,sample_alias,sample_title,library_layout,library_strategy,library_source,library_selection,instrument_model,read_count,base_count,fastq_ftp,fastq_md5,fastq_bytes&format=tsv&download=true",
+    "accessed_utc": "2026-10-27T17:56:46.008490+00:00",
+    "bytes": 5372,
+    "sha256": "bf4c672a1255265d30ad75b6fbdb87baf2bfc507b07afa388743c823c70f2b34"
+  },
+  {
+    "file": "article.html",
+    "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.570903/full",
+    "accessed_utc": "2026-10-27T17:56:46.291638+00:00",
+    "bytes": 956577,
+    "sha256": "ad21d749b1a7638c946f25e1c12ae4c049cce52cf1c594acd268bdf421b23674"
+  },
+  {
+    "file": "bioproject.html",
+    "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA483261",
+    "accessed_utc": "2026-10-27T17:56:51.884409+00:00",
+    "bytes": 52928,
+    "sha256": "218bf0824b5a903ddc9c6146bcde36fd086b6509d520141e62abb4d8c1ab9250"
+  },
+  {
+    "file": "pmc_article.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7604304/",
+    "accessed_utc": "2026-10-27T17:57:32.795269+00:00",
+    "bytes": 231604,
+    "sha256": "43a4b140c73404702e90af5bf9b9e8dd693b207855aec96b5f121af658bd43ca"
+  },
+  {
+    "file": "epmc_article.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7604304/fullTextXML",
+    "accessed_utc": "2026-10-27T17:58:27.683137+00:00",
+    "bytes": 133468,
+    "sha256": "3458920842402fbc21bee0502610b9820a36213e1ab4536d569c562521ef0472"
+  },
+  {
+    "file": "biosamples.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=biosample&id=SAMN09725319%2CSAMN09725320%2CSAMN09725321%2CSAMN09725322%2CSAMN09725323%2CSAMN09725324%2CSAMN09725325%2CSAMN09725326%2CSAMN09725327%2CSAMN09725328%2CSAMN09725329%2CSAMN09725330&retmode=xml",
+    "accessed_utc": "2026-10-27T17:58:40.281169+00:00",
+    "bytes": 29590,
+    "sha256": "99cdf6da3eecae7b791c6955b9960cb995f55261e8d789b723e23f692ab61a6b",
+    "retrieval_tool": "Life Science Research ncbi-entrez-skill scripts/ncbi_entrez.py"
+  },
+  {
+    "file": "figshare_collection.json",
+    "url": "https://api.figshare.com/v2/collections/5178827",
+    "accessed_utc": "2026-10-27T19:55:06.916891+00:00",
+    "bytes": 18723,
+    "sha256": "8112c2b270c9e22d20e1654819ce85765966620e28b95b9dbe3c7bfa21fe089d"
+  },
+  {
+    "file": "figshare_articles.json",
+    "url": "https://api.figshare.com/v2/collections/5178827/articles",
+    "accessed_utc": "2026-10-27T19:55:07.148821+00:00",
+    "bytes": 5690,
+    "sha256": "967c461e7800d7db10b73f0da5b72c986d13955d60b7428703a2f4b3fdc46276"
+  },
+  {
+    "file": "figshare_13108874.json",
+    "url": "https://api.figshare.com/v2/articles/13108874",
+    "accessed_utc": "2026-10-27T19:55:17.720483+00:00",
+    "bytes": 19973,
+    "sha256": "eb6886211e4543644bd2637d9c8a856d19d6d7369488e9c1cfb7402f9779f2cc"
+  },
+  {
+    "file": "Table_2.XLSX",
+    "source_name": "Table_2_Transcriptomic Profiling of Mouse Brain During Acute and Chronic Infections by Toxoplasma gondii Oocysts.XLSX",
+    "url": "https://ndownloader.figshare.com/files/25141202",
+    "doi": "10.3389/fmicb.2020.570903.s003",
+    "accessed_utc": "2026-10-27T19:55:18.048923+00:00",
+    "bytes": 13227,
+    "md5": "b16ffbe7af57e943c740c11b97c5d7ef",
+    "sha256": "fee9b8e858d899c6122b5d82210e94115c46e6e75ecb03947d9d8c71dd19feb3",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "file": "figshare_13108877.json",
+    "url": "https://api.figshare.com/v2/articles/13108877",
+    "accessed_utc": "2026-10-27T19:55:18.273645+00:00",
+    "bytes": 19973,
+    "sha256": "e0b83df426abe72dda7708aa4773ba66b5ff93764965f468bd37421c89993fa1"
+  },
+  {
+    "file": "Table_3.XLSX",
+    "source_name": "Table_3_Transcriptomic Profiling of Mouse Brain During Acute and Chronic Infections by Toxoplasma gondii Oocysts.XLSX",
+    "url": "https://ndownloader.figshare.com/files/25141205",
+    "doi": "10.3389/fmicb.2020.570903.s004",
+    "accessed_utc": "2026-10-27T19:55:18.558628+00:00",
+    "bytes": 18772,
+    "md5": "e6ea6eca21c3b6cf816e853407edf3b9",
+    "sha256": "1fd4001c85788a65187c63abd858df444a01084104e5809e6099ed6e44932e24",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "file": "figshare_13108880.json",
+    "url": "https://api.figshare.com/v2/articles/13108880",
+    "accessed_utc": "2026-10-27T19:55:18.812434+00:00",
+    "bytes": 19919,
+    "sha256": "bb17745f8eecad32b92d046b982d0717b06d20bb080ff77c78b242b364c22d17"
+  },
+  {
+    "file": "Table_4.XLSX",
+    "source_name": "Table_4_Transcriptomic Profiling of Mouse Brain During Acute and Chronic Infections by Toxoplasma gondii Oocysts.XLSX",
+    "url": "https://ndownloader.figshare.com/files/25141208",
+    "doi": "10.3389/fmicb.2020.570903.s005",
+    "accessed_utc": "2026-10-27T19:55:19.129453+00:00",
+    "bytes": 34852,
+    "md5": "6386592409cb0ab5d9e68a1e7fb2ef08",
+    "sha256": "520a04b0bf2cec2d4777ef85c614451febf7352275063ac8ce215724f1b69a4d",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "file": "figshare_13108871.json",
+    "url": "https://api.figshare.com/v2/articles/13108871",
+    "accessed_utc": "2026-10-27T19:55:19.365312+00:00",
+    "bytes": 19975,
+    "sha256": "62eb50a822b6786b137cdf58fad89f58666e4712cf0ff46c248eb5d6c784d1c9"
+  },
+  {
+    "file": "Table_1.XLSX",
+    "source_name": "Table_1_Transcriptomic Profiling of Mouse Brain During Acute and Chronic Infections by Toxoplasma gondii Oocysts.XLSX",
+    "url": "https://ndownloader.figshare.com/files/25141199",
+    "doi": "10.3389/fmicb.2020.570903.s002",
+    "accessed_utc": "2026-10-27T19:55:19.736872+00:00",
+    "bytes": 246563,
+    "md5": "3ed575f9ef2544e89668572a03d28887",
+    "sha256": "d22b5bdca4911d56e41795e6aee39be6b247fe5586e93201a0662e255d79f83c",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  }
+]

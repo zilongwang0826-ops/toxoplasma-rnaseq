@@ -1,0 +1,33 @@
+{
+  "doi": "10.3389/fcimb.2021.645778",
+  "title": "Targeted Transcriptomic Analysis of C57BL/6 and BALB/c Mice During Progressive Chronic Toxoplasma gondii Infection Reveals Changes in Host and Parasite Gene Expression Relating to Neuropathology and Resolution",
+  "authors": [
+    "Kristina V. Bergersen",
+    "Ashli Barnes",
+    "Danielle Worth",
+    "Clement David",
+    "Emma H. Wilson"
+  ],
+  "published": "2021-03-18",
+  "journal": "Frontiers in Cellular and Infection Microbiology",
+  "volume": 11,
+  "article": 645778,
+  "pdf_pages": 19,
+  "inspected_pages": [
+    1,
+    5,
+    6,
+    7
+  ],
+  "inspected_figures": [
+    1,
+    2,
+    3
+  ],
+  "captions_inspected": true,
+  "metadata_verified_from": "PDF title page",
+  "article_url": "https://doi.org/10.3389/fcimb.2021.645778",
+  "sha256": "3a2fcca0176c0500d44c2a1c43bdf933615c95c8f8926746350642089af580b4",
+  "access_note": "Historical figure-design inspection used an already retrieved article PDF. Phase 2 retains that inspection record and does not claim a new full-paper visual review.",
+  "local_evidence_note": "The original local storage path is retained in the private audit archive. The article PDF and inspection renders are not distributed with this repository; use the DOI and recorded SHA-256 for source identification."
+}

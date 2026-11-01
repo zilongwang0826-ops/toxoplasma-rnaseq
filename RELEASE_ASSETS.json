@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "archive_name": "toxoplasma-supplementary-vectors.zip",
+  "archive_sha256": "57459957e4f59e38e6d7a7f7970ec7ed37e513367a23b7a8a688720a67950fb6",
+  "archive_size_bytes": 10269658,
+  "publication_status": "Published as a GitHub release attachment",
+  "release_url": "https://github.com/zilongwang0826-ops/toxoplasma-rnaseq/releases/tag/supplementary-vectors",
+  "download_url": "https://github.com/zilongwang0826-ops/toxoplasma-rnaseq/releases/download/supplementary-vectors/toxoplasma-supplementary-vectors.zip",
+  "checksum_url": "https://github.com/zilongwang0826-ops/toxoplasma-rnaseq/releases/download/supplementary-vectors/toxoplasma-supplementary-vectors.zip.sha256",
+  "extraction_root": "toxoplasma-rnaseq repository root",
+  "files": [
+    {
+      "path": "report/figures/redesigned/S_MA_transcript.svg",
+      "sha256": "c6eda4028ee628f86b34b022e2104637abd11f7d3d233adceb785c43db2b3044",
+      "size_bytes": 57142428
+    },
+    {
+      "path": "report/figures/redesigned/S_transcript_differential_expression.svg",
+      "sha256": "f6140b1f3d3bc0c4821bc0991a06311372577c44fa83e682491fad2f591f80a0",
+      "size_bytes": 57946074
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Exploratory: (infected33 - control33) - (infected11 - control11).
+Cross-sectional design; no pairing or repeated measures are assumed.
+Coefficient: day33.conditioninfected

@@ -1,0 +1,47 @@
+{
+  "assigned_fragments": 31339012.006999675,
+  "checked_at": "2026-10-28T06:11:09.430090+00:00",
+  "errors": [],
+  "fastqc": {
+    "1": {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "total_sequences": 37526096
+    },
+    "2": {
+      "modules": {
+        "Adapter Content": "PASS",
+        "Basic Statistics": "PASS",
+        "Overrepresented sequences": "PASS",
+        "Per base N content": "PASS",
+        "Per base sequence content": "FAIL",
+        "Per base sequence quality": "PASS",
+        "Per sequence GC content": "WARN",
+        "Per sequence quality scores": "PASS",
+        "Sequence Duplication Levels": "WARN",
+        "Sequence Length Distribution": "PASS"
+      },
+      "total_sequences": 37526096
+    }
+  },
+  "interpretation": "Technical pilot QC; not a differential-expression or reproduction result.",
+  "library_type": [
+    "IU"
+  ],
+  "mapped_pairs": 31339012,
+  "mapping_percent": 83.51258281703484,
+  "passed": true,
+  "processed_pairs": 37526096,
+  "sample": "C111",
+  "transcripts": 141450
+}

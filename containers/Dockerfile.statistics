@@ -1,0 +1,11 @@
+ARG BASE_IMAGE
+FROM ${BASE_IMAGE}
+ARG ENVIRONMENT_FILE=containers/statistics.yaml
+COPY --chown=$MAMBA_USER:$MAMBA_USER ${ENVIRONMENT_FILE} /tmp/environment.yaml
+RUN micromamba config set channel_priority strict && \
+    micromamba install --yes --name base --file /tmp/environment.yaml && \
+    micromamba list --name base --explicit > /opt/conda/explicit-packages.txt
+ENV PATH=/opt/conda/bin:$PATH
+ENV LC_ALL=C.UTF-8
+WORKDIR /work
+RUN Rscript --vanilla -e 'p<-c("DESeq2","tximport","AnnotationDbi","org.Mm.eg.db","GO.db"); stopifnot(all(vapply(p,requireNamespace,logical(1),quietly=TRUE))); write.table(data.frame(package=p,version=vapply(p,function(x)as.character(packageVersion(x)),character(1))),"/tmp/r-package-versions.tsv",sep="\t",row.names=FALSE,quote=FALSE)'

@@ -1,0 +1,12 @@
+name: tools
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12.9
+  - salmon=1.10.3
+  - fastqc=0.12.1
+  - fastp=0.24.0
+  - multiqc=1.27
+  - curl=8.12.1
+  - git=2.49.0

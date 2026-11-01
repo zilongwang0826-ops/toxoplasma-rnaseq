@@ -1,0 +1,3 @@
+"day"	"level"	"selection"	"published_selected"	"published_available"	"published_testable"	"published_FDR_eligible"	"reanalysis_selected"	"shared_selected"	"published_list_recovery"	"jaccard"	"finite_effect_pairs"	"same_direction_fraction"	"effect_spearman"	"stage"	"recovery_label"
+11	"transcript"	"significant"	936	936	760	760	854	696	0.743589743589744	0.636197440585009	760	0.996052631578947	0.878021867474803	"11 dpi"	"696 / 936 selected transcripts recovered (74.36%)"
+33	"transcript"	"significant"	2081	2081	1741	1741	1905	1624	0.780394041326285	0.687552921253175	1743	0.997705106138841	0.932812261968955	"33 dpi"	"1624 / 2081 selected transcripts recovered (78.04%)"

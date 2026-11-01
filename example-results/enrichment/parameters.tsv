@@ -1,0 +1,8 @@
+parameter	value
+alpha	0.05
+min-size	10
+max-size	500
+kegg-tsv	
+analysis	results/analysis
+tx2gene	resources/ensembl100/prepared/tx2gene.tsv
+outdir	results/enrichment

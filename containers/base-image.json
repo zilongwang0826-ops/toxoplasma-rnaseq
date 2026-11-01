@@ -1,0 +1,7 @@
+{
+  "repository": "mambaorg/micromamba",
+  "tag": "2.4.0",
+  "manifest_digest": "sha256:10bd2dd2e7bfae77e529c76a71f4126c222d74e99b908abc6e210da9eda0f6af",
+  "verified_at": "2026-10-27",
+  "source": "https://registry-1.docker.io/v2/mambaorg/micromamba/manifests/2.4.0"
+}

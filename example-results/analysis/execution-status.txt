@@ -1,0 +1,5 @@
+Status: executed
+Finished UTC: 2026-10-28 22:52:39 UTC
+Per-day design: ~ condition; contrast infected versus control.
+Primary: BH-adjusted P < alpha and |unshrunken log2FC| > cutoff.
+Nominal-P sensitivity is exploratory. Execution alone does not establish reproduction.

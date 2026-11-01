@@ -1,0 +1,606 @@
+{
+  "commit": "259b563360bc24e5022bc71eaa48e8f179627aea",
+  "commit_scope": "Source state when this provenance record was generated; earlier stages may use earlier launch revisions.",
+  "completed_at": "2026-10-28T23:39:03.044961+00:00",
+  "containers": {
+    "base_image": "mambaorg/micromamba@sha256:10bd2dd2e7bfae77e529c76a71f4126c222d74e99b908abc6e210da9eda0f6af",
+    "built_at": "2026-10-27T20:35:20.108543+00:00",
+    "images": {
+      "statistics": {
+        "architecture": "amd64",
+        "id": "sha256:52ccc5c2e434ae7bb02526cf576030cebef6f73c760240bff9208507f2626b45",
+        "recipe_sha256": {
+          "containers/Dockerfile.statistics": "515be9de35645c70e5fa729d2ac52cbf90d6b1e222a95c1df94d47dce862203f",
+          "containers/statistics.yaml": "db1d9bcbde8e053465023765e57e22c746a5a167c1e8c14798f0bd1c0c32ba49"
+        },
+        "tag": "projet2-statistics:2026.1"
+      },
+      "tools": {
+        "architecture": "amd64",
+        "id": "sha256:ab96a08b7ee5aadab6b329cd658e8cd60776ca5da3ffa67e7437c922e32e4710",
+        "recipe_sha256": {
+          "containers/Dockerfile.tools": "8cfe02eae1a0f63c6d41e3fe0591280e3277fc6fb45b3ea736f6b40ca6a312d0",
+          "containers/tools.yaml": "c5d64103c28418e45a255b36a09bcfd784ee7706aec9871c88ae7cd686868b03"
+        },
+        "tag": "projet2-tools:2026.1"
+      }
+    }
+  },
+  "download_receipts": {
+    "data/fastq/C111_1.fastq.gz.source.json": {
+      "bytes": 3042941709,
+      "md5": "9869f203d9fd6ef2d0e3713b25c73d2c",
+      "retrieved_at": "2026-10-27T21:26:51.099714+00:00",
+      "sha256": "02439d2a2140dc47a040f3fe1f5cba7eb63893709c09cc799a81ecc6dae85ad6",
+      "source_md5": "9869f203d9fd6ef2d0e3713b25c73d2c",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/007/SRR7657877/SRR7657877_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C111_2.fastq.gz.source.json": {
+      "bytes": 3359193762,
+      "md5": "6d63ddb6087225ea7807b452cd2b1f95",
+      "retrieved_at": "2026-10-27T21:07:57.145070+00:00",
+      "sha256": "a290768729345a68e0085c88bbfb687d07db67ef829a33b0bdf5fb5cdc6b8df3",
+      "source_md5": "6d63ddb6087225ea7807b452cd2b1f95",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/007/SRR7657877/SRR7657877_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C112_1.fastq.gz.source.json": {
+      "bytes": 2745608069,
+      "md5": "d7dab67c7e87ba436b76bb48e65f7272",
+      "retrieved_at": "2026-10-28T19:35:25.046608+00:00",
+      "sha256": "0d8dbb935acf5a3f999997b39833faa64a812ace19d36e99518dd9f929e22a28",
+      "source_md5": "d7dab67c7e87ba436b76bb48e65f7272",
+      "transfer_attempts_this_invocation": 2,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/006/SRR7657876/SRR7657876_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C112_2.fastq.gz.source.json": {
+      "bytes": 3080546270,
+      "md5": "9cdee5c4ab7159af3cd3fae98e5dca5b",
+      "retrieved_at": "2026-10-28T11:49:55.574379+00:00",
+      "sha256": "e13d38be989afaf274d06da1bc7ee9abf389bc581141926c026ac20f65f4470a",
+      "source_md5": "9cdee5c4ab7159af3cd3fae98e5dca5b",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/006/SRR7657876/SRR7657876_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C113_1.fastq.gz.source.json": {
+      "bytes": 2689676949,
+      "md5": "648cd7a1495317897a3c4b1698c79dba",
+      "retrieved_at": "2026-10-28T08:43:41.795938+00:00",
+      "sha256": "cd953af387463ae373f5a0ae81971d8fba3c18dfc86e6afa1f111c1e465693fb",
+      "source_md5": "648cd7a1495317897a3c4b1698c79dba",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/009/SRR7657879/SRR7657879_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C113_2.fastq.gz.source.json": {
+      "bytes": 3008289903,
+      "md5": "459d049bfe739e1534d73c7458936923",
+      "retrieved_at": "2026-10-28T17:05:21.960023+00:00",
+      "sha256": "043521862d39de8527b9d18807c7335f451c89fb383a92cf5f755829027d2274",
+      "source_md5": "459d049bfe739e1534d73c7458936923",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/009/SRR7657879/SRR7657879_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C331_1.fastq.gz.source.json": {
+      "bytes": 2350700162,
+      "md5": "75bb1bad8edf425eb800ceefdef75eeb",
+      "retrieved_at": "2026-10-28T16:04:59.731085+00:00",
+      "sha256": "9a99c5bbc7b96834caaa940427848b1c43229729f3989fa9a1521cf88042dc3e",
+      "source_md5": "75bb1bad8edf425eb800ceefdef75eeb",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657883/SRR7657883_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C331_2.fastq.gz.source.json": {
+      "bytes": 2697775876,
+      "md5": "266bdd18d7fdac6f2a93abf060846f2c",
+      "retrieved_at": "2026-10-28T09:41:44.597544+00:00",
+      "sha256": "dd85dd183c6e15149e40d1c11aa41454ca2bae691b226f1047ca96d2aebb40a0",
+      "source_md5": "266bdd18d7fdac6f2a93abf060846f2c",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657883/SRR7657883_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C332_1.fastq.gz.source.json": {
+      "bytes": 3312506242,
+      "md5": "c3df55ce77bd18fa916ba5d7cdf524b5",
+      "retrieved_at": "2026-10-28T08:27:30.888397+00:00",
+      "sha256": "18606f4b23ba2ab1cb7eddd831a4cb125e066664e34a18a7bafa0cbd413f72b9",
+      "source_md5": "c3df55ce77bd18fa916ba5d7cdf524b5",
+      "transfer_attempts_this_invocation": 3,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657882/SRR7657882_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C332_2.fastq.gz.source.json": {
+      "bytes": 3788604619,
+      "md5": "3db66d33319b23e9e05805d279f7a973",
+      "retrieved_at": "2026-10-28T12:08:33.516538+00:00",
+      "sha256": "21b9997d1c0c6d82d41507be662fa2428b70af34d302dfc786601ae904e019f2",
+      "source_md5": "3db66d33319b23e9e05805d279f7a973",
+      "transfer_attempts_this_invocation": 2,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657882/SRR7657882_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C333_1.fastq.gz.source.json": {
+      "bytes": 2694272447,
+      "md5": "32c2413b6278bc944250ac5b8f747d37",
+      "retrieved_at": "2026-10-28T09:28:09.170576+00:00",
+      "sha256": "a623f32931946064cc2869dde74164523368fb6ba80d4ac3d8bc20ef368d33de",
+      "source_md5": "32c2413b6278bc944250ac5b8f747d37",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/005/SRR7657875/SRR7657875_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/C333_2.fastq.gz.source.json": {
+      "bytes": 3089849175,
+      "md5": "57f07bd4bb74e8d5191554ed9f4aad97",
+      "retrieved_at": "2026-10-28T21:53:20.466552+00:00",
+      "sha256": "a2c4dfceb9e70811fad4cab667ad17ec37b70ad3a1f07392fd21cd9ed8c9d2db",
+      "source_md5": "57f07bd4bb74e8d5191554ed9f4aad97",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/005/SRR7657875/SRR7657875_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T111_1.fastq.gz.source.json": {
+      "bytes": 2653270663,
+      "md5": "c0b9ddad95ff72de63971dd9af857dff",
+      "retrieved_at": "2026-10-28T11:16:09.861661+00:00",
+      "sha256": "622dc38b46d2e02234c44c5ffec62c9a55c625ab399f62b535a9a5241a39f423",
+      "source_md5": "c0b9ddad95ff72de63971dd9af857dff",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/008/SRR7657878/SRR7657878_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T111_2.fastq.gz.source.json": {
+      "bytes": 2965467366,
+      "md5": "29c749f1743c5ce4bb01a7316b82c5e8",
+      "retrieved_at": "2026-10-28T20:45:34.736828+00:00",
+      "sha256": "6e5b16f87e97ce777e7a1f54db3118bb595288c648beefb56b6b71bffc72c284",
+      "source_md5": "29c749f1743c5ce4bb01a7316b82c5e8",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/008/SRR7657878/SRR7657878_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T112_1.fastq.gz.source.json": {
+      "bytes": 2718206890,
+      "md5": "3f7592954fc8e116d5d3900a038ef4e5",
+      "retrieved_at": "2026-10-28T09:57:01.809971+00:00",
+      "sha256": "253dd5be814cac84ba4ba680bb232fee21c85e0ec49ec0528c2b43a5cbc8acf9",
+      "source_md5": "3f7592954fc8e116d5d3900a038ef4e5",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/001/SRR7657881/SRR7657881_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T112_2.fastq.gz.source.json": {
+      "bytes": 3029940866,
+      "md5": "d5043bd577c4439df34e44a12debe74e",
+      "retrieved_at": "2026-10-28T15:00:15.374173+00:00",
+      "sha256": "6db9c10e091b9f7a2de6d889d1ded14640bb887aea66d33e466e5828c3fd8cc8",
+      "source_md5": "d5043bd577c4439df34e44a12debe74e",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/001/SRR7657881/SRR7657881_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T113_1.fastq.gz.source.json": {
+      "bytes": 2673315472,
+      "md5": "8b6c1c975360ff4df2b889c0f8b32cad",
+      "retrieved_at": "2026-10-28T10:12:47.365896+00:00",
+      "sha256": "6fc9ac755d183c45ca44b57b74adf00cb69fa547af6f64a9f8f86c74d4da5ddd",
+      "source_md5": "8b6c1c975360ff4df2b889c0f8b32cad",
+      "transfer_attempts_this_invocation": 2,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/000/SRR7657880/SRR7657880_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T113_2.fastq.gz.source.json": {
+      "bytes": 2977043267,
+      "md5": "b81742edde7efa825e6ca71e8a4d18a5",
+      "retrieved_at": "2026-10-28T08:59:52.455093+00:00",
+      "sha256": "05641a6e60ae555af07317955291f9ff8d1568225abb17aa8b3f43a3a7d5963b",
+      "source_md5": "b81742edde7efa825e6ca71e8a4d18a5",
+      "transfer_attempts_this_invocation": 3,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/000/SRR7657880/SRR7657880_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T331_1.fastq.gz.source.json": {
+      "bytes": 2598313464,
+      "md5": "62d634dfe758350ae86135829ea9a6b1",
+      "retrieved_at": "2026-10-28T11:34:58.738563+00:00",
+      "sha256": "b56d66655cc91dd251c631e1aade753c59305064c255d1fe94a6d33c3003a8d1",
+      "source_md5": "62d634dfe758350ae86135829ea9a6b1",
+      "transfer_attempts_this_invocation": 2,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/004/SRR7657874/SRR7657874_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T331_2.fastq.gz.source.json": {
+      "bytes": 3000225677,
+      "md5": "a5eb825e01b17f94afa42cbd955a7e27",
+      "retrieved_at": "2026-10-28T18:10:25.226105+00:00",
+      "sha256": "30f3bb72fb3103d60e5382e50b04d5e81f05fc16e0ef7d21b23c2cb691fcdc27",
+      "source_md5": "a5eb825e01b17f94afa42cbd955a7e27",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/004/SRR7657874/SRR7657874_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T332_1.fastq.gz.source.json": {
+      "bytes": 2942203219,
+      "md5": "c4f68b47a0195473eecad1be876ce8a2",
+      "retrieved_at": "2026-10-28T06:19:53.014853+00:00",
+      "sha256": "8d43f032093ff152e3825173704cbbc328b7802d40554a51f69a8d88ef412384",
+      "source_md5": "c4f68b47a0195473eecad1be876ce8a2",
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657873/SRR7657873_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T332_2.fastq.gz.source.json": {
+      "bytes": 3339038092,
+      "md5": "cd8e7011652af8acb5ecb870cf678440",
+      "retrieved_at": "2026-10-28T07:14:49.677001+00:00",
+      "sha256": "32fd2b0226f095f7d5916c2075f92033cfb46ae056d41c1da63c5db5324f191b",
+      "source_md5": "cd8e7011652af8acb5ecb870cf678440",
+      "transfer_attempts_this_invocation": 4,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/003/SRR7657873/SRR7657873_2.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T333_1.fastq.gz.source.json": {
+      "bytes": 2523351606,
+      "md5": "7c7d087027c257ece8aca697f35da7d4",
+      "retrieved_at": "2026-10-28T13:23:20.446938+00:00",
+      "sha256": "af17486b5c083cf1930a350543839dfac7697bc532bc6b4d850bd342d474b2e0",
+      "source_md5": "7c7d087027c257ece8aca697f35da7d4",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657872/SRR7657872_1.fastq.gz",
+      "validation": "source MD5 and size"
+    },
+    "data/fastq/T333_2.fastq.gz.source.json": {
+      "bytes": 3041888299,
+      "md5": "17c661992af689224b94dc2665fbd329",
+      "retrieved_at": "2026-10-28T09:14:24.570252+00:00",
+      "sha256": "f4043488789cfc9f6feb55352f00872a16bf6e40675a62d8557b9a67773efd5d",
+      "source_md5": "17c661992af689224b94dc2665fbd329",
+      "transfer_attempts_this_invocation": 1,
+      "url": "https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR765/002/SRR7657872/SRR7657872_2.fastq.gz",
+      "validation": "source MD5 and size"
+    }
+  },
+  "effective_config": {
+    "analysis": {
+      "abs_log2fc": 1.5,
+      "alpha": 0.05,
+      "interaction": true,
+      "min_count": 10,
+      "min_samples": 3
+    },
+    "enrichment": {
+      "kegg_tsv": ""
+    },
+    "output": "results",
+    "project": "toxoplasma-brain-hu2020",
+    "quantification": {
+      "gc_bias": true,
+      "library_type": "A",
+      "min_assigned_fragments": 1000000,
+      "min_mapping_percent": 50,
+      "seq_bias": true,
+      "trim": false,
+      "trim_min_length": 50,
+      "trim_quality": 20,
+      "trimming_reason": ""
+    },
+    "raw": "data/fastq",
+    "reference": {
+      "annotation_release": 100,
+      "assembly": "GRCm38.p6",
+      "cdna_url": "https://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/cdna/Mus_musculus.GRCm38.cdna.all.fa.gz",
+      "decoys": true,
+      "genome_url": "https://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/dna/Mus_musculus.GRCm38.dna.primary_assembly.fa.gz",
+      "gtf_url": "https://ftp.ensembl.org/pub/release-100/gtf/mus_musculus/Mus_musculus.GRCm38.100.chr_patch_hapl_scaff.gtf.gz",
+      "kmer": 31,
+      "ncrna_url": "https://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/ncrna/Mus_musculus.GRCm38.ncrna.fa.gz"
+    },
+    "reference_dir": "resources/ensembl100",
+    "resources": {
+      "analysis_mem_mb": 8000,
+      "download_limit_gib": 80,
+      "download_slots": 1,
+      "index_mem_mb": 22888,
+      "min_free_gib": 140,
+      "quant_mem_mb": 16000,
+      "threads": 2
+    },
+    "samples": "metadata/samples.tsv"
+  },
+  "input_and_source_sha256": {
+    "config/config.yaml": "c8efd8de4007dbfdb75e8eab8c8df2fb3ee930671298216eed00f1df66f19347",
+    "config/workflow-environment.yaml": "207fab9688bb9813b0ffa6a40583730c101f1b58f3b961bbe68e0efef7d8fad0",
+    "containers/base-image.json": "7fed98533eb1b8a108bc3a2dca200c57d1ece7f0c8aa19004712ce3b949baedf",
+    "containers/build.sh": "baf0479772fb2a95c00092529254ee2a35f77c7ab4d0d94fed88a7fccb6b6c9b",
+    "containers/images.lock.json": "f9763a5d7be3096b847ccd29b9431da36c22b2b8bf4ddf96bb71858f9d607179",
+    "containers/statistics.yaml": "db1d9bcbde8e053465023765e57e22c746a5a167c1e8c14798f0bd1c0c32ba49",
+    "containers/tools.yaml": "c5d64103c28418e45a255b36a09bcfd784ee7706aec9871c88ae7cd686868b03",
+    "metadata/archive_paper_read_counts.tsv": "cebabade84dc39f4cc464d547f25ed59b05dea64493868aaf8497c5c529fe254",
+    "metadata/build_metadata.py": "8d9df05ac44129559f39dd753f81e25171aede51779d5a837c7e5e531983ba80",
+    "metadata/normalize_supplement.py": "53d9408a8250569b53f2145a136a9ae3272be3a667a84484dcca9d3a131162b8",
+    "metadata/published_dets.tsv": "39b58b871086400ceea1a76850b6ce2dd2cb5c82220e36a2b81054d0c61958a0",
+    "metadata/published_dets_validation.json": "19200dec3316f8ede3ef7b8a15968cb0093ef78b7aaca8e3d5a640a2b352fa2d",
+    "metadata/published_table1_acute.tsv": "2d7386bd493eb9f5d3f36db1063ea53b674a4c9e542c6513ca8a1573e0b1ae71",
+    "metadata/published_table1_chronic.tsv": "13097517223c2b0fae730fc1fddcae6669260e9871929d11880e7be8deb7bb27",
+    "metadata/samples.tsv": "12090b453fe2882745ed0f7facf94150a800c7096cd22846f7bbedb676228967",
+    "metadata/source/ena_runs.tsv": "bf4c672a1255265d30ad75b6fbdb87baf2bfc507b07afa388743c823c70f2b34",
+    "metadata/source/figshare_13108871.json": "62eb50a822b6786b137cdf58fad89f58666e4712cf0ff46c248eb5d6c784d1c9",
+    "metadata/source/figshare_13108874.json": "eb6886211e4543644bd2637d9c8a856d19d6d7369488e9c1cfb7402f9779f2cc",
+    "metadata/source/figshare_13108877.json": "e0b83df426abe72dda7708aa4773ba66b5ff93764965f468bd37421c89993fa1",
+    "metadata/source/figshare_13108880.json": "bb17745f8eecad32b92d046b982d0717b06d20bb080ff77c78b242b364c22d17",
+    "metadata/source/figshare_articles.json": "967c461e7800d7db10b73f0da5b72c986d13955d60b7428703a2f4b3fdc46276",
+    "metadata/source/figshare_collection.json": "8112c2b270c9e22d20e1654819ce85765966620e28b95b9dbe3c7bfa21fe089d",
+    "metadata/source/sources.json": "47c2a8e4de52da8c7c68cb178616889ecf201990338aaf5fe38438ef5559d88e",
+    "metadata/validation.json": "4351f6fc5049ff484a52891e20504be2ff374dcd78169bf309294d8d015bbf3e",
+    "metadata/verify_sources.py": "712cd1f92ae7eba1353a94409cc26d1673b5833e1459180c4f96efe621e3af6b",
+    "profiles/hpc/config.yaml": "3b97776a8fd82fec8d9fa4e13ef7d1995ab61a87db00aecd0c5ba7313c40fde7",
+    "profiles/local/config.yaml": "34f61929656b1777e514d0a85499ab1ea6fa23fde63102e173fc14cb4d87220a",
+    "workflow/rules/acquisition.smk": "fa19df86222a74c6cbfc6bc305fff1c45afc94bd7297e48fbb2a7b7b3ccf34cb",
+    "workflow/rules/analysis.smk": "c6449a5dc88d3bb37b157eeebc9cb603e84d363332b7bfc249feff2e55417737",
+    "workflow/rules/processing.smk": "e063c7746e2f5ead84c51c977308bf3b2b87083db0d2be4ec2ae09a2fbc8bde7",
+    "workflow/scripts/analyze.R": "ccfd0ce87b7ddf5cdf7c576131128bd47006fdfd7f2bd0af8309aba99968837e",
+    "workflow/scripts/build_report.py": "c1f0617fdc4b2304b39025d2efd7ebeae887869c0b9d0db4dd21474787b89681",
+    "workflow/scripts/common.py": "4c2c8eb4468042c76133a4751a7fbdb6e726d7a0ef483e5e8aad484fa85bfe4b",
+    "workflow/scripts/compare_published.R": "17082b6e6c713d86de3ad2899416bcf8a324b9944ccbb072512ff429ee66ca40",
+    "workflow/scripts/container_exec.py": "c354d7071f398cb74b4084a8ad9c4cbfad0d25847bcf08f7b7944ba035ab89bd",
+    "workflow/scripts/download.py": "a1103324b89a68167f67498e9fd37226d7de5234bd0685ac70c2e128bb97cf1f",
+    "workflow/scripts/enrichment.R": "d15aaa6e4ccec9016a0f9b71ca4de452f1dfd2dbc492b4ac2eca32848d05e0ac",
+    "workflow/scripts/locus_sensitivity.R": "7fff8dfe7e51e3002430968e044e62c04568fc6c9f36fd9ad47086cd0da8fed8",
+    "workflow/scripts/model_diagnostics.R": "f2c0c3674041976a7901ca44c1dc9758edef376eca6708af668c0606e6e11528",
+    "workflow/scripts/prepare_reference.py": "c4bf0637cc2d3915e59fedd168c0ee301b3fe97477c162bf2841f23320ff9285",
+    "workflow/scripts/provenance.py": "5e9c989d6ee43a0d97c803deb911ef709e2d8f5793642d1ac316130919eebf5a",
+    "workflow/scripts/publication_figures.R": "af953fa7958e1a869e2ed4afc507738a52ae0c69d3f5a64af7e203c5d7a0ae8d",
+    "workflow/scripts/quant_qc.py": "8673a3ba9e4a8d2cb5daae931b43cbcbd4b7befbbd8bc86760908c5b10fba18c",
+    "workflow/scripts/validate_inputs.py": "87389861fa5166bb14b278ca1d47c9128424863f81aaa627334b3424600e80d0"
+  },
+  "interpretation": "Execution provenance; scientific agreement must be assessed independently.",
+  "launch_records": [
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run results/salmon/C111/quant.sf "
+      ],
+      "commit": "0731b6cfc8bb29142e20ae3d6d9219b654b48e95",
+      "record": "results/launch/20261027T205508Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run resources/ensembl100/source/gtf.gz "
+      ],
+      "commit": "807a371f92afcdf274123441deaf61e9d503a895",
+      "record": "results/launch/20261027T215944Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run resources/ensembl100/prepared/reference.json "
+      ],
+      "commit": "807a371f92afcdf274123441deaf61e9d503a895",
+      "record": "results/launch/20261027T220220Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run results/salmon/C111/quant.sf "
+      ],
+      "commit": "e6df6a484896918fb17d98038326ede5733cedb8",
+      "record": "results/launch/20261027T220918Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run results/salmon/C111/quant.sf "
+      ],
+      "commit": "7a0592f7a9cd6aeff2355cbd47452f46e8ac470d",
+      "record": "results/launch/20261028T010814Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run results/salmon/C111/quant.sf "
+      ],
+      "commit": "b018e137816033148575ed67bfb2b2c37e9a50d6",
+      "record": "results/launch/20261028T051630Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run "
+      ],
+      "commit": "1d829004518985cde20a38d09868a496b0403840",
+      "record": "results/launch/20261028T061110Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run "
+      ],
+      "commit": "feb8fe71b4987a2d53a6a1500333cf75245e9eb2",
+      "record": "results/launch/20261028T070657Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run "
+      ],
+      "commit": "572f8921bf571b2823459dd9da6566b00c2f87fa",
+      "record": "results/launch/20261028T113109Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run "
+      ],
+      "commit": "572f8921bf571b2823459dd9da6566b00c2f87fa",
+      "record": "results/launch/20261028T145722Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run "
+      ],
+      "commit": "945c3c37661f42daa18b3e9feccab4123819c0a2",
+      "record": "results/launch/20261028T231956Z.txt"
+    },
+    {
+      "command_and_settings": [
+        "CONFIG=config/config.yaml",
+        "PROFILE=profiles/local",
+        "./run.sh run "
+      ],
+      "commit": "259b563360bc24e5022bc71eaa48e8f179627aea",
+      "record": "results/launch/20261028T233849Z.txt"
+    }
+  ],
+  "platform": "Linux-6.8.0-90-generic-x86_64-with-glibc2.41",
+  "python": "3.12.9",
+  "quantification_qc": {
+    "checked_at": "2026-10-28T22:47:05.920826+00:00",
+    "errors": [],
+    "passed": true,
+    "samples": [
+      {
+        "assigned_fragments": 31339012.006999675,
+        "library_types": "IU",
+        "mapped_pairs": 31339012,
+        "mapping_percent": 83.51258281703484,
+        "processed_pairs": 37526096,
+        "sample_id": "C111",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 29296457.068000007,
+        "library_types": "IU",
+        "mapped_pairs": 29296457,
+        "mapping_percent": 86.13311168476102,
+        "processed_pairs": 34013002,
+        "sample_id": "C112",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 27816729.06899967,
+        "library_types": "IU",
+        "mapped_pairs": 27816729,
+        "mapping_percent": 83.80877962538312,
+        "processed_pairs": 33190710,
+        "sample_id": "C113",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 28215623.020999733,
+        "library_types": "IU",
+        "mapped_pairs": 28215623,
+        "mapping_percent": 85.98118871252053,
+        "processed_pairs": 32816042,
+        "sample_id": "T111",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 27749475.917999964,
+        "library_types": "IU",
+        "mapped_pairs": 27749476,
+        "mapping_percent": 82.7422794106575,
+        "processed_pairs": 33537239,
+        "sample_id": "T112",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 27365867.978999715,
+        "library_types": "IU",
+        "mapped_pairs": 27365868,
+        "mapping_percent": 83.11738533057635,
+        "processed_pairs": 32924361,
+        "sample_id": "T113",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 26004897.933,
+        "library_types": "IU",
+        "mapped_pairs": 26004898,
+        "mapping_percent": 86.3356506216075,
+        "processed_pairs": 30120695,
+        "sample_id": "C331",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 34616884.06100039,
+        "library_types": "IU",
+        "mapped_pairs": 34616884,
+        "mapping_percent": 84.00656222625489,
+        "processed_pairs": 41207357,
+        "sample_id": "C332",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 30537558.971999947,
+        "library_types": "IU",
+        "mapped_pairs": 30537559,
+        "mapping_percent": 88.4356177059942,
+        "processed_pairs": 34530837,
+        "sample_id": "C333",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 24504981.98400007,
+        "library_types": "IU",
+        "mapped_pairs": 24504982,
+        "mapping_percent": 73.45679539705982,
+        "processed_pairs": 33359721,
+        "sample_id": "T331",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 29150523.124999758,
+        "library_types": "IU",
+        "mapped_pairs": 29150523,
+        "mapping_percent": 84.21088893990562,
+        "processed_pairs": 34616097,
+        "sample_id": "T332",
+        "transcripts": 141450
+      },
+      {
+        "assigned_fragments": 26386484.9789996,
+        "library_types": "IU",
+        "mapped_pairs": 26386485,
+        "mapping_percent": 82.40471244107154,
+        "processed_pairs": 32020602,
+        "sample_id": "T333",
+        "transcripts": 141450
+      }
+    ]
+  },
+  "reference": {
+    "created_at": "2026-10-27T22:03:21.594095+00:00",
+    "decoy_sequences": 66,
+    "duplicate_identical_transcripts_removed": 0,
+    "genes": 53028,
+    "gentrome_sha256": "45fb1d6cf637f8badacf9ab6220daab418100fe8d775d59a0a567f4dff682de7",
+    "input_sha256": {
+      "resources/ensembl100/source/cdna.gz": "2947b18c23ca387ca5509a298c8feaa09b719c0110852851892e973da60ff655",
+      "resources/ensembl100/source/genome.gz": "285bc481d583ab65b13d91853bf743acf950710afb3302264a4b4f116b6049c1",
+      "resources/ensembl100/source/gtf.gz": "5858fe80186a545865e3d9360db30c4cf178328eecb36a53376293b804400c4d",
+      "resources/ensembl100/source/ncrna.gz": "73da1c71a2bd19ea831faa08eb2f4fa64b3e757e8c48a5684944976a2d98a006"
+    },
+    "transcripts": 141450,
+    "tx2gene_sha256": "dd1f002131dc1dd096b3ce8b6947e7a339c47245ec640edf61ead1de685cd691"
+  },
+  "stage_provenance_note": "Retain launch logs and Snakemake per-output metadata. Do not attribute every earlier input or stage to the final report commit.",
+  "tracked_source_dirty": false
+}

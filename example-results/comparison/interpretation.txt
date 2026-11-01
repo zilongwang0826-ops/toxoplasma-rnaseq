@@ -1,0 +1,6 @@
+Comparison uses transcript IDs, with terminal numeric Ensembl versions removed.
+Published tables contain significant hits only. Missing entries are not known negatives.
+List recovery and Jaccard are descriptive agreement statistics, not sensitivity, specificity or scientific validation.
+Effect correlation is conditional on the published selected set and is subject to selection bias.
+Gene-level DE counts must not be compared directly with the published transcript totals.
+The nominal-P sensitivity reuses the published adjusted-P-selected list because nominal P values were not supplied.

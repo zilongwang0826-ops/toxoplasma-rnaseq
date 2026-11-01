@@ -1,0 +1,3 @@
+component	status
+tximport_file_integration	PASS_synthetic
+GO_database_integration	PASS_database_lookup_only

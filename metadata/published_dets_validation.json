@@ -1,0 +1,35 @@
+{
+  "source": "source/Table_1.XLSX",
+  "source_sha256": "d22b5bdca4911d56e41795e6aee39be6b247fe5586e93201a0662e255d79f83c",
+  "source_doi": "10.3389/fmicb.2020.570903.s002",
+  "interpretation": "Published selected DET lists, not independently reproduced results",
+  "nominal_p_values_available": false,
+  "sheets": {
+    "Acute": {
+      "day": 11,
+      "rows": 936,
+      "unique_transcripts": 936,
+      "unique_genes": 701,
+      "upregulated": 789,
+      "downregulated": 147,
+      "min_abs_log2fc": 1.501389933,
+      "max_padj": 0.0498975495963185,
+      "exact_zero_padj": 0,
+      "numeric_gene_symbols": 1
+    },
+    "Chronic": {
+      "day": 33,
+      "rows": 2081,
+      "unique_transcripts": 2081,
+      "unique_genes": 1448,
+      "upregulated": 1908,
+      "downregulated": 173,
+      "min_abs_log2fc": 1.5000992,
+      "max_padj": 0.049931754,
+      "exact_zero_padj": 1,
+      "numeric_gene_symbols": 4
+    }
+  },
+  "shared_up_transcripts": 618,
+  "shared_down_transcripts": 6
+}

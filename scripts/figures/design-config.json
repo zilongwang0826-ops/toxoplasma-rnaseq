@@ -1,0 +1,91 @@
+{
+  "scope": "Presentation only from frozen result tables; no model fitting",
+  "seed": 645778,
+  "threads": 2,
+  "dpi": 360,
+  "colors": {
+    "11_dpi": "#C38317",
+    "33_dpi": "#B24D36",
+    "up": "#B24D36",
+    "down": "#286A8A",
+    "other": "#B5BDC2"
+  },
+  "pca": {
+    "source": "saved coordinates",
+    "equal_axis_units": true,
+    "control": "open circle",
+    "infected": "filled circle",
+    "label_placement": "deterministic finite candidate search with saved plotting-only label coordinates"
+  },
+  "primary_selection": {
+    "adjusted_p_operator": "<",
+    "adjusted_p": 0.05,
+    "absolute_log2_effect_operator": ">",
+    "absolute_log2_effect": 1.5
+  },
+  "volcano": {
+    "zero_adjusted_p_floor": 2.2250738585072014e-308,
+    "shared_day_axes": true,
+    "gene_labels": [
+      "Stat1",
+      "Irf1",
+      "Cxcl9",
+      "Cxcl10",
+      "H2-Ab1"
+    ],
+    "label_iterations": 10000,
+    "label_time_limit": "none"
+  },
+  "ma": {
+    "color_selection": "BH adjusted P < 0.05 only",
+    "effect_clipping": false
+  },
+  "main_go": {
+    "selection": "six narrative themes, not independent or exhaustive",
+    "term_ids": [
+      "GO:0035456",
+      "GO:0034341",
+      "GO:0019882",
+      "GO:0050863",
+      "GO:0046651",
+      "GO:0002250"
+    ]
+  },
+  "supplementary_go": {
+    "n": 15,
+    "order": [
+      "padj",
+      "pvalue",
+      "term_id"
+    ],
+    "selection": "padj < 0.05"
+  },
+  "agreement": {
+    "scope": "finite matched effects on published selected transcript list",
+    "identity_line": true,
+    "regression_fit": false,
+    "shared_limits": [
+      -14,
+      14
+    ]
+  },
+  "heatmaps": {
+    "features": "all 40 saved rows",
+    "columns": "study group order",
+    "rows": "complete-linkage ordering of saved Z scores",
+    "color_scale": "symmetric within each panel"
+  },
+  "report_typography": {
+    "final_A4_essential_minimum_pt": 7.5,
+    "final_A4_supporting_note_minimum_pt": 7.0,
+    "main_source_axis_legend_pt": 11,
+    "main_source_title_pt": 12,
+    "main_source_subtitle_pt": 11,
+    "main_source_note_pt": 10,
+    "pca_label_mm": 4,
+    "gene_label_mm": 3.9,
+    "go_label_mm": 3.8,
+    "recovery_label_mm": 3.8,
+    "measurement": "Searchable source PDF spans multiplied by actual report placement scale; mathematical subscripts are evaluated with their base axis label."
+  }
+}

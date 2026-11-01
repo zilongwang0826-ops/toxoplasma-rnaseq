@@ -1,0 +1,41 @@
+{
+  "image_lock_sha256": "f9763a5d7be3096b847ccd29b9431da36c22b2b8bf4ddf96bb71858f9d607179",
+  "source_sha256": {
+    "scripts/audit_reference_scope.py": "6900ff718b766333c3c8a70f03190762e73a30e280c280521be3966b76f09f17",
+    "scripts/audit_remote.sh": "2548e5252f5372f598551bca88349acc91090923cbd569e618b2c8281d4112a4",
+    "scripts/continue_approved_study.sh": "ae1a994f2a4211cfbc45ea6d1c5520ab7c761488e59425dbd38f4937c64d59c2",
+    "scripts/pilot_gate.py": "4f45c97366f8fd9a5d342792b51c0355fd58e622d28d8a2bdeac4a6dc7c27299",
+    "scripts/prepare_remote.sh": "0a3eb4683415d7e4f39bb6c8d75a77dd2304719a32ef1f18ad70eba05e9f1bc7",
+    "scripts/record_container_validation.py": "c4f49237da0f5a32b2b253aa168f005e6e790bfa5b0dc6ae5ff50951421f4341",
+    "scripts/sync_source.sh": "4b4a9f97ed2c5652b8e362379b046bbb81e06716e8e68b79bdd388f4fb3c98d6",
+    "tests/assert_smoke.py": "d232c229c0dcff63e9501593609af40bd10b20d700c02a9341714d63f1a9cd40",
+    "tests/make_smoke.py": "0ced0e18d7bdfe8aaab2d5ef4fe7f138da31a06137563e2500d070a2672432ac",
+    "tests/run_python_tests.py": "4f52d522679ccca0119db519ff3d52895f7b699850305902e2ad5d190ba46c99",
+    "tests/smoke.smk": "41f036d44dd1cebc4302753b2637d5e64048e2614ce24cc99ff90f0c4baeeb5b",
+    "tests/test_analysis.R": "7e60e9e13079b73e70152fe6d35806425cc086ca578d3d850ebaf8e622c637b3",
+    "tests/test_download_recovery.py": "b02482056cf79e582773a8fb752d76c11a227bf106e036b65eb0d94321a87275",
+    "tests/test_go_integration.R": "5414bdbe7d414d9126ba4de3e56791f34ba97a324927ab8ab3367e029ecb2519",
+    "tests/test_inputs.py": "01de4f0790c40dacbeacdcae3a4afa2477043bb0ead86d5bcd944abc94aa26b7",
+    "tests/test_pilot_gate.py": "9a28e5e29b45209df886224563eb4d544883ae09180a3b594b7bfc39e111935a",
+    "workflow/Snakefile": "fcdedba5075c67f3834509b0dd4e8cc6626c73982293670841515f587445246b",
+    "workflow/rules/acquisition.smk": "fa19df86222a74c6cbfc6bc305fff1c45afc94bd7297e48fbb2a7b7b3ccf34cb",
+    "workflow/rules/analysis.smk": "be4dfc7d49420d1f1c5f2d7679dae14f89da3ec2bece564894c34dab0d6dc954",
+    "workflow/rules/processing.smk": "e063c7746e2f5ead84c51c977308bf3b2b87083db0d2be4ec2ae09a2fbc8bde7",
+    "workflow/scripts/analyze.R": "ccfd0ce87b7ddf5cdf7c576131128bd47006fdfd7f2bd0af8309aba99968837e",
+    "workflow/scripts/build_report.py": "18ed3c3674ccea5e63ed5a9c03a66721c02314d95c175e24dbd53bcaeb4bfdff",
+    "workflow/scripts/common.py": "4c2c8eb4468042c76133a4751a7fbdb6e726d7a0ef483e5e8aad484fa85bfe4b",
+    "workflow/scripts/compare_published.R": "17082b6e6c713d86de3ad2899416bcf8a324b9944ccbb072512ff429ee66ca40",
+    "workflow/scripts/container_exec.py": "c354d7071f398cb74b4084a8ad9c4cbfad0d25847bcf08f7b7944ba035ab89bd",
+    "workflow/scripts/download.py": "a1103324b89a68167f67498e9fd37226d7de5234bd0685ac70c2e128bb97cf1f",
+    "workflow/scripts/enrichment.R": "d15aaa6e4ccec9016a0f9b71ca4de452f1dfd2dbc492b4ac2eca32848d05e0ac",
+    "workflow/scripts/prepare_reference.py": "c4bf0637cc2d3915e59fedd168c0ee301b3fe97477c162bf2841f23320ff9285",
+    "workflow/scripts/provenance.py": "bd9a1fb5291c88ce6f107e4a18d620cec7b94aa9c08347fe1fb36aae70d4e737",
+    "workflow/scripts/quant_qc.py": "8673a3ba9e4a8d2cb5daae931b43cbcbd4b7befbbd8bc86760908c5b10fba18c",
+    "workflow/scripts/validate_inputs.py": "87389861fa5166bb14b278ca1d47c9128424863f81aaa627334b3424600e80d0"
+  },
+  "validated_at": "2026-10-28T07:06:40.466792+00:00",
+  "evidence": [
+    "results/tests/salmon/verified.json",
+    "results/tests/container-analysis/integration-status.tsv"
+  ]
+}

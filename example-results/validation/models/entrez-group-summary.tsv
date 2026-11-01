@@ -1,0 +1,5 @@
+day	direction	entrez_groups_with_multiple_eligible	go_groups_with_multiple_eligible	entrez_groups_with_multiple_selected	go_groups_with_multiple_selected
+11	up	22	20	0	0
+11	down	22	20	0	0
+33	up	22	20	1	1
+33	down	22	20	0	0

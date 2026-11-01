@@ -1,0 +1,1267 @@
+{
+  "status": "PASS",
+  "method": "Source PDF span size multiplied by actual placement scale, cross-checked against final report spans.",
+  "mathematical_subscripts": "Relative mathematical typesetting; base axis label subject to essential-label threshold.",
+  "figures": [
+    {
+      "figure": "F01_sample_structure",
+      "report_page": 3,
+      "scale": 0.7045494313210849,
+      "minimum_essential_pt": 7.750043744531935,
+      "minimum_note_pt": 7.045494313210849,
+      "text": [
+        {
+          "text": "C111",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C112",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C113",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T111",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T112",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T113",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C331",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C332",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C333",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T331",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T332",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T333",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "\u221230",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "\u221220",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "\u221210",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "20",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "PC2 (11.0%)",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "\u221220",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "20",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "40",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "PC1 (77.4%)",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "11 dpi",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "33 dpi",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "control",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "infected",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "Gene\u2212level PCA | 12 libraries",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "Sample relationships",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.45459317585302
+        },
+        {
+          "text": "A",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.45459317585302
+        },
+        {
+          "text": "T113",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T112",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T111",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T333",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T332",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T331",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C333",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C112",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C111",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C332",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C113",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C331",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C331",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C113",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C332",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C111",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C112",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "C333",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T331",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T332",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T333",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T111",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T112",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "T113",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "VST distance",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "20",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "40",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "60",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "80",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "Complete\u2212linkage ordering",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 7.750043744531935
+        },
+        {
+          "text": "Expression distances",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.45459317585302
+        },
+        {
+          "text": "B",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.45459317585302
+        },
+        {
+          "text": "Each point is one reported biological library. Open = control; filled = infected.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.045494313210849
+        },
+        {
+          "text": "PCA uses saved variance\u2212stabilized coordinates; distance uses all count\u2212filtered features.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.045494313210849
+        }
+      ]
+    },
+    {
+      "figure": "F02_gene_differential_expression",
+      "report_page": 4,
+      "scale": 0.7416309803379841,
+      "minimum_essential_pt": 8.157940783717825,
+      "minimum_note_pt": 7.416309803379841,
+      "text": [
+        {
+          "text": "Irf1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Stat1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Cxcl9",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Cxcl10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "H2\u2212Ab1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Irf1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Stat1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Cxcl9",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Cxcl10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "H2\u2212Ab1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "11 dpi  |  496 up / 41 down",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "17528 FDR\u2212eligible; 35500 missing adjusted P",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "33 dpi  |  1173 up / 18 down",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "17990 FDR\u2212eligible; 35038 missing adjusted P",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "\u22125",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "\u22125",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "100",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "200",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "300",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Unshrunken log2 fold change (infected / control)",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "\u2212",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "log",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "10",
+          "role": "mathematical_subscript",
+          "source_pt": 8.0,
+          "effective_pt": 5.933047842703873
+        },
+        {
+          "text": "BH\u2212adjusted P",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Upregulated",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Downregulated",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Other FDR\u2212eligible",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.157940783717825
+        },
+        {
+          "text": "Primary selection: BH\u2212adjusted P < 0.05 and |log2 fold change| > 1.5. All finite FDR\u2212eligible estimates are shown.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.416309803379841
+        },
+        {
+          "text": "Adjusted P = 0 uses the machine\u2212positive floor (2.225e\u2212308); common axes preserve stage comparison.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.416309803379841
+        }
+      ]
+    },
+    {
+      "figure": "F03_immune_programs",
+      "report_page": 5,
+      "scale": 0.7341180760509134,
+      "minimum_essential_pt": 8.075298836560048,
+      "minimum_note_pt": 7.341180760509134,
+      "text": [
+        {
+          "text": "90 genes; FDR 1.6e\u221255",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "43 genes; FDR 1.4e\u221247",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "48 genes; FDR 4.5e\u221244",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "42 genes; FDR 1.3e\u221231",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "55 genes; FDR 1.1e\u221225",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "47 genes; FDR 6.4e\u221222",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "219 genes; FDR 7.4e\u2212143",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "112 genes; FDR 2.3e\u221256",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "116 genes; FDR 1.7e\u221251",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "68 genes; FDR 8.7e\u221251",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "47 genes; FDR 6.0e\u221238",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "56 genes; FDR 1.6e\u221230",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "33 dpi",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "11 dpi",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "1",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "15",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "20",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "25",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0002250",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "adaptive immune response",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0046651",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "lymphocyte proliferation",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0050863",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "regulation of T cell activation",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0019882",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "antigen processing and presentation",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0034341",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "response to type II interferon",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0035456",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "response to interferon\u2212beta",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0002250",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "adaptive immune response",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0046651",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "lymphocyte proliferation",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0050863",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "regulation of T cell activation",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0019882",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "antigen processing and presentation",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0034341",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "response to type II interferon",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "GO:0035456",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "response to interferon\u2212beta",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Enrichment ratio (observed / expected selected\u2212gene proportion)",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Overlapping genes",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "50",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "100",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "200",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Six biological themes chosen to represent the report narrative; they are not independent pathways.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.341180760509134
+        },
+        {
+          "text": "FDR uses the full size\u2212eligible GO family per day and direction.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.341180760509134
+        },
+        {
+          "text": "Across\u2212day FDR differences are not interaction tests.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.341180760509134
+        }
+      ]
+    },
+    {
+      "figure": "F04_published_agreement",
+      "report_page": 6,
+      "scale": 0.7341180760509134,
+      "minimum_essential_pt": 8.075298836560048,
+      "minimum_note_pt": 7.341180760509134,
+      "text": [
+        {
+          "text": "\u221215",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u221210",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u22125",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "15",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Reanalysis log2 fold change",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u221215",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u221210",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u22125",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "15",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Published log2 fold change",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Spearman rho = 0.8780 | same direction 99.61%",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "11 dpi | 760 finite pairs",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.80941691261096
+        },
+        {
+          "text": "A",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.80941691261096
+        },
+        {
+          "text": "\u221215",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u221210",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u22125",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "15",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Reanalysis log2 fold change",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u221215",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u221210",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "\u22125",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "0",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "5",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "10",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "15",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Published log2 fold change",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Spearman rho = 0.9328 | same direction 99.77%",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "33 dpi | 1743 finite pairs",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.80941691261096
+        },
+        {
+          "text": "B",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.80941691261096
+        },
+        {
+          "text": "696 / 936 selected transcripts recovered (74.36%)",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "1624 / 2081 selected transcripts recovered (78.04%)",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "33 dpi",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "11 dpi",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "0%",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "50%",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "100%",
+          "role": "essential",
+          "source_pt": 11.0,
+          "effective_pt": 8.075298836560048
+        },
+        {
+          "text": "Published\u2212list recovery",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.80941691261096
+        },
+        {
+          "text": "C",
+          "role": "essential",
+          "source_pt": 12.0,
+          "effective_pt": 8.80941691261096
+        },
+        {
+          "text": "Correlation and direction agreement are conditional on finite effects in the published selected transcript list.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.341180760509134
+        },
+        {
+          "text": "The dashed line denotes equal effects. Recovery uses all published selected transcripts;",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.341180760509134
+        },
+        {
+          "text": "it is not genome\u2212wide accuracy.",
+          "role": "note",
+          "source_pt": 10.0,
+          "effective_pt": 7.341180760509134
+        }
+      ]
+    }
+  ]
+}

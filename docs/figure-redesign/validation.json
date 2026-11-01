@@ -1,0 +1,4430 @@
+{
+  "status": "PASS",
+  "baseline_tables": 106,
+  "original_assets_unchanged": 121,
+  "figure_sets": 24,
+  "report_pages": 6,
+  "checks": [
+    {
+      "check": "All frozen baseline tables unchanged",
+      "status": "PASS",
+      "tables": 106
+    },
+    {
+      "check": "All original standalone figure assets unchanged",
+      "status": "PASS",
+      "files": 121
+    },
+    {
+      "check": "12 distinct sample identities",
+      "status": "PASS"
+    },
+    {
+      "check": "3 libraries per time and condition",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure PCA unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure PCA aligned keys",
+      "status": "PASS",
+      "rows": 12
+    },
+    {
+      "check": "F01_sample_structure PCA PC1",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure PCA PC2",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure group identity",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure full distance matrix",
+      "status": "PASS"
+    },
+    {
+      "check": "gene all all saved heatmap values",
+      "status": "PASS",
+      "features": 40,
+      "libraries": 12
+    },
+    {
+      "check": "S_QC_gene_11 PCA unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 PCA aligned keys",
+      "status": "PASS",
+      "rows": 6
+    },
+    {
+      "check": "S_QC_gene_11 PCA PC1",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 PCA PC2",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 group identity",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 full distance matrix",
+      "status": "PASS"
+    },
+    {
+      "check": "gene 11 all saved heatmap values",
+      "status": "PASS",
+      "features": 40,
+      "libraries": 6
+    },
+    {
+      "check": "S_QC_gene_33 PCA unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 PCA aligned keys",
+      "status": "PASS",
+      "rows": 6
+    },
+    {
+      "check": "S_QC_gene_33 PCA PC1",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 PCA PC2",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 group identity",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 full distance matrix",
+      "status": "PASS"
+    },
+    {
+      "check": "gene 33 all saved heatmap values",
+      "status": "PASS",
+      "features": 40,
+      "libraries": 6
+    },
+    {
+      "check": "F02_gene_differential_expression unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression aligned keys",
+      "status": "PASS",
+      "rows": 35518
+    },
+    {
+      "check": "F02_gene_differential_expression log2FoldChange",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression padj",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression baseMean",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression no eligible points omitted",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression adjusted-P transform",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression unchanged primary thresholds",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression original selection counts",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene aligned keys",
+      "status": "PASS",
+      "rows": 35565
+    },
+    {
+      "check": "S_MA_gene log2FoldChange",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene padj",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene baseMean",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene no eligible points omitted",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene original BH-only color meaning",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene unchanged primary thresholds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene original selection counts",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all PCA unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all PCA aligned keys",
+      "status": "PASS",
+      "rows": 12
+    },
+    {
+      "check": "S_QC_transcript_all PCA PC1",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all PCA PC2",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all group identity",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all full distance matrix",
+      "status": "PASS"
+    },
+    {
+      "check": "transcript all all saved heatmap values",
+      "status": "PASS",
+      "features": 40,
+      "libraries": 12
+    },
+    {
+      "check": "S_QC_transcript_11 PCA unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 PCA aligned keys",
+      "status": "PASS",
+      "rows": 6
+    },
+    {
+      "check": "S_QC_transcript_11 PCA PC1",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 PCA PC2",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 group identity",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 full distance matrix",
+      "status": "PASS"
+    },
+    {
+      "check": "transcript 11 all saved heatmap values",
+      "status": "PASS",
+      "features": 40,
+      "libraries": 6
+    },
+    {
+      "check": "S_QC_transcript_33 PCA unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 PCA aligned keys",
+      "status": "PASS",
+      "rows": 6
+    },
+    {
+      "check": "S_QC_transcript_33 PCA PC1",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 PCA PC2",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 group identity",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 full distance matrix",
+      "status": "PASS"
+    },
+    {
+      "check": "transcript 33 all saved heatmap values",
+      "status": "PASS",
+      "features": 40,
+      "libraries": 6
+    },
+    {
+      "check": "S_transcript_differential_expression unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression aligned keys",
+      "status": "PASS",
+      "rows": 93577
+    },
+    {
+      "check": "S_transcript_differential_expression log2FoldChange",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression padj",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression baseMean",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression no eligible points omitted",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression adjusted-P transform",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression unchanged primary thresholds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression original selection counts",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript aligned keys",
+      "status": "PASS",
+      "rows": 93771
+    },
+    {
+      "check": "S_MA_transcript log2FoldChange",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript padj",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript baseMean",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript no eligible points omitted",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript original BH-only color meaning",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript unchanged primary thresholds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript original selection counts",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes aligned keys",
+      "status": "PASS",
+      "rows": 12
+    },
+    {
+      "check": "Main GO themes overlap",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes term_size",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes selected_size",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes universe_size",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes enrichment_ratio",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes pvalue",
+      "status": "PASS"
+    },
+    {
+      "check": "Main GO themes padj",
+      "status": "PASS"
+    },
+    {
+      "check": "Same six GO themes at both times",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 aligned keys",
+      "status": "PASS",
+      "rows": 15
+    },
+    {
+      "check": "GO primary 11 overlap",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 term_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 selected_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 universe_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 enrichment_ratio",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 pvalue",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 padj",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 11 transparent top-15 selection",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 aligned keys",
+      "status": "PASS",
+      "rows": 15
+    },
+    {
+      "check": "GO primary 33 overlap",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 term_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 selected_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 universe_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 enrichment_ratio",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 pvalue",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 padj",
+      "status": "PASS"
+    },
+    {
+      "check": "GO primary 33 transparent top-15 selection",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 aligned keys",
+      "status": "PASS",
+      "rows": 15
+    },
+    {
+      "check": "GO collapsed 11 overlap",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 term_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 selected_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 universe_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 enrichment_ratio",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 pvalue",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 padj",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 11 transparent top-15 selection",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 aligned keys",
+      "status": "PASS",
+      "rows": 15
+    },
+    {
+      "check": "GO collapsed 33 overlap",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 term_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 selected_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 universe_size",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 enrichment_ratio",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 pvalue",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 padj",
+      "status": "PASS"
+    },
+    {
+      "check": "GO collapsed 33 transparent top-15 selection",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward GO primary 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward universe primary 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward GO primary 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward universe primary 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward GO collapsed 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward universe collapsed 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward GO collapsed 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Downward universe collapsed 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Published pairs 11 unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "Published pairs 11 aligned keys",
+      "status": "PASS",
+      "rows": 760
+    },
+    {
+      "check": "Published pairs 11 log2FoldChange_published",
+      "status": "PASS"
+    },
+    {
+      "check": "Published pairs 11 log2FoldChange_reanalysis",
+      "status": "PASS"
+    },
+    {
+      "check": "All finite published pairs 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Agreement limits include every point 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Conditional Spearman 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Conditional direction agreement 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Published-list recovery denominator 11",
+      "status": "PASS"
+    },
+    {
+      "check": "Published pairs 33 unique keys",
+      "status": "PASS"
+    },
+    {
+      "check": "Published pairs 33 aligned keys",
+      "status": "PASS",
+      "rows": 1743
+    },
+    {
+      "check": "Published pairs 33 log2FoldChange_published",
+      "status": "PASS"
+    },
+    {
+      "check": "Published pairs 33 log2FoldChange_reanalysis",
+      "status": "PASS"
+    },
+    {
+      "check": "All finite published pairs 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Agreement limits include every point 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Conditional Spearman 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Conditional direction agreement 33",
+      "status": "PASS"
+    },
+    {
+      "check": "Published-list recovery denominator 33",
+      "status": "PASS"
+    },
+    {
+      "check": "24 unique manifest entries",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement existing plot_data",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow existing source_tables",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow existing generator",
+      "status": "PASS"
+    },
+    {
+      "check": "24 complete figure sets",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow exports",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "F00_analysis_workflow canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure exports",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "F01_sample_structure canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression exports",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "F02_gene_differential_expression canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs exports",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "F03_immune_programs canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement exports",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "F04_published_agreement canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_11 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_collapsed_33 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_downward_status canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_11 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_GO_primary_33 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_gene canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_MA_transcript canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_11 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_gene_33 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_11 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_33 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_QC_transcript_all canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_11 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_33 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_gene_all canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_11 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_33 canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_heatmap_transcript_all canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression exports",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression single canvas",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression 360 dpi dimensions",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression vector PDF geometry",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression searchable vector text",
+      "status": "PASS"
+    },
+    {
+      "check": "S_transcript_differential_expression canvas text bounds",
+      "status": "PASS"
+    },
+    {
+      "check": "Author and GitHub retained",
+      "status": "PASS"
+    },
+    {
+      "check": "Section 8 remains removed",
+      "status": "PASS"
+    },
+    {
+      "check": "Report embeds vector scientific figures",
+      "status": "PASS"
+    },
+    {
+      "check": "Report contains pages",
+      "status": "PASS",
+      "pages": 6
+    },
+    {
+      "check": "Four main scientific figures embedded",
+      "status": "PASS"
+    },
+    {
+      "check": "Isotropic report placement report/figures/redesigned/F01_sample_structure.pdf",
+      "status": "PASS"
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C111"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C111",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C112"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C112",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C113"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C113",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T111"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T111",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T112"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T112",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T113"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T113",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C331"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C331",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C332"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C332",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C333"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C333",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T331"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T331",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T332"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T332",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T333"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T333",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221230"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221230",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221220"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221220",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221210"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221210",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "0",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "10",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "20"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "20",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "PC2 (11.0%)"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "PC2 (11.0%)",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221220"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "\u221220",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "0",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "20"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "20",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "40"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "40",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "PC1 (77.4%)"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "PC1 (77.4%)",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "11 dpi"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "11 dpi",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "33 dpi"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "33 dpi",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "control"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "control",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "infected"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "infected",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Gene\u2212level PCA | 12 libraries"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Gene\u2212level PCA | 12 libraries",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Sample relationships"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Sample relationships",
+      "effective_pt": 8.45459317585302,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "A"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "A",
+      "effective_pt": 8.45459317585302,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T113"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T113",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T112"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T112",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T111"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T111",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T333"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T333",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T332"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T332",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T331"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T331",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C333"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C333",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C112"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C112",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C111"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C111",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C332"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C332",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C113"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C113",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C331"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C331",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C331"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C331",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C113"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C113",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C332"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C332",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C111"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C111",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C112"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C112",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C333"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "C333",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T331"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T331",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T332"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T332",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T333"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T333",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T111"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T111",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T112"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T112",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T113"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "T113",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "VST distance"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "VST distance",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "0",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "20"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "20",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "40"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "40",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "60"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "60",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "80"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "80",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Complete\u2212linkage ordering"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Complete\u2212linkage ordering",
+      "effective_pt": 7.750043744531935,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Expression distances"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Expression distances",
+      "effective_pt": 8.45459317585302,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "B"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "B",
+      "effective_pt": 8.45459317585302,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Each point is one reported biological library. Open = control; filled = infected."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "Each point is one reported biological library. Open = control; filled = infected.",
+      "effective_pt": 7.045494313210849,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "PCA uses saved variance\u2212stabilized coordinates; distance uses all count\u2212filtered features."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F01_sample_structure",
+      "text": "PCA uses saved variance\u2212stabilized coordinates; distance uses all count\u2212filtered features.",
+      "effective_pt": 7.045494313210849,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Isotropic report placement report/figures/redesigned/F02_gene_differential_expression.pdf",
+      "status": "PASS"
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Irf1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Irf1",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Stat1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Stat1",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl9"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl9",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl10",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "H2\u2212Ab1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "H2\u2212Ab1",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Irf1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Irf1",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Stat1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Stat1",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl9"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl9",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Cxcl10",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "H2\u2212Ab1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "H2\u2212Ab1",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "11 dpi  |  496 up / 41 down"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "11 dpi  |  496 up / 41 down",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "17528 FDR\u2212eligible; 35500 missing adjusted P"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "17528 FDR\u2212eligible; 35500 missing adjusted P",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "33 dpi  |  1173 up / 18 down"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "33 dpi  |  1173 up / 18 down",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "17990 FDR\u2212eligible; 35038 missing adjusted P"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "17990 FDR\u2212eligible; 35038 missing adjusted P",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "\u22125"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "\u22125",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "0",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "5",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "10",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "\u22125"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "\u22125",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "0",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "5",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "10",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "0",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "100"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "100",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "200"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "200",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "300"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "300",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Unshrunken log2 fold change (infected / control)"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Unshrunken log2 fold change (infected / control)",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "\u2212"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "\u2212",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "log"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "log",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "10"
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "BH\u2212adjusted P"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "BH\u2212adjusted P",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Upregulated"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Upregulated",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Downregulated"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Downregulated",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Other FDR\u2212eligible"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Other FDR\u2212eligible",
+      "effective_pt": 8.157940783717825,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Primary selection: BH\u2212adjusted P < 0.05 and |log2 fold change| > 1.5. All finite FDR\u2212eligible estimates are shown."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Primary selection: BH\u2212adjusted P < 0.05 and |log2 fold change| > 1.5. All finite FDR\u2212eligible estimates are shown.",
+      "effective_pt": 7.416309803379841,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Adjusted P = 0 uses the machine\u2212positive floor (2.225e\u2212308); common axes preserve stage comparison."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F02_gene_differential_expression",
+      "text": "Adjusted P = 0 uses the machine\u2212positive floor (2.225e\u2212308); common axes preserve stage comparison.",
+      "effective_pt": 7.416309803379841,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Isotropic report placement report/figures/redesigned/F03_immune_programs.pdf",
+      "status": "PASS"
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "90 genes; FDR 1.6e\u221255"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "90 genes; FDR 1.6e\u221255",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "43 genes; FDR 1.4e\u221247"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "43 genes; FDR 1.4e\u221247",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "48 genes; FDR 4.5e\u221244"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "48 genes; FDR 4.5e\u221244",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "42 genes; FDR 1.3e\u221231"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "42 genes; FDR 1.3e\u221231",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "55 genes; FDR 1.1e\u221225"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "55 genes; FDR 1.1e\u221225",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "47 genes; FDR 6.4e\u221222"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "47 genes; FDR 6.4e\u221222",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "219 genes; FDR 7.4e\u2212143"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "219 genes; FDR 7.4e\u2212143",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "112 genes; FDR 2.3e\u221256"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "112 genes; FDR 2.3e\u221256",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "116 genes; FDR 1.7e\u221251"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "116 genes; FDR 1.7e\u221251",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "68 genes; FDR 8.7e\u221251"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "68 genes; FDR 8.7e\u221251",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "47 genes; FDR 6.0e\u221238"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "47 genes; FDR 6.0e\u221238",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "56 genes; FDR 1.6e\u221230"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "56 genes; FDR 1.6e\u221230",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "33 dpi"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "33 dpi",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "11 dpi"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "11 dpi",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "1"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "1",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "5",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "10",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "15"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "15",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "20"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "20",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "25"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "25",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0002250"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0002250",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "adaptive immune response"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "adaptive immune response",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0046651"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0046651",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "lymphocyte proliferation"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "lymphocyte proliferation",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0050863"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0050863",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "regulation of T cell activation"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "regulation of T cell activation",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0019882"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0019882",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "antigen processing and presentation"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "antigen processing and presentation",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0034341"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0034341",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to type II interferon"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to type II interferon",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0035456"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0035456",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to interferon\u2212beta"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to interferon\u2212beta",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0002250"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0002250",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "adaptive immune response"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "adaptive immune response",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0046651"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0046651",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "lymphocyte proliferation"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "lymphocyte proliferation",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0050863"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0050863",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "regulation of T cell activation"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "regulation of T cell activation",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0019882"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0019882",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "antigen processing and presentation"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "antigen processing and presentation",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0034341"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0034341",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to type II interferon"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to type II interferon",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0035456"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "GO:0035456",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to interferon\u2212beta"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "response to interferon\u2212beta",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Enrichment ratio (observed / expected selected\u2212gene proportion)"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Enrichment ratio (observed / expected selected\u2212gene proportion)",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Overlapping genes"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Overlapping genes",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "50"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "50",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "100"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "100",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "200"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "200",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Six biological themes chosen to represent the report narrative; they are not independent pathways."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Six biological themes chosen to represent the report narrative; they are not independent pathways.",
+      "effective_pt": 7.341180760509134,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "FDR uses the full size\u2212eligible GO family per day and direction."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "FDR uses the full size\u2212eligible GO family per day and direction.",
+      "effective_pt": 7.341180760509134,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Across\u2212day FDR differences are not interaction tests."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F03_immune_programs",
+      "text": "Across\u2212day FDR differences are not interaction tests.",
+      "effective_pt": 7.341180760509134,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Isotropic report placement report/figures/redesigned/F04_published_agreement.pdf",
+      "status": "PASS"
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Reanalysis log2 fold change"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Reanalysis log2 fold change",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Published log2 fold change"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Published log2 fold change",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Spearman rho = 0.8780 | same direction 99.61%"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Spearman rho = 0.8780 | same direction 99.61%",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "11 dpi | 760 finite pairs"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "11 dpi | 760 finite pairs",
+      "effective_pt": 8.80941691261096,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "A"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "A",
+      "effective_pt": 8.80941691261096,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Reanalysis log2 fold change"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Reanalysis log2 fold change",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221215",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u221210",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "\u22125",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "5",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "10",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "15",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Published log2 fold change"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Published log2 fold change",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Spearman rho = 0.9328 | same direction 99.77%"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Spearman rho = 0.9328 | same direction 99.77%",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "33 dpi | 1743 finite pairs"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "33 dpi | 1743 finite pairs",
+      "effective_pt": 8.80941691261096,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "B"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "B",
+      "effective_pt": 8.80941691261096,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "696 / 936 selected transcripts recovered (74.36%)"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "696 / 936 selected transcripts recovered (74.36%)",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "1624 / 2081 selected transcripts recovered (78.04%)"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "1624 / 2081 selected transcripts recovered (78.04%)",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "33 dpi"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "33 dpi",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "11 dpi"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "11 dpi",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0%"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "0%",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "50%"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "50%",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "100%"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "100%",
+      "effective_pt": 8.075298836560048,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Published\u2212list recovery"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Published\u2212list recovery",
+      "effective_pt": 8.80941691261096,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "C"
+    },
+    {
+      "check": "Final-size essential typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "C",
+      "effective_pt": 8.80941691261096,
+      "minimum_pt": 7.5
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Correlation and direction agreement are conditional on finite effects in the published selected transcript list."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "Correlation and direction agreement are conditional on finite effects in the published selected transcript list.",
+      "effective_pt": 7.341180760509134,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "The dashed line denotes equal effects. Recovery uses all published selected transcripts;"
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "The dashed line denotes equal effects. Recovery uses all published selected transcripts;",
+      "effective_pt": 7.341180760509134,
+      "minimum_pt": 7.0
+    },
+    {
+      "check": "Final report font matches source transform",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "it is not genome\u2212wide accuracy."
+    },
+    {
+      "check": "Final-size note typography",
+      "status": "PASS",
+      "figure": "F04_published_agreement",
+      "text": "it is not genome\u2212wide accuracy.",
+      "effective_pt": 7.341180760509134,
+      "minimum_pt": 7.0
+    }
+  ],
+  "limitations": [
+    "Libraries are observed units; pooling and one-mouse-to-one-library independence unresolved.",
+    "No raw processing, model fitting, hypothesis testing or inference rerun.",
+    "Narrative GO selection is illustrative; full rankings and nonsignificant downward results retained."
+  ]
+}

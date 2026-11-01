@@ -1,0 +1,54 @@
+{
+  "report": "report/report.pdf",
+  "units": "PDF points; y measured from page bottom",
+  "placements": [
+    {
+      "report_page": 3,
+      "source_pdf": "report/figures/redesigned/F01_sample_structure.pdf",
+      "x_pt": 44.0,
+      "y_pt": 391.08836395450584,
+      "width_pt": 507.27559055118115,
+      "height_pt": 248.0013998250219,
+      "source_width_pt": 720.0,
+      "source_height_pt": 352.0,
+      "scale_x": 0.7045494313210849,
+      "scale_y": 0.7045494313210849
+    },
+    {
+      "report_page": 4,
+      "source_pdf": "report/figures/redesigned/F02_gene_differential_expression.pdf",
+      "x_pt": 44.0,
+      "y_pt": 513.5197771331216,
+      "width_pt": 507.27559055118115,
+      "height_pt": 277.36998664640606,
+      "source_width_pt": 684.0,
+      "source_height_pt": 374.0,
+      "scale_x": 0.7416309803379841,
+      "scale_y": 0.7416309803379841
+    },
+    {
+      "report_page": 5,
+      "source_pdf": "report/figures/redesigned/F03_immune_programs.pdf",
+      "x_pt": 44.0,
+      "y_pt": 442.18367765534384,
+      "width_pt": 507.27559055118115,
+      "height_pt": 348.70608612418386,
+      "source_width_pt": 691.0,
+      "source_height_pt": 475.0,
+      "scale_x": 0.7341180760509134,
+      "scale_y": 0.7341180760509134
+    },
+    {
+      "report_page": 6,
+      "source_pdf": "report/figures/redesigned/F04_published_agreement.pdf",
+      "x_pt": 44.0,
+      "y_pt": 431.90602459063103,
+      "width_pt": 507.27559055118115,
+      "height_pt": 358.98373918889666,
+      "source_width_pt": 691.0,
+      "source_height_pt": 489.0,
+      "scale_x": 0.7341180760509134,
+      "scale_y": 0.7341180760509134
+    }
+  ]
+}
